@@ -1,0 +1,2002 @@
+[
+  {
+    "palabra": "CASA",
+    "pista": "Edificio o lugar donde vive una persona o familia.",
+    "usado": false
+  },
+  {
+    "palabra": "PERRO",
+    "pista": "Animal doméstico conocido por ladrar.",
+    "usado": false
+  },
+  {
+    "palabra": "GATO",
+    "pista": "Animal doméstico que maúlla y suele cazar pequeños roedores.",
+    "usado": false
+  },
+  {
+    "palabra": "RATON",
+    "pista": "Pequeño roedor de orejas grandes y cola larga, muy común en hogares y graneros.",
+    "usado": false
+  },
+  {
+    "palabra": "CABALLO",
+    "pista": "Animal de cuatro patas, crin y cola largas, usado para montar y tirar de carruajes.",
+    "usado": false
+  },
+  {
+    "palabra": "VACA",
+    "pista": "Animal de granja que produce leche y hace el sonido 'mu'.",
+    "usado": false
+  },
+  {
+    "palabra": "OVEJA",
+    "pista": "Animal de granja cubierto de lana que bala y vive en rebaños.",
+    "usado": false
+  },
+  {
+    "palabra": "CERDO",
+    "pista": "Animal de granja rosado y rechoncho, conocido por gruñir y revolcarse en el barro.",
+    "usado": false
+  },
+  {
+    "palabra": "PATO",
+    "pista": "Ave de plumas impermeables, pico plano y patas palmeadas que nada y grazna.",
+    "usado": false
+  },
+  {
+    "palabra": "GALLINA",
+    "pista": "Ave de corral que cacarea y pone huevos, hembra del gallo.",
+    "usado": false
+  },
+  {
+    "palabra": "LEON",
+    "pista": "Gran felino de melena que vive en manadas y es conocido como el rey de la selva.",
+    "usado": false
+  },
+  {
+    "palabra": "TIGRE",
+    "pista": "Gran felino rayado de naranja y negro, el más grande de los gatos salvajes.",
+    "usado": false
+  },
+  {
+    "palabra": "MONO",
+    "pista": "Primate ágil y curioso que trepa a los árboles y usa las manos con destreza.",
+    "usado": false
+  },
+  {
+    "palabra": "RANA",
+    "pista": "Anfibio verde y saltarín que vive cerca del agua y croa.",
+    "usado": false
+  },
+  {
+    "palabra": "PEZ",
+    "pista": "Animal acuático con escamas, aletas y branquias que respira bajo el agua.",
+    "usado": false
+  },
+  {
+    "palabra": "BALLENA",
+    "pista": "El mamífero más grande del mundo, vive en el mar y respira por un espiráculo.",
+    "usado": false
+  },
+  {
+    "palabra": "DELFIN",
+    "pista": "Mamífero marino muy inteligente que salta y emite silbidos.",
+    "usado": false
+  },
+  {
+    "palabra": "TORTUGA",
+    "pista": "Reptil de movimiento lento protegido por un caparazón duro.",
+    "usado": false
+  },
+  {
+    "palabra": "LOBO",
+    "pista": "Mamífero salvaje parecido al perro que vive en manadas y aúlla.",
+    "usado": false
+  },
+  {
+    "palabra": "OSO",
+    "pista": "Gran mamífero peludo y omnívoro que hiberna en invierno.",
+    "usado": false
+  },
+  {
+    "palabra": "ARBOL",
+    "pista": "Planta de tronco leñoso con ramas y hojas.",
+    "usado": false
+  },
+  {
+    "palabra": "FLOR",
+    "pista": "Parte de la planta, generalmente colorida y perfumada, que atrae a los insectos.",
+    "usado": false
+  },
+  {
+    "palabra": "HOJA",
+    "pista": "Parte plana y verde de una planta que sale de las ramas.",
+    "usado": false
+  },
+  {
+    "palabra": "RIO",
+    "pista": "Corriente de agua dulce que fluye de manera continua hacia el mar o un lago.",
+    "usado": false
+  },
+  {
+    "palabra": "MAR",
+    "pista": "Gran extensión de agua salada que rodea los continentes.",
+    "usado": false
+  },
+  {
+    "palabra": "LAGO",
+    "pista": "Masa de agua dulce rodeada de tierra por todos sus lados.",
+    "usado": false
+  },
+  {
+    "palabra": "MONTAÑA",
+    "pista": "Gran elevación natural del terreno con cima puntiaguda o redondeada.",
+    "usado": false
+  },
+  {
+    "palabra": "NUBE",
+    "pista": "Masa de pequeñas gotas de agua suspendidas en el cielo.",
+    "usado": false
+  },
+  {
+    "palabra": "LLUVIA",
+    "pista": "Agua que cae del cielo en forma de gotas.",
+    "usado": false
+  },
+  {
+    "palabra": "NIEVE",
+    "pista": "Agua helada que cae del cielo en forma de copos blancos.",
+    "usado": false
+  },
+  {
+    "palabra": "SOL",
+    "pista": "Estrella de nuestro sistema solar que nos da luz y calor.",
+    "usado": false
+  },
+  {
+    "palabra": "LUNA",
+    "pista": "Satélite natural de la Tierra que brilla en el cielo nocturno.",
+    "usado": false
+  },
+  {
+    "palabra": "ESTRELLA",
+    "pista": "Cuerpo celeste que brilla en el cielo por la noche.",
+    "usado": false
+  },
+  {
+    "palabra": "VIENTO",
+    "pista": "Movimiento del aire que puede ser suave o muy fuerte.",
+    "usado": false
+  },
+  {
+    "palabra": "FUEGO",
+    "pista": "Luz y calor producidos por la combustión de algo.",
+    "usado": false
+  },
+  {
+    "palabra": "TIERRA",
+    "pista": "Planeta en el que vivimos, también llamado el planeta azul.",
+    "usado": false
+  },
+  {
+    "palabra": "PLAYA",
+    "pista": "Franja de arena o guijarros junto al mar o a un lago.",
+    "usado": false
+  },
+  {
+    "palabra": "ISLA",
+    "pista": "Porción de tierra rodeada de agua por todos sus lados.",
+    "usado": false
+  },
+  {
+    "palabra": "BOSQUE",
+    "pista": "Terreno amplio cubierto de árboles y vegetación.",
+    "usado": false
+  },
+  {
+    "palabra": "CAMPO",
+    "pista": "Terreno abierto y llano, lejos de la ciudad, donde se cultivan plantas.",
+    "usado": false
+  },
+  {
+    "palabra": "MESA",
+    "pista": "Mueble con superficie plana y patas, donde se come o se trabaja.",
+    "usado": false
+  },
+  {
+    "palabra": "SILLA",
+    "pista": "Mueble con respaldo y cuatro patas para sentarse una persona.",
+    "usado": false
+  },
+  {
+    "palabra": "PUERTA",
+    "pista": "Panel que abre y cierra el acceso a una habitación o edificio.",
+    "usado": false
+  },
+  {
+    "palabra": "VENTANA",
+    "pista": "Abertura en una pared con cristal que da paso a la luz y al aire.",
+    "usado": false
+  },
+  {
+    "palabra": "CAMA",
+    "pista": "Mueble donde nos tumbamos para dormir.",
+    "usado": false
+  },
+  {
+    "palabra": "SOFA",
+    "pista": "Asiento cómodo y acolchado con respaldo, para varias personas.",
+    "usado": false
+  },
+  {
+    "palabra": "ARMARIO",
+    "pista": "Mueble grande con puertas para guardar ropa y objetos.",
+    "usado": false
+  },
+  {
+    "palabra": "LAMPARA",
+    "pista": "Aparato que produce luz eléctrica para iluminar una habitación.",
+    "usado": false
+  },
+  {
+    "palabra": "RELOJ",
+    "pista": "Aparato que mide y muestra la hora.",
+    "usado": false
+  },
+  {
+    "palabra": "ESPEJO",
+    "pista": "Superficie de cristal que refleja la imagen de quien se mira en él.",
+    "usado": false
+  },
+  {
+    "palabra": "COCHE",
+    "pista": "Vehículo de cuatro ruedas con motor que se usa para transportar personas.",
+    "usado": false
+  },
+  {
+    "palabra": "TREN",
+    "pista": "Vehículo formado por vagones que circula sobre raíles.",
+    "usado": false
+  },
+  {
+    "palabra": "AVION",
+    "pista": "Vehículo volador con alas y motor que transporta personas por el aire.",
+    "usado": false
+  },
+  {
+    "palabra": "BARCO",
+    "pista": "Vehículo que flota y navega por el agua.",
+    "usado": false
+  },
+  {
+    "palabra": "BICICLETA",
+    "pista": "Vehículo de dos ruedas que avanza mediante pedales.",
+    "usado": false
+  },
+  {
+    "palabra": "PATINETE",
+    "pista": "Vehículo pequeño con dos ruedas y un manillar que se impulsa con el pie.",
+    "usado": false
+  },
+  {
+    "palabra": "MOTO",
+    "pista": "Vehículo de dos ruedas con motor, más pequeño que un coche.",
+    "usado": false
+  },
+  {
+    "palabra": "AUTOBUS",
+    "pista": "Vehículo grande que transporta a muchas personas por la ciudad o entre ciudades.",
+    "usado": false
+  },
+  {
+    "palabra": "CAMION",
+    "pista": "Vehículo de carga grande y pesado que transporta mercancías.",
+    "usado": false
+  },
+  {
+    "palabra": "METRO",
+    "pista": "Tren subterráneo que circula por las ciudades.",
+    "usado": false
+  },
+  {
+    "palabra": "LAPIZ",
+    "pista": "Utensilio de escritura con una mina de grafito en su interior.",
+    "usado": false
+  },
+  {
+    "palabra": "GOMA",
+    "pista": "Utensilio de goma que sirve para borrar lo escrito con lápiz.",
+    "usado": false
+  },
+  {
+    "palabra": "LIBRO",
+    "pista": "Conjunto de páginas encuadernadas con texto o imágenes.",
+    "usado": false
+  },
+  {
+    "palabra": "CUADERNO",
+    "pista": "Conjunto de hojas en blanco encuadernadas para escribir o dibujar.",
+    "usado": false
+  },
+  {
+    "palabra": "MOCHILA",
+    "pista": "Bolsa con asas que se lleva a la espalda para transportar cosas.",
+    "usado": false
+  },
+  {
+    "palabra": "REGLA",
+    "pista": "Utensilio plano y recto que sirve para medir y trazar líneas.",
+    "usado": false
+  },
+  {
+    "palabra": "TIJERA",
+    "pista": "Herramienta de dos hojas cruzadas que sirve para cortar.",
+    "usado": false
+  },
+  {
+    "palabra": "PINCEL",
+    "pista": "Utensilio con cerdas en la punta para aplicar pintura.",
+    "usado": false
+  },
+  {
+    "palabra": "ROTULADOR",
+    "pista": "Utensilio de escritura con punta de fieltro y tinta de colores.",
+    "usado": false
+  },
+  {
+    "palabra": "PAPEL",
+    "pista": "Material delgado y flexible hecho de fibras vegetales, usado para escribir.",
+    "usado": false
+  },
+  {
+    "palabra": "MAESTRO",
+    "pista": "Persona que enseña a los alumnos en la escuela.",
+    "usado": false
+  },
+  {
+    "palabra": "ALUMNO",
+    "pista": "Persona que aprende en la escuela o bajo la enseñanza de alguien.",
+    "usado": false
+  },
+  {
+    "palabra": "COLEGIO",
+    "pista": "Edificio donde los niños acuden a aprender.",
+    "usado": false
+  },
+  {
+    "palabra": "CLASE",
+    "pista": "Habitación donde el maestro enseña y los alumnos aprenden.",
+    "usado": false
+  },
+  {
+    "palabra": "EXAMEN",
+    "pista": "Prueba para comprobar los conocimientos de un alumno.",
+    "usado": false
+  },
+  {
+    "palabra": "PIZARRA",
+    "pista": "Superficie oscura donde se escribe con tiza en el aula.",
+    "usado": false
+  },
+  {
+    "palabra": "PATIO",
+    "pista": "Espacio descubierto dentro de un edificio, especialmente el de la escuela.",
+    "usado": false
+  },
+  {
+    "palabra": "RECREO",
+    "pista": "Descanso entre clases donde los niños juegan en el patio.",
+    "usado": false
+  },
+  {
+    "palabra": "TAREA",
+    "pista": "Trabajo o ejercicio que los alumnos hacen en casa.",
+    "usado": false
+  },
+  {
+    "palabra": "NOTA",
+    "pista": "Calificación que el maestro da a un alumno por su trabajo o examen.",
+    "usado": false
+  },
+  {
+    "palabra": "PAN",
+    "pista": "Alimento elaborado con harina, agua y sal, cocido al horno.",
+    "usado": false
+  },
+  {
+    "palabra": "LECHE",
+    "pista": "Líquido blanco nutritivo que producen las vacas y otros mamíferos.",
+    "usado": false
+  },
+  {
+    "palabra": "AGUA",
+    "pista": "Líquido transparente e inodoro esencial para la vida.",
+    "usado": false
+  },
+  {
+    "palabra": "QUESO",
+    "pista": "Alimento sólido elaborado con leche cuajada.",
+    "usado": false
+  },
+  {
+    "palabra": "YOGUR",
+    "pista": "Alimento cremoso elaborado con leche fermentada.",
+    "usado": false
+  },
+  {
+    "palabra": "GALLETA",
+    "pista": "Pequeña pieza de masa horneada, crujiente y generalmente dulce.",
+    "usado": false
+  },
+  {
+    "palabra": "PASTEL",
+    "pista": "Dulce elaborado con masa horneada, a menudo relleno o cubierto de crema.",
+    "usado": false
+  },
+  {
+    "palabra": "MANZANA",
+    "pista": "Fruta redonda que puede ser roja, verde o amarilla.",
+    "usado": false
+  },
+  {
+    "palabra": "PERA",
+    "pista": "Fruta de forma ovalada, de color verde o amarillo, con sabor dulce y suave.",
+    "usado": false
+  },
+  {
+    "palabra": "PLATANO",
+    "pista": "Fruta alargada y amarilla que los monos adoran.",
+    "usado": false
+  },
+  {
+    "palabra": "FRESA",
+    "pista": "Fruta roja pequeña y jugosa en forma de corazón.",
+    "usado": false
+  },
+  {
+    "palabra": "NARANJA",
+    "pista": "Fruta redonda de color naranja con piel gruesa llena de zumo.",
+    "usado": false
+  },
+  {
+    "palabra": "LIMON",
+    "pista": "Fruta amarilla y muy ácida, usada para dar sabor a comidas y bebidas.",
+    "usado": false
+  },
+  {
+    "palabra": "MELON",
+    "pista": "Fruta grande, ovalada y de carne dulce y jugosa.",
+    "usado": false
+  },
+  {
+    "palabra": "SANDIA",
+    "pista": "Fruta grande, redonda, con la piel verde y la pulpa roja y dulce.",
+    "usado": false
+  },
+  {
+    "palabra": "UVA",
+    "pista": "Pequeña fruta redonda que crece en racimos y puede ser verde o morada.",
+    "usado": false
+  },
+  {
+    "palabra": "KIWI",
+    "pista": "Fruta de piel marrón y peluda con pulpa verde y semillas negras.",
+    "usado": false
+  },
+  {
+    "palabra": "TOMATE",
+    "pista": "Fruta roja y jugosa que se usa mucho en ensaladas y salsas.",
+    "usado": false
+  },
+  {
+    "palabra": "PATATA",
+    "pista": "Tubérculo de piel marrón y carne blanca que crece bajo tierra.",
+    "usado": false
+  },
+  {
+    "palabra": "ZANAHORIA",
+    "pista": "Hortaliza de color naranja, larga y estrecha, que crece bajo tierra.",
+    "usado": false
+  },
+  {
+    "palabra": "PELOTA",
+    "pista": "Objeto redondo y elástico que se lanza, bota y golpea en muchos deportes.",
+    "usado": false
+  },
+  {
+    "palabra": "RAQUETA",
+    "pista": "Utensilio ovalado con mango y red tensada para golpear una pelota.",
+    "usado": false
+  },
+  {
+    "palabra": "PORTERIA",
+    "pista": "Marco con red donde se introduce el balón para marcar un gol.",
+    "usado": false
+  },
+  {
+    "palabra": "GOL",
+    "pista": "Tanto marcado cuando el balón entra en la portería contraria.",
+    "usado": false
+  },
+  {
+    "palabra": "EQUIPO",
+    "pista": "Grupo de personas que juegan juntas en el mismo lado.",
+    "usado": false
+  },
+  {
+    "palabra": "PARTIDO",
+    "pista": "Encuentro deportivo entre dos equipos o jugadores.",
+    "usado": false
+  },
+  {
+    "palabra": "MEDALLA",
+    "pista": "Distinción en forma de disco metálico que se entrega como premio.",
+    "usado": false
+  },
+  {
+    "palabra": "CARRERA",
+    "pista": "Competición en la que los participantes corren para llegar primero.",
+    "usado": false
+  },
+  {
+    "palabra": "SALTO",
+    "pista": "Impulso del cuerpo hacia arriba o hacia adelante despegando los pies del suelo.",
+    "usado": false
+  },
+  {
+    "palabra": "DEPORTE",
+    "pista": "Actividad física que se practica siguiendo unas reglas.",
+    "usado": false
+  },
+  {
+    "palabra": "PAYASO",
+    "pista": "Personaje de circo con nariz roja, ropa colorida y maquillaje que hace reír.",
+    "usado": false
+  },
+  {
+    "palabra": "MAGO",
+    "pista": "Artista que realiza trucos de magia e ilusionismo.",
+    "usado": false
+  },
+  {
+    "palabra": "CIRCO",
+    "pista": "Espectáculo con artistas como payasos, malabaristas y acróbatas.",
+    "usado": false
+  },
+  {
+    "palabra": "TEATRO",
+    "pista": "Edificio donde se representan obras de arte escénico.",
+    "usado": false
+  },
+  {
+    "palabra": "MUSICA",
+    "pista": "Arte de combinar sonidos de forma armoniosa y expresiva.",
+    "usado": false
+  },
+  {
+    "palabra": "CANCION",
+    "pista": "Composición musical con letra que se canta.",
+    "usado": false
+  },
+  {
+    "palabra": "PIANO",
+    "pista": "Instrumento musical con teclas blancas y negras que produce sonidos al pulsarlas.",
+    "usado": false
+  },
+  {
+    "palabra": "GUITARRA",
+    "pista": "Instrumento musical de cuerda con forma de ocho que se toca con los dedos.",
+    "usado": false
+  },
+  {
+    "palabra": "TAMBOR",
+    "pista": "Instrumento de percusión cilíndrico que se golpea con baquetas.",
+    "usado": false
+  },
+  {
+    "palabra": "BAILE",
+    "pista": "Movimiento rítmico del cuerpo al compás de la música.",
+    "usado": false
+  },
+  {
+    "palabra": "PRINCESA",
+    "pista": "Hija de un rey o reina, o mujer con título real.",
+    "usado": false
+  },
+  {
+    "palabra": "REY",
+    "pista": "Monarca masculino que gobierna un reino.",
+    "usado": false
+  },
+  {
+    "palabra": "REINA",
+    "pista": "Monarca femenina o esposa del rey.",
+    "usado": false
+  },
+  {
+    "palabra": "CASTILLO",
+    "pista": "Gran edificio fortificado con torres y murallas propio de la Edad Media.",
+    "usado": false
+  },
+  {
+    "palabra": "DRAGON",
+    "pista": "Criatura fantástica con alas y capaz de escupir fuego.",
+    "usado": false
+  },
+  {
+    "palabra": "PIRATA",
+    "pista": "Persona que saquea barcos en el mar.",
+    "usado": false
+  },
+  {
+    "palabra": "TESORO",
+    "pista": "Conjunto de objetos de gran valor, como oro y joyas.",
+    "usado": false
+  },
+  {
+    "palabra": "ESPADA",
+    "pista": "Arma blanca larga y afilada que se usa para combatir.",
+    "usado": false
+  },
+  {
+    "palabra": "CORONA",
+    "pista": "Aro de metal precioso que llevan los reyes y reinas en la cabeza.",
+    "usado": false
+  },
+  {
+    "palabra": "CABALLERO",
+    "pista": "Hombre que lucha a caballo y con armadura en la Edad Media.",
+    "usado": false
+  },
+  {
+    "palabra": "AMIGO",
+    "pista": "Persona con quien se tiene una relación de afecto y confianza.",
+    "usado": false
+  },
+  {
+    "palabra": "FAMILIA",
+    "pista": "Grupo de personas unidas por parentesco o convivencia.",
+    "usado": false
+  },
+  {
+    "palabra": "PADRE",
+    "pista": "Hombre que tiene hijos.",
+    "usado": false
+  },
+  {
+    "palabra": "MADRE",
+    "pista": "Mujer que tiene hijos.",
+    "usado": false
+  },
+  {
+    "palabra": "HERMANO",
+    "pista": "Hijo del mismo padre y madre que otra persona.",
+    "usado": false
+  },
+  {
+    "palabra": "HERMANA",
+    "pista": "Hija del mismo padre y madre que otra persona.",
+    "usado": false
+  },
+  {
+    "palabra": "ABUELO",
+    "pista": "Padre del padre o de la madre.",
+    "usado": false
+  },
+  {
+    "palabra": "ABUELA",
+    "pista": "Madre del padre o de la madre.",
+    "usado": false
+  },
+  {
+    "palabra": "PRIMO",
+    "pista": "Hijo del tío o de la tía.",
+    "usado": false
+  },
+  {
+    "palabra": "BEBE",
+    "pista": "Niño de muy corta edad.",
+    "usado": false
+  },
+  {
+    "palabra": "DOCTOR",
+    "pista": "Persona que ha estudiado medicina y cura enfermedades.",
+    "usado": false
+  },
+  {
+    "palabra": "POLICIA",
+    "pista": "Persona encargada de mantener el orden y la seguridad.",
+    "usado": false
+  },
+  {
+    "palabra": "BOMBERO",
+    "pista": "Persona que apaga incendios y auxilia en emergencias.",
+    "usado": false
+  },
+  {
+    "palabra": "PANADERO",
+    "pista": "Persona que hace y vende pan.",
+    "usado": false
+  },
+  {
+    "palabra": "PILOTO",
+    "pista": "Persona que conduce un avión.",
+    "usado": false
+  },
+  {
+    "palabra": "COCINERO",
+    "pista": "Persona que prepara y cocina alimentos.",
+    "usado": false
+  },
+  {
+    "palabra": "PINTOR",
+    "pista": "Persona que pinta cuadros u otras superficies.",
+    "usado": false
+  },
+  {
+    "palabra": "GRANJERO",
+    "pista": "Persona que trabaja y cuida una granja.",
+    "usado": false
+  },
+  {
+    "palabra": "MECANICO",
+    "pista": "Persona que repara y mantiene motores y vehículos.",
+    "usado": false
+  },
+  {
+    "palabra": "JARDINERO",
+    "pista": "Persona que cuida y cultiva jardines.",
+    "usado": false
+  },
+  {
+    "palabra": "CAMISETA",
+    "pista": "Prenda de ropa de punto, sin botones, que cubre el torso.",
+    "usado": false
+  },
+  {
+    "palabra": "PANTALON",
+    "pista": "Prenda de ropa que cubre desde la cintura hasta los pies.",
+    "usado": false
+  },
+  {
+    "palabra": "ZAPATO",
+    "pista": "Calzado que cubre y protege el pie.",
+    "usado": false
+  },
+  {
+    "palabra": "ABRIGO",
+    "pista": "Prenda larga y gruesa que protege del frío.",
+    "usado": false
+  },
+  {
+    "palabra": "BUFANDA",
+    "pista": "Prenda larga que se enrolla alrededor del cuello para abrigarse.",
+    "usado": false
+  },
+  {
+    "palabra": "GORRA",
+    "pista": "Prenda para la cabeza con visera que protege del sol.",
+    "usado": false
+  },
+  {
+    "palabra": "GUANTE",
+    "pista": "Prenda que cubre la mano y los dedos para protegerlos del frío.",
+    "usado": false
+  },
+  {
+    "palabra": "BOTA",
+    "pista": "Calzado alto que cubre el pie y parte de la pierna.",
+    "usado": false
+  },
+  {
+    "palabra": "VESTIDO",
+    "pista": "Prenda femenina de una sola pieza que cubre el cuerpo desde los hombros.",
+    "usado": false
+  },
+  {
+    "palabra": "CALCETIN",
+    "pista": "Prenda de punto que cubre el pie y parte del tobillo.",
+    "usado": false
+  },
+  {
+    "palabra": "REGALO",
+    "pista": "Objeto que se da a alguien como muestra de afecto o en una celebración.",
+    "usado": false
+  },
+  {
+    "palabra": "JUGUETE",
+    "pista": "Objeto con el que juegan los niños.",
+    "usado": false
+  },
+  {
+    "palabra": "MUÑECA",
+    "pista": "Figura con forma humana que sirve de juguete.",
+    "usado": false
+  },
+  {
+    "palabra": "ROBOT",
+    "pista": "Máquina con forma humanoide que puede realizar tareas automáticamente.",
+    "usado": false
+  },
+  {
+    "palabra": "ROMPECABEZAS",
+    "pista": "Juego que consiste en encajar piezas para formar una imagen.",
+    "usado": false
+  },
+  {
+    "palabra": "COMETA",
+    "pista": "Juguete que vuela atado a un hilo cuando hay viento.",
+    "usado": false
+  },
+  {
+    "palabra": "GLOBO",
+    "pista": "Bolsa de goma que se hincha con aire o gas y flota.",
+    "usado": false
+  },
+  {
+    "palabra": "CANICA",
+    "pista": "Pequeña bola de cristal o cerámica usada en juegos infantiles.",
+    "usado": false
+  },
+  {
+    "palabra": "DOMINO",
+    "pista": "Juego de fichas rectangulares con puntos que se encadenan.",
+    "usado": false
+  },
+  {
+    "palabra": "DADO",
+    "pista": "Cubo pequeño con puntos del uno al seis en cada cara, usado en juegos.",
+    "usado": false
+  },
+  {
+    "palabra": "ORDENADOR",
+    "pista": "Máquina electrónica que procesa información y ejecuta programas.",
+    "usado": false
+  },
+  {
+    "palabra": "TABLETA",
+    "pista": "Dispositivo electrónico con pantalla táctil, más grande que un teléfono.",
+    "usado": false
+  },
+  {
+    "palabra": "TELEFONO",
+    "pista": "Aparato que permite hablar con otras personas a distancia.",
+    "usado": false
+  },
+  {
+    "palabra": "TECLADO",
+    "pista": "Conjunto de teclas de un ordenador o instrumento musical.",
+    "usado": false
+  },
+  {
+    "palabra": "PANTALLA",
+    "pista": "Superficie que muestra imágenes o texto en dispositivos electrónicos.",
+    "usado": false
+  },
+  {
+    "palabra": "ALTAVOZ",
+    "pista": "Aparato que convierte señales eléctricas en sonido.",
+    "usado": false
+  },
+  {
+    "palabra": "AURICULAR",
+    "pista": "Pequeño dispositivo que se pone en el oído para escuchar audio.",
+    "usado": false
+  },
+  {
+    "palabra": "CABLE",
+    "pista": "Hilo conductor recubierto que transporta electricidad o señales.",
+    "usado": false
+  },
+  {
+    "palabra": "BATERIA",
+    "pista": "Dispositivo que almacena energía eléctrica para alimentar aparatos.",
+    "usado": false
+  },
+  {
+    "palabra": "HELADO",
+    "pista": "Alimento dulce y frío hecho con leche o agua congelada y sabores.",
+    "usado": false
+  },
+  {
+    "palabra": "CHOCOLATE",
+    "pista": "Alimento dulce elaborado con cacao, en tableta, líquido o polvo.",
+    "usado": false
+  },
+  {
+    "palabra": "CARAMELO",
+    "pista": "Pequeño dulce de azúcar endurecido, de colores y sabores variados.",
+    "usado": false
+  },
+  {
+    "palabra": "PALOMITAS",
+    "pista": "Granos de maíz reventados por el calor, típicos del cine.",
+    "usado": false
+  },
+  {
+    "palabra": "PIZZA",
+    "pista": "Masa redonda y horneada cubierta de tomate, queso y otros ingredientes.",
+    "usado": true
+  },
+  {
+    "palabra": "HAMBURGUESA",
+    "pista": "Filete de carne picada dentro de un pan redondo.",
+    "usado": false
+  },
+  {
+    "palabra": "ESPAGUETI",
+    "pista": "Pasta italiana en forma de tiras largas y finas.",
+    "usado": false
+  },
+  {
+    "palabra": "TORTILLA",
+    "pista": "Plato hecho con huevos batidos, generalmente con patata en España.",
+    "usado": false
+  },
+  {
+    "palabra": "ARROZ",
+    "pista": "Cereal en forma de granos blancos que se hierve para comer.",
+    "usado": false
+  },
+  {
+    "palabra": "SOPA",
+    "pista": "Plato líquido caliente hecho con caldo y verduras, pasta o carne.",
+    "usado": false
+  },
+  {
+    "palabra": "CEBRA",
+    "pista": "Animal africano parecido al caballo con rayas negras y blancas.",
+    "usado": false
+  },
+  {
+    "palabra": "JIRAFA",
+    "pista": "El animal terrestre más alto, con cuello muy largo y manchas marrones.",
+    "usado": false
+  },
+  {
+    "palabra": "ELEFANTE",
+    "pista": "El mayor animal terrestre, con trompa larga, orejas grandes y colmillos.",
+    "usado": false
+  },
+  {
+    "palabra": "COCODRILO",
+    "pista": "Gran reptil de piel escamosa y mandíbulas enormes que vive en ríos.",
+    "usado": false
+  },
+  {
+    "palabra": "PINGUINO",
+    "pista": "Ave marina de plumaje blanco y negro que no vuela y vive en zonas frías.",
+    "usado": false
+  },
+  {
+    "palabra": "CANGURO",
+    "pista": "Mamífero australiano que salta con las patas traseras y lleva a sus crías en una bolsa.",
+    "usado": false
+  },
+  {
+    "palabra": "AGUILA",
+    "pista": "Ave rapaz de gran tamaño con alas potentes y vista muy aguda.",
+    "usado": false
+  },
+  {
+    "palabra": "BUHO",
+    "pista": "Ave nocturna con ojos grandes y redondos que gira la cabeza casi completamente.",
+    "usado": false
+  },
+  {
+    "palabra": "LORO",
+    "pista": "Ave tropical de plumas coloridas que puede imitar voces y sonidos.",
+    "usado": false
+  },
+  {
+    "palabra": "ERIZO",
+    "pista": "Pequeño mamífero cubierto de púas que se enrolla en bola cuando se asusta.",
+    "usado": false
+  },
+  {
+    "palabra": "SEMAFORO",
+    "pista": "Dispositivo con luces de colores que regula el tráfico en las calles.",
+    "usado": false
+  },
+  {
+    "palabra": "PUENTE",
+    "pista": "Construcción que permite cruzar sobre un río, valle u obstáculo.",
+    "usado": false
+  },
+  {
+    "palabra": "CARRETERA",
+    "pista": "Vía asfaltada por la que circulan los vehículos.",
+    "usado": false
+  },
+  {
+    "palabra": "ACERA",
+    "pista": "Parte elevada de la calle reservada para los peatones.",
+    "usado": false
+  },
+  {
+    "palabra": "PARQUE",
+    "pista": "Zona verde con árboles y jardines para pasear y descansar.",
+    "usado": false
+  },
+  {
+    "palabra": "FUENTE",
+    "pista": "Construcción de la que brota agua, generalmente en plazas y jardines.",
+    "usado": false
+  },
+  {
+    "palabra": "PLAZA",
+    "pista": "Espacio abierto y amplio en el interior de una ciudad o pueblo.",
+    "usado": false
+  },
+  {
+    "palabra": "CIUDAD",
+    "pista": "Conjunto grande de edificios, calles y personas que viven juntas.",
+    "usado": false
+  },
+  {
+    "palabra": "PUEBLO",
+    "pista": "Localidad pequeña con pocos habitantes, generalmente en el campo.",
+    "usado": false
+  },
+  {
+    "palabra": "EDIFICIO",
+    "pista": "Construcción grande con varias plantas y muchas habitaciones.",
+    "usado": false
+  },
+  {
+    "palabra": "VENTILADOR",
+    "pista": "Aparato con aspas giratorias que mueve el aire para refrescar.",
+    "usado": false
+  },
+  {
+    "palabra": "NEVERA",
+    "pista": "Electrodoméstico que conserva los alimentos a baja temperatura.",
+    "usado": false
+  },
+  {
+    "palabra": "HORNO",
+    "pista": "Electrodoméstico que calienta o cocina alimentos mediante calor.",
+    "usado": false
+  },
+  {
+    "palabra": "MICROONDAS",
+    "pista": "Electrodoméstico que calienta alimentos usando ondas electromagnéticas.",
+    "usado": false
+  },
+  {
+    "palabra": "TOALLA",
+    "pista": "Tela absorbente que se usa para secarse el cuerpo.",
+    "usado": false
+  },
+  {
+    "palabra": "JABON",
+    "pista": "Producto que se usa con agua para limpiar la piel.",
+    "usado": false
+  },
+  {
+    "palabra": "CEPILLO",
+    "pista": "Utensilio con cerdas para limpiar los dientes o el cabello.",
+    "usado": false
+  },
+  {
+    "palabra": "PASTA",
+    "pista": "Producto cremoso que se usa con el cepillo para limpiar los dientes.",
+    "usado": false
+  },
+  {
+    "palabra": "PEINE",
+    "pista": "Utensilio con púas para ordenar y desenredar el cabello.",
+    "usado": false
+  },
+  {
+    "palabra": "ALMOHADA",
+    "pista": "Cojín blando que se usa para apoyar la cabeza al dormir.",
+    "usado": false
+  },
+  {
+    "palabra": "ENERO",
+    "pista": "Primer mes del año.",
+    "usado": false
+  },
+  {
+    "palabra": "FEBRERO",
+    "pista": "Mes más corto del año.",
+    "usado": false
+  },
+  {
+    "palabra": "MARZO",
+    "pista": "Tercer mes del año.",
+    "usado": false
+  },
+  {
+    "palabra": "ABRIL",
+    "pista": "Cuarto mes del año.",
+    "usado": false
+  },
+  {
+    "palabra": "MAYO",
+    "pista": "Quinto mes del año.",
+    "usado": false
+  },
+  {
+    "palabra": "JUNIO",
+    "pista": "Sexto mes del año.",
+    "usado": false
+  },
+  {
+    "palabra": "JULIO",
+    "pista": "Séptimo mes del año.",
+    "usado": false
+  },
+  {
+    "palabra": "AGOSTO",
+    "pista": "Octavo mes del año.",
+    "usado": false
+  },
+  {
+    "palabra": "SEPTIEMBRE",
+    "pista": "Noveno mes del año.",
+    "usado": false
+  },
+  {
+    "palabra": "OCTUBRE",
+    "pista": "Décimo mes del año.",
+    "usado": false
+  },
+  {
+    "palabra": "NOVIEMBRE",
+    "pista": "Undécimo mes del año.",
+    "usado": false
+  },
+  {
+    "palabra": "DICIEMBRE",
+    "pista": "Último mes del año.",
+    "usado": false
+  },
+  {
+    "palabra": "LUNES",
+    "pista": "Primer día de la semana laboral en muchos países.",
+    "usado": false
+  },
+  {
+    "palabra": "MARTES",
+    "pista": "Día de la semana situado entre lunes y miércoles.",
+    "usado": false
+  },
+  {
+    "palabra": "MIERCOLES",
+    "pista": "Día de la semana situado entre martes y jueves.",
+    "usado": false
+  },
+  {
+    "palabra": "JUEVES",
+    "pista": "Día de la semana situado entre miércoles y viernes.",
+    "usado": false
+  },
+  {
+    "palabra": "VIERNES",
+    "pista": "Día de la semana situado entre jueves y sábado.",
+    "usado": false
+  },
+  {
+    "palabra": "SABADO",
+    "pista": "Día de la semana que llega después del viernes.",
+    "usado": false
+  },
+  {
+    "palabra": "DOMINGO",
+    "pista": "Día de la semana que precede al lunes.",
+    "usado": false
+  },
+  {
+    "palabra": "VERANO",
+    "pista": "Estación del año más cálida, entre la primavera y el otoño.",
+    "usado": false
+  },
+  {
+    "palabra": "OTOÑO",
+    "pista": "Estación del año en que las hojas caen de los árboles.",
+    "usado": false
+  },
+  {
+    "palabra": "INVIERNO",
+    "pista": "Estación del año más fría, entre el otoño y la primavera.",
+    "usado": false
+  },
+  {
+    "palabra": "PRIMAVERA",
+    "pista": "Estación del año en que florecen las plantas y mejora el tiempo.",
+    "usado": false
+  },
+  {
+    "palabra": "MAÑANA",
+    "pista": "Parte del día comprendida entre el amanecer y el mediodía.",
+    "usado": false
+  },
+  {
+    "palabra": "TARDE",
+    "pista": "Parte del día situada entre el mediodía y la noche.",
+    "usado": false
+  },
+  {
+    "palabra": "NOCHE",
+    "pista": "Periodo de oscuridad entre la puesta y la salida del sol.",
+    "usado": false
+  },
+  {
+    "palabra": "MINUTO",
+    "pista": "Unidad de tiempo equivalente a sesenta segundos.",
+    "usado": false
+  },
+  {
+    "palabra": "HORA",
+    "pista": "Unidad de tiempo equivalente a sesenta minutos.",
+    "usado": false
+  },
+  {
+    "palabra": "CALENDARIO",
+    "pista": "Sistema que organiza el tiempo en días, semanas y meses.",
+    "usado": false
+  },
+  {
+    "palabra": "CUMPLEAÑOS",
+    "pista": "Aniversario del día en que alguien nació.",
+    "usado": false
+  },
+  {
+    "palabra": "SONRISA",
+    "pista": "Expresión del rostro que muestra alegría curvando los labios.",
+    "usado": false
+  },
+  {
+    "palabra": "ABRAZO",
+    "pista": "Gesto de afecto que consiste en rodear a alguien con los brazos.",
+    "usado": false
+  },
+  {
+    "palabra": "ALEGRIA",
+    "pista": "Sentimiento de satisfacción y bienestar que se muestra con animación.",
+    "usado": false
+  },
+  {
+    "palabra": "FELICIDAD",
+    "pista": "Estado de ánimo de quien se siente plenamente satisfecho y contento.",
+    "usado": false
+  },
+  {
+    "palabra": "TRISTEZA",
+    "pista": "Sentimiento de pena o desánimo que puede provocar ganas de llorar.",
+    "usado": false
+  },
+  {
+    "palabra": "MIEDO",
+    "pista": "Sensación de angustia ante algo que se percibe como peligroso.",
+    "usado": false
+  },
+  {
+    "palabra": "VALENTIA",
+    "pista": "Cualidad de quien actúa con decisión aunque tenga miedo.",
+    "usado": false
+  },
+  {
+    "palabra": "PACIENCIA",
+    "pista": "Capacidad de esperar o soportar algo difícil sin alterarse.",
+    "usado": false
+  },
+  {
+    "palabra": "RESPETO",
+    "pista": "Consideración y trato correcto hacia otras personas.",
+    "usado": false
+  },
+  {
+    "palabra": "AMABILIDAD",
+    "pista": "Actitud de quien trata a los demás con simpatía y cortesía.",
+    "usado": false
+  },
+  {
+    "palabra": "ROJO",
+    "pista": "Color habitual de los tomates maduros.",
+    "usado": false
+  },
+  {
+    "palabra": "AZUL",
+    "pista": "Color que suele asociarse con el cielo despejado.",
+    "usado": false
+  },
+  {
+    "palabra": "VERDE",
+    "pista": "Color frecuente en hojas y hierba.",
+    "usado": false
+  },
+  {
+    "palabra": "AMARILLO",
+    "pista": "Color del sol en muchos dibujos infantiles.",
+    "usado": false
+  },
+  {
+    "palabra": "ROSA",
+    "pista": "Color que comparte nombre con una flor.",
+    "usado": false
+  },
+  {
+    "palabra": "MORADO",
+    "pista": "Color obtenido al mezclar rojo y azul.",
+    "usado": false
+  },
+  {
+    "palabra": "BLANCO",
+    "pista": "Color de la nieve recién caída.",
+    "usado": false
+  },
+  {
+    "palabra": "NEGRO",
+    "pista": "Color de la noche sin luz.",
+    "usado": false
+  },
+  {
+    "palabra": "CIRCULO",
+    "pista": "Figura geométrica redonda y cerrada, como una rueda.",
+    "usado": false
+  },
+  {
+    "palabra": "CUADRADO",
+    "pista": "Figura geométrica de cuatro lados iguales y cuatro ángulos rectos.",
+    "usado": false
+  },
+  {
+    "palabra": "TRIANGULO",
+    "pista": "Figura geométrica de tres lados y tres ángulos.",
+    "usado": false
+  },
+  {
+    "palabra": "RECTANGULO",
+    "pista": "Figura geométrica de cuatro lados con dos pares de lados iguales.",
+    "usado": false
+  },
+  {
+    "palabra": "CORAZON",
+    "pista": "Figura con forma de corazón, símbolo del amor.",
+    "usado": false
+  },
+  {
+    "palabra": "FLECHA",
+    "pista": "Símbolo en forma de línea con punta que indica una dirección.",
+    "usado": false
+  },
+  {
+    "palabra": "DIBUJO",
+    "pista": "Imagen trazada con lápiz, bolígrafo o pincel sobre una superficie.",
+    "usado": false
+  },
+  {
+    "palabra": "MAPA",
+    "pista": "Representación gráfica de un territorio o zona geográfica.",
+    "usado": false
+  },
+  {
+    "palabra": "BANDERA",
+    "pista": "Tela de colores que representa a un país, región o grupo.",
+    "usado": false
+  },
+  {
+    "palabra": "AVENTURA",
+    "pista": "Experiencia emocionante y con cierto riesgo que se vive con entusiasmo.",
+    "usado": false
+  },
+  {
+    "palabra": "SECRETO",
+    "pista": "Información que se guarda y no se comparte con todos.",
+    "usado": false
+  },
+  {
+    "palabra": "MISTERIO",
+    "pista": "Algo desconocido o difícil de explicar que genera curiosidad.",
+    "usado": false
+  },
+  {
+    "palabra": "EXPLORADOR",
+    "pista": "Persona que viaja a lugares desconocidos para descubrirlos.",
+    "usado": false
+  },
+  {
+    "palabra": "SELVA",
+    "pista": "Bosque tropical muy denso con mucha vegetación y animales exóticos.",
+    "usado": false
+  },
+  {
+    "palabra": "DESIERTO",
+    "pista": "Zona muy seca con poca lluvia y vegetación escasa, a menudo con arena.",
+    "usado": false
+  },
+  {
+    "palabra": "VOLCAN",
+    "pista": "Abertura terrestre por la que pueden salir lava, gases y ceniza.",
+    "usado": false
+  },
+  {
+    "palabra": "CUEVA",
+    "pista": "Cavidad o hueco natural en la roca o bajo tierra.",
+    "usado": false
+  },
+  {
+    "palabra": "BRUJULA",
+    "pista": "Instrumento con aguja imantada que siempre señala el norte.",
+    "usado": false
+  },
+  {
+    "palabra": "COHETE",
+    "pista": "Vehículo propulsado que puede viajar al espacio.",
+    "usado": false
+  },
+  {
+    "palabra": "PLANETA",
+    "pista": "Cuerpo celeste esférico que orbita alrededor de una estrella.",
+    "usado": false
+  },
+  {
+    "palabra": "MARCIANO",
+    "pista": "Ser de otro planeta, especialmente de Marte, según la ciencia ficción.",
+    "usado": false
+  },
+  {
+    "palabra": "SATELITE",
+    "pista": "Cuerpo que gira alrededor de un planeta u otro objeto celeste.",
+    "usado": false
+  },
+  {
+    "palabra": "ASTRONAUTA",
+    "pista": "Persona entrenada para viajar y trabajar en el espacio.",
+    "usado": false
+  },
+  {
+    "palabra": "UNIVERSO",
+    "pista": "Todo lo que existe: estrellas, planetas, galaxias y el espacio entre ellos.",
+    "usado": false
+  },
+  {
+    "palabra": "GALAXIA",
+    "pista": "Sistema formado por estrellas, gas, polvo y otros cuerpos celestes.",
+    "usado": false
+  },
+  {
+    "palabra": "METEORITO",
+    "pista": "Fragmento de roca o metal procedente del espacio que cae sobre la Tierra.",
+    "usado": false
+  },
+  {
+    "palabra": "ESPACIO",
+    "pista": "Región que existe más allá de la atmósfera terrestre.",
+    "usado": false
+  },
+  {
+    "palabra": "HELICOPTERO",
+    "pista": "Aeronave que vuela gracias a unas grandes aspas giratorias.",
+    "usado": false
+  },
+  {
+    "palabra": "TRAPECIO",
+    "pista": "Aparato de circo formado por una barra horizontal colgante, usado por acróbatas.",
+    "usado": false
+  },
+  {
+    "palabra": "COLCHON",
+    "pista": "Pieza acolchada que se pone sobre la cama para dormir con comodidad.",
+    "usado": false
+  },
+  {
+    "palabra": "CUCHARA",
+    "pista": "Utensilio con mango y parte cóncava para tomar líquidos o alimentos blandos.",
+    "usado": false
+  },
+  {
+    "palabra": "TENEDOR",
+    "pista": "Utensilio con mango y púas para pinchar y llevar alimentos a la boca.",
+    "usado": false
+  },
+  {
+    "palabra": "SERVILLETA",
+    "pista": "Trozo de tela o papel para limpiar la boca durante las comidas.",
+    "usado": false
+  },
+  {
+    "palabra": "PELUCHE",
+    "pista": "Juguete de tela suave con forma de animal u otro personaje.",
+    "usado": false
+  },
+  {
+    "palabra": "TRONCO",
+    "pista": "Parte central y cilíndrica del árbol entre las raíces y las ramas.",
+    "usado": false
+  },
+  {
+    "palabra": "NIDO",
+    "pista": "Construcción que hacen las aves para poner sus huevos y criar a sus polluelos.",
+    "usado": false
+  },
+  {
+    "palabra": "HORMIGA",
+    "pista": "Pequeño insecto social que vive en colonias bajo tierra.",
+    "usado": false
+  },
+  {
+    "palabra": "ABEJA",
+    "pista": "Insecto con alas que produce miel y poliniza las flores.",
+    "usado": false
+  },
+  {
+    "palabra": "MARIPOSA",
+    "pista": "Insecto con alas grandes de colores que se alimenta del néctar de las flores.",
+    "usado": false
+  },
+  {
+    "palabra": "ARDILLA",
+    "pista": "Pequeño mamífero de cola esponjosa que trepa a los árboles y come nueces.",
+    "usado": false
+  },
+  {
+    "palabra": "FOCA",
+    "pista": "Mamífero marino de cuerpo alargado y aletas que vive en zonas frías.",
+    "usado": false
+  },
+  {
+    "palabra": "PIRAMIDE",
+    "pista": "Construcción con base cuadrada y cuatro caras triangulares que se unen en punta.",
+    "usado": false
+  },
+  {
+    "palabra": "CASTAÑA",
+    "pista": "Fruto de piel marrón y carne blanca que crece en los castaños.",
+    "usado": false
+  },
+  {
+    "palabra": "GALLETERO",
+    "pista": "Recipiente para guardar galletas.",
+    "usado": false
+  },
+  {
+    "palabra": "MERMELADA",
+    "pista": "Conserva dulce hecha con fruta cocida y azúcar.",
+    "usado": false
+  },
+  {
+    "palabra": "PISCINA",
+    "pista": "Depósito artificial de agua donde las personas nadan y se bañan.",
+    "usado": false
+  },
+  {
+    "palabra": "TAXI",
+    "pista": "Coche de alquiler con conductor que lleva a los pasajeros a donde indiquen.",
+    "usado": false
+  },
+  {
+    "palabra": "NAVE",
+    "pista": "Vehículo espacial o embarcación grande.",
+    "usado": false
+  },
+  {
+    "palabra": "COLINA",
+    "pista": "Elevación del terreno menor que una montaña, de forma redondeada.",
+    "usado": false
+  },
+  {
+    "palabra": "GRANJA",
+    "pista": "Finca donde se crían animales y se cultivan productos del campo.",
+    "usado": false
+  },
+  {
+    "palabra": "ARO",
+    "pista": "Objeto en forma de círculo, como los que se usan en gimnasia o de juguete.",
+    "usado": false
+  },
+  {
+    "palabra": "FOTO",
+    "pista": "Imagen captada por una cámara que reproduce la realidad.",
+    "usado": false
+  },
+  {
+    "palabra": "AGENDA",
+    "pista": "Libreta donde se apuntan citas, tareas y datos importantes.",
+    "usado": false
+  },
+  {
+    "palabra": "RADIO",
+    "pista": "Aparato que emite y recibe señales de audio sin cables.",
+    "usado": false
+  },
+  {
+    "palabra": "BOTON",
+    "pista": "Pequeña pieza redonda que se usa para abrochar prendas de ropa.",
+    "usado": false
+  },
+  {
+    "palabra": "PILA",
+    "pista": "Dispositivo que almacena energía eléctrica para aparatos pequeños.",
+    "usado": false
+  },
+  {
+    "palabra": "CARTERO",
+    "pista": "Persona encargada de repartir el correo a domicilio.",
+    "usado": false
+  },
+  {
+    "palabra": "PESCADOR",
+    "pista": "Persona que pesca, ya sea como oficio o como afición.",
+    "usado": false
+  },
+  {
+    "palabra": "VENDEDOR",
+    "pista": "Persona que vende productos o servicios.",
+    "usado": false
+  },
+  {
+    "palabra": "RED",
+    "pista": "Tejido de hilos o cuerdas entrelazados con huecos, usado en pesca o deportes.",
+    "usado": false
+  },
+  {
+    "palabra": "COPA",
+    "pista": "Recipiente con pie y base que se usa para beber, también trofeo deportivo.",
+    "usado": false
+  },
+  {
+    "palabra": "HEROE",
+    "pista": "Persona que realiza actos de gran valor en beneficio de los demás.",
+    "usado": false
+  },
+  {
+    "palabra": "CALMA",
+    "pista": "Estado de tranquilidad y paz sin agitación ni ruido.",
+    "usado": false
+  },
+  {
+    "palabra": "TECLA",
+    "pista": "Cada una de las piezas de un teclado que se pulsan para escribir o tocar música.",
+    "usado": false
+  },
+  {
+    "palabra": "PUPITRE",
+    "pista": "Mesa individual con tablero inclinado usada en las aulas por los alumnos.",
+    "usado": false
+  },
+  {
+    "palabra": "BORRADOR",
+    "pista": "Utensilio de goma o fieltro para borrar lo escrito en la pizarra.",
+    "usado": false
+  },
+  {
+    "palabra": "PLASTILINA",
+    "pista": "Material blando y maleable de colores que se usa para modelar.",
+    "usado": false
+  },
+  {
+    "palabra": "COLUMPIO",
+    "pista": "Asiento colgante de cuerdas o cadenas que oscila hacia adelante y atrás.",
+    "usado": false
+  },
+  {
+    "palabra": "TOBOGAN",
+    "pista": "Rampa lisa por la que los niños se deslizan en los parques.",
+    "usado": false
+  },
+  {
+    "palabra": "BELLOTA",
+    "pista": "Fruto del roble, con forma de pequeña pera marrón con sombrero.",
+    "usado": false
+  },
+  {
+    "palabra": "NUEZ",
+    "pista": "Fruto seco con cáscara dura y parte interior comestible en forma de cerebro.",
+    "usado": false
+  },
+  {
+    "palabra": "AVELLANA",
+    "pista": "Pequeño fruto seco redondo de cáscara dura y sabor dulce.",
+    "usado": false
+  },
+  {
+    "palabra": "HUEVO",
+    "pista": "Cuerpo ovalado que ponen las aves y del que nacen sus crías.",
+    "usado": false
+  },
+  {
+    "palabra": "MAGDALENA",
+    "pista": "Pequeño bollo esponjoso con forma de copa, típico del desayuno.",
+    "usado": false
+  },
+  {
+    "palabra": "BIZCOCHO",
+    "pista": "Pastel esponjoso horneado hecho con harina, huevo y azúcar.",
+    "usado": false
+  },
+  {
+    "palabra": "CROQUETA",
+    "pista": "Pequeña masa frita de forma ovalada, rellena generalmente de bechamel.",
+    "usado": false
+  },
+  {
+    "palabra": "BATIDO",
+    "pista": "Bebida cremosa hecha batiendo leche con fruta, chocolate u otros sabores.",
+    "usado": false
+  },
+  {
+    "palabra": "ZUMO",
+    "pista": "Líquido extraído al exprimir una fruta.",
+    "usado": false
+  },
+  {
+    "palabra": "MANDARINA",
+    "pista": "Fruta cítrica pequeña y fácil de pelar, de sabor dulce y suave.",
+    "usado": false
+  },
+  {
+    "palabra": "COCO",
+    "pista": "Fruta tropical grande con cáscara dura, interior blanco y agua en su centro.",
+    "usado": false
+  },
+  {
+    "palabra": "PIÑA",
+    "pista": "Fruta tropical de piel escamosa y pulpa amarilla, dulce y jugosa.",
+    "usado": false
+  },
+  {
+    "palabra": "CEREZA",
+    "pista": "Pequeña fruta roja o negra y brillante que crece en pares.",
+    "usado": false
+  },
+  {
+    "palabra": "MELOCOTON",
+    "pista": "Fruta de piel aterciopelada, amarilla o rosada, con un hueso central.",
+    "usado": false
+  },
+  {
+    "palabra": "PARAGUAS",
+    "pista": "Utensilio plegable que se abre para protegerse de la lluvia.",
+    "usado": false
+  },
+  {
+    "palabra": "MOCHUELO",
+    "pista": "Ave rapaz nocturna pequeña, parecida al búho.",
+    "usado": false
+  },
+  {
+    "palabra": "CABRITA",
+    "pista": "Cría hembra de la cabra.",
+    "usado": false
+  },
+  {
+    "palabra": "PONI",
+    "pista": "Caballo de raza pequeña.",
+    "usado": false
+  },
+  {
+    "palabra": "BURRO",
+    "pista": "Animal de carga parecido al caballo, más pequeño y de orejas largas.",
+    "usado": false
+  },
+  {
+    "palabra": "CAMELLO",
+    "pista": "Mamífero del desierto con una o dos jorobas en el lomo.",
+    "usado": false
+  },
+  {
+    "palabra": "GORRION",
+    "pista": "Pájaro pequeño de plumaje pardo, muy común en ciudades y campos.",
+    "usado": false
+  },
+  {
+    "palabra": "PALOMA",
+    "pista": "Ave de plumaje gris o blanco, símbolo de la paz.",
+    "usado": false
+  },
+  {
+    "palabra": "CIGUEÑA",
+    "pista": "Ave de patas largas, pico rojo y plumaje blanco con alas negras.",
+    "usado": false
+  },
+  {
+    "palabra": "CARACOL",
+    "pista": "Molusco terrestre con cuerpo blando y concha en espiral.",
+    "usado": false
+  },
+  {
+    "palabra": "CIEMPIES",
+    "pista": "Artrópodo alargado con muchas patas, uno por cada par de segmentos.",
+    "usado": false
+  },
+  {
+    "palabra": "LUCIERNAGA",
+    "pista": "Insecto que produce luz propia en la oscuridad.",
+    "usado": false
+  },
+  {
+    "palabra": "TELARAÑA",
+    "pista": "Red de hilos de seda que teje la araña para cazar insectos.",
+    "usado": true
+  },
+  {
+    "palabra": "ESCALERA",
+    "pista": "Serie de peldaños para subir o bajar entre distintas alturas.",
+    "usado": false
+  },
+  {
+    "palabra": "ASCENSOR",
+    "pista": "Cabina eléctrica que sube y baja entre plantas de un edificio.",
+    "usado": false
+  },
+  {
+    "palabra": "BALCON",
+    "pista": "Plataforma saliente en la fachada de un edificio con barandilla.",
+    "usado": false
+  },
+  {
+    "palabra": "TEJADO",
+    "pista": "Cubierta inclinada de un edificio, generalmente de tejas.",
+    "usado": false
+  },
+  {
+    "palabra": "CHIMENEA",
+    "pista": "Conducto por el que sale el humo del fuego, con hogar interior.",
+    "usado": false
+  },
+  {
+    "palabra": "MARTILLO",
+    "pista": "Herramienta con cabeza de metal y mango para clavar clavos o golpear.",
+    "usado": false
+  },
+  {
+    "palabra": "DESTORNILLADOR",
+    "pista": "Herramienta con punta en forma de cruz o plana para atornillar.",
+    "usado": false
+  },
+  {
+    "palabra": "LLAVE",
+    "pista": "Instrumento metálico para abrir y cerrar cerraduras.",
+    "usado": false
+  },
+  {
+    "palabra": "CANDADO",
+    "pista": "Cerradura portátil con arco metálico que se engancha para cerrar.",
+    "usado": false
+  },
+  {
+    "palabra": "MALETA",
+    "pista": "Bolsa rígida con asa y cierre que se usa para llevar ropa al viajar.",
+    "usado": false
+  },
+  {
+    "palabra": "MERCADO",
+    "pista": "Lugar donde se venden y compran productos, especialmente alimentos.",
+    "usado": false
+  },
+  {
+    "palabra": "PANADERIA",
+    "pista": "Establecimiento donde se hace y vende pan.",
+    "usado": false
+  },
+  {
+    "palabra": "FARMACIA",
+    "pista": "Establecimiento donde se venden medicamentos.",
+    "usado": false
+  },
+  {
+    "palabra": "HOSPITAL",
+    "pista": "Centro sanitario donde se atiende a los enfermos y heridos.",
+    "usado": false
+  },
+  {
+    "palabra": "AEROPUERTO",
+    "pista": "Instalación con pistas y servicios donde despegan y aterrizan los aviones.",
+    "usado": false
+  },
+  {
+    "palabra": "ESTACION",
+    "pista": "Lugar donde paran los trenes o autobuses para recoger viajeros.",
+    "usado": false
+  },
+  {
+    "palabra": "PINTURA",
+    "pista": "Sustancia de color que se aplica sobre una superficie, o arte de pintar.",
+    "usado": false
+  },
+  {
+    "palabra": "ACUARELA",
+    "pista": "Pintura hecha con colores transparentes disueltos en agua.",
+    "usado": false
+  },
+  {
+    "palabra": "PEGAMENTO",
+    "pista": "Sustancia que une dos superficies pegándolas entre sí.",
+    "usado": false
+  },
+  {
+    "palabra": "PEGATINA",
+    "pista": "Trozo de papel o plástico con dibujo o texto que se adhiere a superficies.",
+    "usado": false
+  },
+  {
+    "palabra": "COMIC",
+    "pista": "Historia narrada mediante viñetas con dibujos y texto.",
+    "usado": false
+  },
+  {
+    "palabra": "CUENTO",
+    "pista": "Narración breve de hechos reales o imaginarios.",
+    "usado": false
+  },
+  {
+    "palabra": "MONSTRUO",
+    "pista": "Ser imaginario de aspecto aterrador que aparece en cuentos y películas.",
+    "usado": false
+  },
+  {
+    "palabra": "UNICORNIO",
+    "pista": "Animal fantástico con forma de caballo blanco y un cuerno en la frente.",
+    "usado": false
+  },
+  {
+    "palabra": "SIRENA",
+    "pista": "Ser mitológico con cuerpo de mujer y cola de pez.",
+    "usado": false
+  },
+  {
+    "palabra": "HECHICERO",
+    "pista": "Persona que practica la magia o los hechizos en cuentos y leyendas.",
+    "usado": false
+  },
+  {
+    "palabra": "MAPAMUNDI",
+    "pista": "Mapa que representa toda la superficie del planeta Tierra.",
+    "usado": false
+  },
+  {
+    "palabra": "CAMPAMENTO",
+    "pista": "Lugar donde se instalan tiendas para vivir temporalmente al aire libre.",
+    "usado": false
+  },
+  {
+    "palabra": "TIENDA",
+    "pista": "Refugio portátil de tela que se usa para acampar.",
+    "usado": false
+  },
+  {
+    "palabra": "LINTERNA",
+    "pista": "Aparato portátil que emite luz mediante una bombilla o LED.",
+    "usado": false
+  },
+  {
+    "palabra": "BINOCULARES",
+    "pista": "Instrumento óptico con dos tubos para ver objetos lejanos con los dos ojos.",
+    "usado": false
+  },
+  {
+    "palabra": "ALBARICOQUE",
+    "pista": "Fruta pequeña de color naranja con hueso central y piel aterciopelada.",
+    "usado": false
+  },
+  {
+    "palabra": "CASCADA",
+    "pista": "Caída de agua desde una altura, formando un chorro o cortina.",
+    "usado": false
+  },
+  {
+    "palabra": "MOLINO",
+    "pista": "Construcción con aspas o rueda que usa el viento o el agua para moler.",
+    "usado": false
+  },
+  {
+    "palabra": "VECINO",
+    "pista": "Persona que vive en el mismo edificio, barrio o localidad.",
+    "usado": false
+  },
+  {
+    "palabra": "RATONERA",
+    "pista": "Trampa para capturar ratones.",
+    "usado": false
+  },
+  {
+    "palabra": "TODOS",
+    "pista": "Cada uno sin excepción, la totalidad de las personas o cosas.",
+    "usado": false
+  }
+]

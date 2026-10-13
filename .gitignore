@@ -1,0 +1,31 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# NuGet
+packages/
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+
+# macOS
+.DS_Store
+
+# Android signing — NUNCA subir al repo
+*.keystore
+*.jks
+*Signed*.apk
+*Signed*.aab
+
+# Publish output
+publish/
+
+# Rider
+.idea/

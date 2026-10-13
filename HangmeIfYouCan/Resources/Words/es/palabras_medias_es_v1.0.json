@@ -1,0 +1,4002 @@
+[
+  {
+    "palabra": "CAPITAL",
+    "pista": "Ciudad de gran tamaño e importancia dentro de un país o región.",
+    "usado": false
+  },
+  {
+    "palabra": "MEJORES",
+    "pista": "Aquello que supera en calidad o valor al resto de su misma clase.",
+    "usado": false
+  },
+  {
+    "palabra": "POBLACION",
+    "pista": "Conjunto de personas que residen en un territorio en un momento dado.",
+    "usado": false
+  },
+  {
+    "palabra": "QUIENES",
+    "pista": "Pronombre que alude a personas en una frase sin nombrarlas directamente.",
+    "usado": false
+  },
+  {
+    "palabra": "RELACION",
+    "pista": "Vínculo o conexión que une a personas, ideas o cosas entre sí.",
+    "usado": false
+  },
+  {
+    "palabra": "SUERTE",
+    "pista": "Circunstancia favorable o desfavorable que ocurre sin que el individuo la controle.",
+    "usado": false
+  },
+  {
+    "palabra": "VARIAS",
+    "pista": "Más de una pero no muchas; cantidad indeterminada y plural.",
+    "usado": false
+  },
+  {
+    "palabra": "BASTANTE",
+    "pista": "En cantidad o grado suficiente, sin llegar al exceso.",
+    "usado": false
+  },
+  {
+    "palabra": "CULTURA",
+    "pista": "Conjunto de saberes, costumbres y expresiones propias de una sociedad.",
+    "usado": false
+  },
+  {
+    "palabra": "DEBIDO",
+    "pista": "Que corresponde o es causado por algo anterior; aquello que se debe.",
+    "usado": false
+  },
+  {
+    "palabra": "DIFICIL",
+    "pista": "Que requiere esfuerzo, habilidad o conocimiento para ser realizado o comprendido.",
+    "usado": false
+  },
+  {
+    "palabra": "ESTABAN",
+    "pista": "Forma verbal que indica la situación o estado de algo en el pasado.",
+    "usado": false
+  },
+  {
+    "palabra": "FUERTE",
+    "pista": "Que posee gran resistencia física, intensidad o solidez.",
+    "usado": false
+  },
+  {
+    "palabra": "MINUTOS",
+    "pista": "Unidades de tiempo de sesenta segundos cada una.",
+    "usado": false
+  },
+  {
+    "palabra": "PREGUNTA",
+    "pista": "Enunciado que solicita una respuesta o información desconocida.",
+    "usado": false
+  },
+  {
+    "palabra": "DEMASIADO",
+    "pista": "En cantidad o grado que supera lo conveniente o lo necesario.",
+    "usado": false
+  },
+  {
+    "palabra": "ESPERO",
+    "pista": "Forma verbal que expresa la acción de aguardar o desear algo.",
+    "usado": false
+  },
+  {
+    "palabra": "FUERZA",
+    "pista": "Capacidad física o moral para actuar, resistir o ejercer presión.",
+    "usado": false
+  },
+  {
+    "palabra": "OFICIAL",
+    "pista": "Que tiene carácter reconocido o autorizado por una institución o autoridad.",
+    "usado": false
+  },
+  {
+    "palabra": "PROPIO",
+    "pista": "Que pertenece o es característico de alguien o algo en exclusiva.",
+    "usado": false
+  },
+  {
+    "palabra": "BUENAS",
+    "pista": "Que posee cualidades positivas; saludo informal de cortesía.",
+    "usado": false
+  },
+  {
+    "palabra": "CONTROL",
+    "pista": "Supervisión o regulación del funcionamiento de algo o alguien.",
+    "usado": false
+  },
+  {
+    "palabra": "EMPRESAS",
+    "pista": "Organizaciones dedicadas a actividades económicas con fines productivos.",
+    "usado": false
+  },
+  {
+    "palabra": "ENCONTRAR",
+    "pista": "Dar con algo o alguien que se buscaba o que aparece de manera casual.",
+    "usado": false
+  },
+  {
+    "palabra": "INGLES",
+    "pista": "Lengua germánica originaria de las islas británicas, hablada en todo el mundo.",
+    "usado": false
+  },
+  {
+    "palabra": "TRABAJAR",
+    "pista": "Realizar una actividad, generalmente remunerada, con esfuerzo y dedicación.",
+    "usado": false
+  },
+  {
+    "palabra": "ULTIMA",
+    "pista": "La que cierra una serie o sucesión; la más reciente de todas.",
+    "usado": false
+  },
+  {
+    "palabra": "FUTURO",
+    "pista": "Tiempo que está por venir; lo que aún no ha ocurrido.",
+    "usado": false
+  },
+  {
+    "palabra": "JUSTICIA",
+    "pista": "Principio moral que busca dar a cada uno lo que le corresponde.",
+    "usado": false
+  },
+  {
+    "palabra": "LIBERTAD",
+    "pista": "Capacidad de actuar, pensar o expresarse sin coacción ajena.",
+    "usado": false
+  },
+  {
+    "palabra": "NUESTRAS",
+    "pista": "Pronombre posesivo que indica pertenencia a un grupo del que habla el emisor.",
+    "usado": false
+  },
+  {
+    "palabra": "TAMPOCO",
+    "pista": "Palabra que añade una negación a lo ya negado anteriormente.",
+    "usado": false
+  },
+  {
+    "palabra": "VENEZUELA",
+    "pista": "País de América del Sur con costa en el mar Caribe.",
+    "usado": false
+  },
+  {
+    "palabra": "CANTIDAD",
+    "pista": "Porción o número que puede medirse o contarse.",
+    "usado": false
+  },
+  {
+    "palabra": "ENCUENTRA",
+    "pista": "Halla o topa con algo; tercera persona del presente de encontrar.",
+    "usado": false
+  },
+  {
+    "palabra": "EXISTE",
+    "pista": "Tiene realidad efectiva; está presente en el mundo.",
+    "usado": false
+  },
+  {
+    "palabra": "IMAGEN",
+    "pista": "Representación visual de algo o alguien; también la percepción que se tiene de ellos.",
+    "usado": false
+  },
+  {
+    "palabra": "IMPORTA",
+    "pista": "Tiene valor o relevancia; o bien, cuesta cierta cantidad.",
+    "usado": false
+  },
+  {
+    "palabra": "POLITICO",
+    "pista": "Relativo a la organización y gestión del poder en una sociedad.",
+    "usado": false
+  },
+  {
+    "palabra": "PRINCIPAL",
+    "pista": "El más importante o destacado dentro de un conjunto.",
+    "usado": false
+  },
+  {
+    "palabra": "PROPIA",
+    "pista": "Que pertenece en exclusiva a alguien o que le es inherente.",
+    "usado": false
+  },
+  {
+    "palabra": "VOLVER",
+    "pista": "Regresar al lugar de origen o retomar una acción interrumpida.",
+    "usado": false
+  },
+  {
+    "palabra": "ACTUAL",
+    "pista": "Que pertenece o es propio del momento presente.",
+    "usado": false
+  },
+  {
+    "palabra": "ELECCIONES",
+    "pista": "Proceso por el que una comunidad elige a sus representantes mediante el voto.",
+    "usado": false
+  },
+  {
+    "palabra": "ESTUDIO",
+    "pista": "Actividad de aprender o examinar algo con atención; también lugar donde se trabaja.",
+    "usado": false
+  },
+  {
+    "palabra": "GRUPOS",
+    "pista": "Conjuntos de personas o cosas reunidas por algún criterio común.",
+    "usado": false
+  },
+  {
+    "palabra": "PALABRA",
+    "pista": "Unidad lingüística con significado propio que forma parte del lenguaje.",
+    "usado": false
+  },
+  {
+    "palabra": "TENIDO",
+    "pista": "Participio de tener; indica posesión o experiencia previa.",
+    "usado": false
+  },
+  {
+    "palabra": "HUBIERA",
+    "pista": "Forma verbal subjuntiva que expresa condición o hipótesis en el pasado.",
+    "usado": false
+  },
+  {
+    "palabra": "INTERNET",
+    "pista": "Red global de comunicación que conecta millones de dispositivos en todo el mundo.",
+    "usado": false
+  },
+  {
+    "palabra": "NUEVOS",
+    "pista": "Que acaba de aparecer, crearse o incorporarse; que no es antiguo.",
+    "usado": false
+  },
+  {
+    "palabra": "PUNTOS",
+    "pista": "Unidades de valoración o marcas que señalan algo en un espacio o sistema.",
+    "usado": false
+  },
+  {
+    "palabra": "PUBLICA",
+    "pista": "Que es accesible o pertenece a toda la ciudadanía sin distinción.",
+    "usado": false
+  },
+  {
+    "palabra": "REGION",
+    "pista": "Zona geográfica con características comunes que la distinguen de las colindantes.",
+    "usado": false
+  },
+  {
+    "palabra": "SIGNIFICA",
+    "pista": "Expresa el sentido o contenido de una palabra, gesto o símbolo.",
+    "usado": false
+  },
+  {
+    "palabra": "COMUNIDAD",
+    "pista": "Grupo de personas que comparten territorio, intereses o características comunes.",
+    "usado": false
+  },
+  {
+    "palabra": "DIRECCION",
+    "pista": "Rumbo hacia el que algo se orienta; también datos que localizan un lugar.",
+    "usado": false
+  },
+  {
+    "palabra": "HABIAN",
+    "pista": "Forma verbal que indica una acción pasada anterior a otra también pasada.",
+    "usado": false
+  },
+  {
+    "palabra": "NUEVAS",
+    "pista": "Femenino plural de nuevo; recién aparecidas o incorporadas.",
+    "usado": false
+  },
+  {
+    "palabra": "PARTIDOS",
+    "pista": "Organizaciones políticas que compiten por el poder; también encuentros deportivos.",
+    "usado": false
+  },
+  {
+    "palabra": "PARTIR",
+    "pista": "Dividir algo en partes; también iniciar un desplazamiento.",
+    "usado": false
+  },
+  {
+    "palabra": "PELICULA",
+    "pista": "Obra audiovisual de ficción o documental proyectada en pantalla.",
+    "usado": false
+  },
+  {
+    "palabra": "REPUBLICA",
+    "pista": "Sistema de gobierno donde el jefe de Estado es elegido y no hereditario.",
+    "usado": false
+  },
+  {
+    "palabra": "VUELTA",
+    "pista": "Regreso a un punto de origen; también giro o rotación completa.",
+    "usado": false
+  },
+  {
+    "palabra": "CONSEJO",
+    "pista": "Opinión o recomendación que se da a alguien; también órgano colegiado de gobierno.",
+    "usado": false
+  },
+  {
+    "palabra": "HACERLO",
+    "pista": "Realizar o ejecutar algo ya mencionado anteriormente.",
+    "usado": false
+  },
+  {
+    "palabra": "LLAMADO",
+    "pista": "Que recibe ese nombre; también convocatoria o señal para atraer la atención.",
+    "usado": false
+  },
+  {
+    "palabra": "MOVIMIENTO",
+    "pista": "Cambio de posición o estado; también corriente organizada de personas.",
+    "usado": false
+  },
+  {
+    "palabra": "PRECIO",
+    "pista": "Valor monetario asignado a un bien o servicio.",
+    "usado": false
+  },
+  {
+    "palabra": "RESPUESTA",
+    "pista": "Réplica o solución que se da ante una pregunta o situación.",
+    "usado": false
+  },
+  {
+    "palabra": "COMIDA",
+    "pista": "Alimento preparado que se ingiere para nutrir el organismo.",
+    "usado": false
+  },
+  {
+    "palabra": "CUALES",
+    "pista": "Pronombre interrogativo que pide identificar elementos dentro de un conjunto.",
+    "usado": false
+  },
+  {
+    "palabra": "EXPERIENCIA",
+    "pista": "Conocimiento adquirido a través de la práctica o vivencia directa.",
+    "usado": false
+  },
+  {
+    "palabra": "LLEVAR",
+    "pista": "Trasladar algo o a alguien de un lugar a otro; también portar consigo.",
+    "usado": false
+  },
+  {
+    "palabra": "MIEMBROS",
+    "pista": "Personas que forman parte de un grupo u organización.",
+    "usado": false
+  },
+  {
+    "palabra": "PADRES",
+    "pista": "Padre y madre de una persona; también generación anterior.",
+    "usado": false
+  },
+  {
+    "palabra": "PRODUCCION",
+    "pista": "Proceso de fabricar o crear bienes, obras o contenidos.",
+    "usado": false
+  },
+  {
+    "palabra": "USTEDES",
+    "pista": "Pronombre de segunda persona del plural usado para dirigirse a varias personas.",
+    "usado": false
+  },
+  {
+    "palabra": "ECONOMIA",
+    "pista": "Ciencia que estudia la producción, distribución y consumo de bienes y servicios.",
+    "usado": false
+  },
+  {
+    "palabra": "ENTIENDO",
+    "pista": "Primera persona del presente de entender; comprendo algo.",
+    "usado": false
+  },
+  {
+    "palabra": "HABLANDO",
+    "pista": "Acción de comunicarse mediante palabras de forma oral.",
+    "usado": false
+  },
+  {
+    "palabra": "NECESITA",
+    "pista": "Requiere algo de forma imprescindible para un fin determinado.",
+    "usado": false
+  },
+  {
+    "palabra": "OPINION",
+    "pista": "Juicio o valoración personal sobre algo que no es necesariamente verificable.",
+    "usado": false
+  },
+  {
+    "palabra": "OPORTUNIDAD",
+    "pista": "Momento o circunstancia favorable para hacer algo.",
+    "usado": false
+  },
+  {
+    "palabra": "ORGANIZACION",
+    "pista": "Estructura formada por personas que actúan de manera coordinada hacia un fin.",
+    "usado": false
+  },
+  {
+    "palabra": "PARTES",
+    "pista": "Divisiones o porciones de un todo; también bandos en un conflicto o acuerdo.",
+    "usado": false
+  },
+  {
+    "palabra": "PAGINA",
+    "pista": "Cada una de las caras de una hoja; también sitio web.",
+    "usado": false
+  },
+  {
+    "palabra": "ACCION",
+    "pista": "Acto o efecto de hacer algo; también título de propiedad en una empresa.",
+    "usado": false
+  },
+  {
+    "palabra": "CONDICIONES",
+    "pista": "Circunstancias o requisitos que determinan algo o bajo los que ocurre.",
+    "usado": false
+  },
+  {
+    "palabra": "CONOCER",
+    "pista": "Tener noción o trato de algo o alguien a través de la experiencia.",
+    "usado": false
+  },
+  {
+    "palabra": "ESTUVO",
+    "pista": "Forma del pasado de estar; indica situación o presencia en un momento concreto.",
+    "usado": false
+  },
+  {
+    "palabra": "NECESITO",
+    "pista": "Primera persona del presente de necesitar; expresa una carencia o requerimiento.",
+    "usado": false
+  },
+  {
+    "palabra": "NOTICIAS",
+    "pista": "Informaciones sobre hechos recientes de interés general.",
+    "usado": false
+  },
+  {
+    "palabra": "CALIDAD",
+    "pista": "Grado de excelencia o conjunto de propiedades que caracterizan algo.",
+    "usado": false
+  },
+  {
+    "palabra": "CENTRAL",
+    "pista": "Que ocupa el centro o es el más importante dentro de un sistema.",
+    "usado": false
+  },
+  {
+    "palabra": "DIRECTOR",
+    "pista": "Persona que dirige o gestiona una organización, obra o institución.",
+    "usado": false
+  },
+  {
+    "palabra": "EUROPA",
+    "pista": "Continente situado al norte del Mediterráneo, entre el Atlántico y Asia.",
+    "usado": false
+  },
+  {
+    "palabra": "IGLESIA",
+    "pista": "Institución religiosa cristiana; también edificio destinado al culto.",
+    "usado": false
+  },
+  {
+    "palabra": "NECESARIO",
+    "pista": "Que es imprescindible o no puede omitirse para lograr algo.",
+    "usado": false
+  },
+  {
+    "palabra": "POLITICOS",
+    "pista": "Personas que ejercen o participan en la actividad de gobierno y representación.",
+    "usado": false
+  },
+  {
+    "palabra": "PRONTO",
+    "pista": "En poco tiempo; de manera rápida o sin demora.",
+    "usado": false
+  },
+  {
+    "palabra": "RESULTADO",
+    "pista": "Consecuencia o efecto final de una acción o proceso.",
+    "usado": false
+  },
+  {
+    "palabra": "CAMBIAR",
+    "pista": "Sustituir algo por otra cosa distinta o pasar de un estado a otro.",
+    "usado": false
+  },
+  {
+    "palabra": "COLOMBIA",
+    "pista": "País de América del Sur con costas en el Pacífico y el Caribe.",
+    "usado": false
+  },
+  {
+    "palabra": "LIBROS",
+    "pista": "Obras escritas encuadernadas, de ficción o conocimiento, para ser leídas.",
+    "usado": false
+  },
+  {
+    "palabra": "MISMOS",
+    "pista": "Igual a lo ya mencionado; refuerza la identidad de algo o alguien.",
+    "usado": false
+  },
+  {
+    "palabra": "ULTIMOS",
+    "pista": "Los que cierran una serie o los más recientes en el tiempo.",
+    "usado": false
+  },
+  {
+    "palabra": "ACERCA",
+    "pista": "En las proximidades de algo; también preposición que indica aproximación temática.",
+    "usado": false
+  },
+  {
+    "palabra": "ALREDEDOR",
+    "pista": "En los contornos o proximidades de algo; también indica una cantidad aproximada.",
+    "usado": false
+  },
+  {
+    "palabra": "CAMPAÑA",
+    "pista": "Conjunto de acciones organizadas hacia un objetivo concreto en un periodo.",
+    "usado": false
+  },
+  {
+    "palabra": "EJERCITO",
+    "pista": "Fuerza militar terrestre de un Estado, organizada y armada.",
+    "usado": false
+  },
+  {
+    "palabra": "ENCIMA",
+    "pista": "En una posición superior o sobre algo; también en sentido figurado de predominio.",
+    "usado": false
+  },
+  {
+    "palabra": "ESTUDIOS",
+    "pista": "Conjunto de materias o actividades de aprendizaje; también investigaciones.",
+    "usado": false
+  },
+  {
+    "palabra": "INTERES",
+    "pista": "Atención o inclinación hacia algo; también beneficio económico generado por un capital.",
+    "usado": false
+  },
+  {
+    "palabra": "MENSAJE",
+    "pista": "Información que se transmite de un emisor a un receptor.",
+    "usado": false
+  },
+  {
+    "palabra": "OBJETIVO",
+    "pista": "Meta o fin que se pretende alcanzar; también que es imparcial y no subjetivo.",
+    "usado": false
+  },
+  {
+    "palabra": "POPULAR",
+    "pista": "Que es conocido o apreciado por una gran parte de la gente.",
+    "usado": false
+  },
+  {
+    "palabra": "PRINCIPIO",
+    "pista": "Idea o norma fundamental que sirve de base a algo; también el comienzo.",
+    "usado": false
+  },
+  {
+    "palabra": "PROVINCIA",
+    "pista": "División administrativa de un territorio dentro de un país.",
+    "usado": false
+  },
+  {
+    "palabra": "RECURSOS",
+    "pista": "Medios disponibles para alcanzar un fin, ya sean económicos, naturales o humanos.",
+    "usado": false
+  },
+  {
+    "palabra": "AQUELLOS",
+    "pista": "Pronombre demostrativo que señala algo distante o ya mencionado.",
+    "usado": false
+  },
+  {
+    "palabra": "CARLOS",
+    "pista": "Nombre propio masculino de origen germánico muy extendido en el mundo hispanohablante.",
+    "usado": false
+  },
+  {
+    "palabra": "COMPAÑIA",
+    "pista": "Grupo de personas que comparten actividad; también empresa mercantil.",
+    "usado": false
+  },
+  {
+    "palabra": "DICIENDO",
+    "pista": "Acción de expresar algo mediante palabras en curso.",
+    "usado": false
+  },
+  {
+    "palabra": "INTERIOR",
+    "pista": "Parte interna de algo; también lo relativo a los asuntos internos de un país.",
+    "usado": false
+  },
+  {
+    "palabra": "MEDIANTE",
+    "pista": "Por medio de algo o gracias a ello.",
+    "usado": false
+  },
+  {
+    "palabra": "PEQUEÑO",
+    "pista": "De tamaño reducido o de poca importancia en comparación con otros.",
+    "usado": false
+  },
+  {
+    "palabra": "PRUEBA",
+    "pista": "Demostración que verifica algo; también examen o ensayo previo.",
+    "usado": false
+  },
+  {
+    "palabra": "TWITTER",
+    "pista": "Red social digital en la que se publican mensajes breves.",
+    "usado": false
+  },
+  {
+    "palabra": "ANTERIOR",
+    "pista": "Que precede a otro en el tiempo, el espacio o el orden.",
+    "usado": false
+  },
+  {
+    "palabra": "BUSCAR",
+    "pista": "Hacer lo necesario para encontrar algo o a alguien.",
+    "usado": false
+  },
+  {
+    "palabra": "FUERZAS",
+    "pista": "Plural de fuerza; también cuerpos armados o grupos organizados.",
+    "usado": false
+  },
+  {
+    "palabra": "LUGARES",
+    "pista": "Espacios o sitios con una ubicación determinada.",
+    "usado": false
+  },
+  {
+    "palabra": "MEDIDA",
+    "pista": "Magnitud con la que se evalúa algo; también disposición adoptada ante una situación.",
+    "usado": false
+  },
+  {
+    "palabra": "PRIMEROS",
+    "pista": "Los que van al inicio de una serie o los que llegan antes que los demás.",
+    "usado": false
+  },
+  {
+    "palabra": "PRINCIPALES",
+    "pista": "Los más relevantes o destacados dentro de un conjunto.",
+    "usado": false
+  },
+  {
+    "palabra": "ACTIVIDADES",
+    "pista": "Conjunto de tareas o acciones realizadas con un fin determinado.",
+    "usado": false
+  },
+  {
+    "palabra": "ADELANTE",
+    "pista": "En dirección frontal o hacia el futuro; también expresión de ánimo.",
+    "usado": false
+  },
+  {
+    "palabra": "AMERICA",
+    "pista": "Continente que se extiende desde el Ártico hasta la Patagonia.",
+    "usado": false
+  },
+  {
+    "palabra": "ARRIBA",
+    "pista": "En dirección ascendente o en posición superior.",
+    "usado": false
+  },
+  {
+    "palabra": "DIFERENCIA",
+    "pista": "Aquello que distingue o separa dos cosas que se comparan.",
+    "usado": false
+  },
+  {
+    "palabra": "ENTRAR",
+    "pista": "Pasar al interior de un lugar o incorporarse a algo.",
+    "usado": false
+  },
+  {
+    "palabra": "ESTILO",
+    "pista": "Manera particular de hacer, expresar o presentar algo.",
+    "usado": false
+  },
+  {
+    "palabra": "JUEGOS",
+    "pista": "Actividades lúdicas con reglas que se realizan por placer o competición.",
+    "usado": false
+  },
+  {
+    "palabra": "MILITAR",
+    "pista": "Relativo a las fuerzas armadas o a quien pertenece a ellas.",
+    "usado": false
+  },
+  {
+    "palabra": "MUESTRA",
+    "pista": "Porción representativa de algo mayor; también señal o demostración.",
+    "usado": false
+  },
+  {
+    "palabra": "RELACIONES",
+    "pista": "Vínculos o interacciones entre personas, grupos o entidades.",
+    "usado": false
+  },
+  {
+    "palabra": "AYUDAR",
+    "pista": "Colaborar o contribuir para que alguien logre algo o supere una dificultad.",
+    "usado": false
+  },
+  {
+    "palabra": "CONTIGO",
+    "pista": "Pronombre que indica compañía de la segunda persona del singular.",
+    "usado": false
+  },
+  {
+    "palabra": "DEFENSA",
+    "pista": "Acción de proteger o justificar algo frente a un ataque o acusación.",
+    "usado": false
+  },
+  {
+    "palabra": "DOLARES",
+    "pista": "Moneda oficial de Estados Unidos y otros países.",
+    "usado": false
+  },
+  {
+    "palabra": "FUTBOL",
+    "pista": "Deporte de equipo en el que se golpea un balón con el pie para marcar goles.",
+    "usado": false
+  },
+  {
+    "palabra": "HUMANOS",
+    "pista": "Seres racionales de la especie Homo sapiens.",
+    "usado": false
+  },
+  {
+    "palabra": "IMPORTANTES",
+    "pista": "De gran relevancia, valor o influencia en un contexto.",
+    "usado": false
+  },
+  {
+    "palabra": "MINISTERIO",
+    "pista": "Organismo del gobierno que gestiona un área específica del Estado.",
+    "usado": false
+  },
+  {
+    "palabra": "PUERTO",
+    "pista": "Lugar de la costa acondicionado para la llegada y salida de barcos.",
+    "usado": false
+  },
+  {
+    "palabra": "QUERIA",
+    "pista": "Forma del pasado de querer; expresaba deseo o afecto en ese momento.",
+    "usado": false
+  },
+  {
+    "palabra": "RECUERDO",
+    "pista": "Imagen o sensación que permanece en la memoria de algo vivido.",
+    "usado": false
+  },
+  {
+    "palabra": "SEMANAS",
+    "pista": "Periodos de siete días consecutivos.",
+    "usado": false
+  },
+  {
+    "palabra": "ACCESO",
+    "pista": "Posibilidad o vía para llegar a un lugar o a algo.",
+    "usado": false
+  },
+  {
+    "palabra": "COMUNICACION",
+    "pista": "Proceso de transmitir información entre un emisor y un receptor.",
+    "usado": false
+  },
+  {
+    "palabra": "CONGRESO",
+    "pista": "Asamblea de representantes elegidos para legislar en un país.",
+    "usado": false
+  },
+  {
+    "palabra": "ESPERA",
+    "pista": "Estado de quien aguarda que ocurra algo.",
+    "usado": false
+  },
+  {
+    "palabra": "EVITAR",
+    "pista": "Impedir que algo ocurra o apartarse de ello.",
+    "usado": false
+  },
+  {
+    "palabra": "JUNTOS",
+    "pista": "En compañía mutua; de manera conjunta y coordinada.",
+    "usado": false
+  },
+  {
+    "palabra": "MINISTRO",
+    "pista": "Alto cargo del gobierno responsable de una cartera o área del Estado.",
+    "usado": false
+  },
+  {
+    "palabra": "PRODUCTOS",
+    "pista": "Bienes obtenidos mediante un proceso de fabricación o extracción.",
+    "usado": false
+  },
+  {
+    "palabra": "SIQUIERA",
+    "pista": "Partícula que introduce una condición mínima o refuerza una negación.",
+    "usado": false
+  },
+  {
+    "palabra": "ACCIONES",
+    "pista": "Actos realizados con un fin; también títulos de propiedad en una empresa.",
+    "usado": false
+  },
+  {
+    "palabra": "ACTIVIDAD",
+    "pista": "Conjunto de operaciones o tareas propias de una persona u organización.",
+    "usado": false
+  },
+  {
+    "palabra": "CONOCIDO",
+    "pista": "Que es sabido o reconocido por mucha gente.",
+    "usado": false
+  },
+  {
+    "palabra": "CONSEGUIR",
+    "pista": "Lograr algo que se pretendía mediante esfuerzo o gestión.",
+    "usado": false
+  },
+  {
+    "palabra": "CONSTRUCCION",
+    "pista": "Proceso de edificar o crear una estructura material.",
+    "usado": false
+  },
+  {
+    "palabra": "CUALQUIERA",
+    "pista": "Persona o cosa indeterminada dentro de un conjunto, sin importar cuál.",
+    "usado": false
+  },
+  {
+    "palabra": "DEPARTAMENTO",
+    "pista": "División administrativa de un territorio; también sección dentro de una organización.",
+    "usado": false
+  },
+  {
+    "palabra": "EXISTEN",
+    "pista": "Tienen existencia real; están presentes en la realidad.",
+    "usado": false
+  },
+  {
+    "palabra": "FORMAS",
+    "pista": "Maneras de hacer o presentar algo; también figuras o contornos.",
+    "usado": false
+  },
+  {
+    "palabra": "OFICINA",
+    "pista": "Espacio donde se realizan trabajos administrativos o profesionales.",
+    "usado": false
+  },
+  {
+    "palabra": "PRESENTE",
+    "pista": "El momento actual; también estar en un lugar o algo que se entrega.",
+    "usado": false
+  },
+  {
+    "palabra": "QUEREMOS",
+    "pista": "Primera persona plural de querer; expresa deseo o voluntad colectiva.",
+    "usado": false
+  },
+  {
+    "palabra": "SECTOR",
+    "pista": "Parte de una actividad económica o división de un territorio o grupo.",
+    "usado": false
+  },
+  {
+    "palabra": "SUPERIOR",
+    "pista": "Que está por encima en rango, posición o calidad.",
+    "usado": false
+  },
+  {
+    "palabra": "SUPUESTO",
+    "pista": "Algo que se da por cierto sin verificarlo; hipótesis de partida.",
+    "usado": false
+  },
+  {
+    "palabra": "CAPACIDAD",
+    "pista": "Aptitud o facultad para hacer algo; también volumen que puede contener algo.",
+    "usado": false
+  },
+  {
+    "palabra": "COMPRAR",
+    "pista": "Adquirir algo a cambio de dinero.",
+    "usado": false
+  },
+  {
+    "palabra": "DIFERENTE",
+    "pista": "Que no es igual o no comparte las mismas características que otro.",
+    "usado": false
+  },
+  {
+    "palabra": "ENERGIA",
+    "pista": "Capacidad para producir trabajo o movimiento; también recurso natural explotable.",
+    "usado": false
+  },
+  {
+    "palabra": "ESPERAR",
+    "pista": "Permanecer en un lugar o estado hasta que algo ocurra; también desear algo.",
+    "usado": false
+  },
+  {
+    "palabra": "HICIERON",
+    "pista": "Realizaron o ejecutaron algo en el pasado.",
+    "usado": false
+  },
+  {
+    "palabra": "MANTENER",
+    "pista": "Conservar algo en el mismo estado o seguir sosteniendo algo.",
+    "usado": false
+  },
+  {
+    "palabra": "MODELO",
+    "pista": "Ejemplo o referencia que sirve de guía; también versión o diseño de un producto.",
+    "usado": false
+  },
+  {
+    "palabra": "NATURAL",
+    "pista": "Que es propio de la naturaleza o que no es artificial.",
+    "usado": false
+  },
+  {
+    "palabra": "NECESIDAD",
+    "pista": "Carencia de algo imprescindible; también aquello que se requiere para vivir.",
+    "usado": false
+  },
+  {
+    "palabra": "PEQUEÑA",
+    "pista": "De dimensiones o importancia reducidas.",
+    "usado": false
+  },
+  {
+    "palabra": "PREGUNTAS",
+    "pista": "Enunciados que solicitan información o respuesta.",
+    "usado": false
+  },
+  {
+    "palabra": "TRABAJADORES",
+    "pista": "Personas que realizan un trabajo, generalmente a cambio de una remuneración.",
+    "usado": false
+  },
+  {
+    "palabra": "COMISION",
+    "pista": "Grupo encargado de una tarea concreta; también porcentaje sobre una transacción.",
+    "usado": false
+  },
+  {
+    "palabra": "CONMIGO",
+    "pista": "Pronombre que indica compañía de la primera persona del singular.",
+    "usado": false
+  },
+  {
+    "palabra": "CRISIS",
+    "pista": "Momento de dificultad o inestabilidad grave en un proceso o situación.",
+    "usado": false
+  },
+  {
+    "palabra": "CAMARA",
+    "pista": "Dispositivo para capturar imágenes o vídeo; también asamblea legislativa.",
+    "usado": false
+  },
+  {
+    "palabra": "DIARIO",
+    "pista": "Publicación periódica de noticias; también registro escrito de experiencias cotidianas.",
+    "usado": false
+  },
+  {
+    "palabra": "EMPEZAR",
+    "pista": "Dar inicio a algo que aún no había comenzado.",
+    "usado": false
+  },
+  {
+    "palabra": "ENTENDER",
+    "pista": "Captar el sentido o significado de algo mediante el razonamiento.",
+    "usado": false
+  },
+  {
+    "palabra": "JOVENES",
+    "pista": "Personas en la etapa de vida entre la infancia y la madurez.",
+    "usado": false
+  },
+  {
+    "palabra": "PERDER",
+    "pista": "Dejar de tener algo; también no lograr ganar en una competición.",
+    "usado": false
+  },
+  {
+    "palabra": "POLITICAS",
+    "pista": "Conjunto de decisiones y estrategias adoptadas por un gobierno u organización.",
+    "usado": false
+  },
+  {
+    "palabra": "POSICION",
+    "pista": "Lugar que ocupa algo o alguien; también postura o punto de vista.",
+    "usado": false
+  },
+  {
+    "palabra": "SUFICIENTE",
+    "pista": "Que cumple con lo mínimo necesario sin excederse.",
+    "usado": false
+  },
+  {
+    "palabra": "TITULO",
+    "pista": "Denominación que identifica una obra, cargo o grado académico.",
+    "usado": false
+  },
+  {
+    "palabra": "LLAMADA",
+    "pista": "Comunicación iniciada por vía telefónica; también convocatoria.",
+    "usado": false
+  },
+  {
+    "palabra": "SANGRE",
+    "pista": "Líquido vital que circula por los vasos del organismo transportando nutrientes.",
+    "usado": false
+  },
+  {
+    "palabra": "VIOLENCIA",
+    "pista": "Uso de la fuerza física o psicológica para causar daño o imponerse.",
+    "usado": false
+  },
+  {
+    "palabra": "BRASIL",
+    "pista": "País más extenso de América del Sur, con el portugués como lengua oficial.",
+    "usado": false
+  },
+  {
+    "palabra": "CIUDADANOS",
+    "pista": "Personas con derechos y deberes reconocidos en una comunidad política.",
+    "usado": false
+  },
+  {
+    "palabra": "FACEBOOK",
+    "pista": "Red social digital fundada en 2004 para conectar personas en todo el mundo.",
+    "usado": false
+  },
+  {
+    "palabra": "PRINCIPIOS",
+    "pista": "Normas o ideas fundamentales que rigen el comportamiento o un sistema.",
+    "usado": false
+  },
+  {
+    "palabra": "RAPIDO",
+    "pista": "Que se realiza o desplaza en poco tiempo.",
+    "usado": false
+  },
+  {
+    "palabra": "CIUDADES",
+    "pista": "Núcleos urbanos de gran tamaño con alta densidad de población.",
+    "usado": false
+  },
+  {
+    "palabra": "CLASES",
+    "pista": "Grupos de alumnos que reciben enseñanza; también categorías o divisiones sociales.",
+    "usado": false
+  },
+  {
+    "palabra": "CONTENIDO",
+    "pista": "Aquello que se incluye o expresa en un texto, medio o recipiente.",
+    "usado": false
+  },
+  {
+    "palabra": "DECISION",
+    "pista": "Elección entre varias alternativas tras un proceso de valoración.",
+    "usado": false
+  },
+  {
+    "palabra": "ENCUENTRO",
+    "pista": "Reunión entre dos o más personas; también competición deportiva.",
+    "usado": false
+  },
+  {
+    "palabra": "ENTRADA",
+    "pista": "Acceso a un lugar; también billete que permite el ingreso a un espacio.",
+    "usado": false
+  },
+  {
+    "palabra": "FIESTA",
+    "pista": "Celebración colectiva con ambiente festivo y alegre.",
+    "usado": false
+  },
+  {
+    "palabra": "FRANCIA",
+    "pista": "País de Europa occidental conocido por su cultura, gastronomía y la torre Eiffel.",
+    "usado": false
+  },
+  {
+    "palabra": "FRANCISCO",
+    "pista": "Nombre propio masculino de origen latino muy extendido en el mundo hispanohablante.",
+    "usado": false
+  },
+  {
+    "palabra": "IMPOSIBLE",
+    "pista": "Que no puede realizarse o que resulta extremadamente difícil de conseguir.",
+    "usado": false
+  },
+  {
+    "palabra": "PERMITE",
+    "pista": "Autoriza o hace posible que algo ocurra.",
+    "usado": false
+  },
+  {
+    "palabra": "TELEVISION",
+    "pista": "Medio de comunicación que transmite imágenes y sonido a través de una pantalla.",
+    "usado": false
+  },
+  {
+    "palabra": "COMENTARIOS",
+    "pista": "Observaciones o valoraciones expresadas sobre algo.",
+    "usado": false
+  },
+  {
+    "palabra": "HECHOS",
+    "pista": "Sucesos o actos que han tenido lugar en la realidad.",
+    "usado": false
+  },
+  {
+    "palabra": "MAYORES",
+    "pista": "De más edad o de mayor tamaño; también los adultos respecto a los niños.",
+    "usado": false
+  },
+  {
+    "palabra": "NORMAL",
+    "pista": "Que se ajusta a lo habitual o esperado sin salirse de la norma.",
+    "usado": false
+  },
+  {
+    "palabra": "PRECIOS",
+    "pista": "Valores monetarios asignados a bienes o servicios.",
+    "usado": false
+  },
+  {
+    "palabra": "PROYECTOS",
+    "pista": "Planes detallados para llevar a cabo algo en el futuro.",
+    "usado": false
+  },
+  {
+    "palabra": "SABEMOS",
+    "pista": "Primera persona plural de saber; indica conocimiento compartido.",
+    "usado": false
+  },
+  {
+    "palabra": "SIGUIENTES",
+    "pista": "Los que vienen a continuación en una serie u orden.",
+    "usado": false
+  },
+  {
+    "palabra": "TIEMPOS",
+    "pista": "Periodos o épocas; también formas verbales que expresan cuándo ocurre algo.",
+    "usado": false
+  },
+  {
+    "palabra": "ANALISIS",
+    "pista": "Estudio detallado de algo para conocer sus partes, causas o características.",
+    "usado": false
+  },
+  {
+    "palabra": "APENAS",
+    "pista": "En muy pequeña cantidad o justo en ese momento.",
+    "usado": false
+  },
+  {
+    "palabra": "CONSTITUCION",
+    "pista": "Norma fundamental que organiza un Estado y reconoce derechos y deberes.",
+    "usado": false
+  },
+  {
+    "palabra": "CONTRARIO",
+    "pista": "Que se opone o es opuesto a algo; también el adversario.",
+    "usado": false
+  },
+  {
+    "palabra": "CUENTAS",
+    "pista": "Registros de operaciones económicas; también explicaciones que se dan de algo.",
+    "usado": false
+  },
+  {
+    "palabra": "CODIGO",
+    "pista": "Sistema de signos con reglas para transmitir información.",
+    "usado": false
+  },
+  {
+    "palabra": "EFECTO",
+    "pista": "Consecuencia producida por una causa; también apariencia o impresión.",
+    "usado": false
+  },
+  {
+    "palabra": "HABRIA",
+    "pista": "Forma condicional de haber; indica algo que existiría bajo ciertas condiciones.",
+    "usado": false
+  },
+  {
+    "palabra": "IZQUIERDA",
+    "pista": "Lado opuesto al derecho; también tendencia política progresista.",
+    "usado": false
+  },
+  {
+    "palabra": "PIENSO",
+    "pista": "Primera persona del presente de pensar; refleja una idea o juicio propio.",
+    "usado": false
+  },
+  {
+    "palabra": "PRESENCIA",
+    "pista": "Estado de estar en un lugar o el hecho de hacerse notar.",
+    "usado": false
+  },
+  {
+    "palabra": "PROFESOR",
+    "pista": "Persona que imparte conocimientos de forma profesional en un centro educativo.",
+    "usado": false
+  },
+  {
+    "palabra": "QUIZAS",
+    "pista": "Expresa duda o posibilidad sobre algo.",
+    "usado": false
+  },
+  {
+    "palabra": "SIGUEN",
+    "pista": "Continúan haciendo algo o van detrás de alguien.",
+    "usado": false
+  },
+  {
+    "palabra": "TENIAN",
+    "pista": "Forma del pasado de tener; indica posesión en un tiempo anterior.",
+    "usado": false
+  },
+  {
+    "palabra": "VERSION",
+    "pista": "Variante de un texto, producto o relato; también relato particular de un hecho.",
+    "usado": false
+  },
+  {
+    "palabra": "BARCELONA",
+    "pista": "Ciudad costera del noreste de España, capital de Cataluña.",
+    "usado": false
+  },
+  {
+    "palabra": "CHICOS",
+    "pista": "Personas jóvenes, generalmente en la infancia o adolescencia.",
+    "usado": false
+  },
+  {
+    "palabra": "CUESTION",
+    "pista": "Asunto o problema que requiere atención o debate.",
+    "usado": false
+  },
+  {
+    "palabra": "DEBEMOS",
+    "pista": "Tenemos la obligación o necesidad de hacer algo.",
+    "usado": false
+  },
+  {
+    "palabra": "ESCRIBIR",
+    "pista": "Representar palabras o ideas mediante signos gráficos.",
+    "usado": false
+  },
+  {
+    "palabra": "ESPAÑOLA",
+    "pista": "Relativo a España o a la lengua castellana.",
+    "usado": false
+  },
+  {
+    "palabra": "FORMACION",
+    "pista": "Proceso de adquirir conocimientos o habilidades; también estructura organizada.",
+    "usado": false
+  },
+  {
+    "palabra": "IMPORTANCIA",
+    "pista": "Grado de relevancia o valor que tiene algo.",
+    "usado": false
+  },
+  {
+    "palabra": "INDUSTRIA",
+    "pista": "Sector económico dedicado a la transformación de materias primas en productos.",
+    "usado": false
+  },
+  {
+    "palabra": "INSTITUTO",
+    "pista": "Centro de enseñanza secundaria; también organismo de investigación o cultural.",
+    "usado": false
+  },
+  {
+    "palabra": "ORIGEN",
+    "pista": "Punto de partida o causa primera de algo.",
+    "usado": false
+  },
+  {
+    "palabra": "PREMIO",
+    "pista": "Recompensa otorgada por un logro o mérito destacado.",
+    "usado": false
+  },
+  {
+    "palabra": "SIMPLE",
+    "pista": "Que no tiene complicación ni elementos superfluos.",
+    "usado": false
+  },
+  {
+    "palabra": "UNIDAD",
+    "pista": "Cualidad de lo que forma un todo coherente; también cada elemento de un conjunto.",
+    "usado": false
+  },
+  {
+    "palabra": "CAMBIOS",
+    "pista": "Transformaciones o sustituciones de una cosa por otra.",
+    "usado": false
+  },
+  {
+    "palabra": "CULTURAL",
+    "pista": "Relativo a la cultura, las artes o las costumbres de una sociedad.",
+    "usado": false
+  },
+  {
+    "palabra": "DERECHA",
+    "pista": "Lado opuesto al izquierdo; también tendencia política conservadora.",
+    "usado": false
+  },
+  {
+    "palabra": "ECONOMICA",
+    "pista": "Relativo a la economía o a la gestión eficiente de los recursos.",
+    "usado": false
+  },
+  {
+    "palabra": "ESCRITO",
+    "pista": "Texto fijado mediante signos gráficos; participio de escribir.",
+    "usado": false
+  },
+  {
+    "palabra": "ESPERANDO",
+    "pista": "En estado de espera, aguardando que algo ocurra.",
+    "usado": false
+  },
+  {
+    "palabra": "GUSTARIA",
+    "pista": "Forma condicional de gustar; expresa un deseo o preferencia hipotética.",
+    "usado": false
+  },
+  {
+    "palabra": "INTERESANTE",
+    "pista": "Que despierta curiosidad, atención o valor por su contenido.",
+    "usado": false
+  },
+  {
+    "palabra": "JUICIO",
+    "pista": "Proceso mental de valorar algo; también procedimiento legal ante un tribunal.",
+    "usado": false
+  },
+  {
+    "palabra": "NOTICIA",
+    "pista": "Información sobre un hecho reciente de interés público.",
+    "usado": false
+  },
+  {
+    "palabra": "ORIGINAL",
+    "pista": "Que es el primero o la fuente de algo; también que es novedoso y singular.",
+    "usado": false
+  },
+  {
+    "palabra": "PRENSA",
+    "pista": "Conjunto de publicaciones periódicas y medios de comunicación escritos.",
+    "usado": false
+  },
+  {
+    "palabra": "PROPIEDAD",
+    "pista": "Derecho de poseer algo; también característica inherente a algo.",
+    "usado": false
+  },
+  {
+    "palabra": "REVOLUCION",
+    "pista": "Cambio profundo y rápido en el orden político, social o tecnológico.",
+    "usado": false
+  },
+  {
+    "palabra": "VICTORIA",
+    "pista": "Éxito obtenido en una competición, batalla o enfrentamiento.",
+    "usado": false
+  },
+  {
+    "palabra": "VUELVE",
+    "pista": "Regresa a un lugar o retoma algo que había dejado.",
+    "usado": false
+  },
+  {
+    "palabra": "ANTONIO",
+    "pista": "Nombre propio masculino de origen latino, muy frecuente en países hispanohablantes.",
+    "usado": false
+  },
+  {
+    "palabra": "ARTICULOS",
+    "pista": "Textos periodísticos o académicos; también cada pieza de un conjunto legal o comercial.",
+    "usado": false
+  },
+  {
+    "palabra": "ASUNTO",
+    "pista": "Tema o materia sobre la que se trata o que requiere atención.",
+    "usado": false
+  },
+  {
+    "palabra": "BUSCANDO",
+    "pista": "En proceso de localizar algo o a alguien.",
+    "usado": false
+  },
+  {
+    "palabra": "CONOCE",
+    "pista": "Tiene trato o noción de algo o alguien.",
+    "usado": false
+  },
+  {
+    "palabra": "CONOCIMIENTO",
+    "pista": "Conjunto de ideas y datos adquiridos mediante el estudio o la experiencia.",
+    "usado": false
+  },
+  {
+    "palabra": "ESTUDIANTES",
+    "pista": "Personas que cursan estudios en un centro educativo.",
+    "usado": false
+  },
+  {
+    "palabra": "HUMANO",
+    "pista": "Relativo al ser de la especie Homo sapiens; también compasivo y cercano.",
+    "usado": false
+  },
+  {
+    "palabra": "IMAGENES",
+    "pista": "Representaciones visuales de personas, objetos o escenas.",
+    "usado": false
+  },
+  {
+    "palabra": "MARCHA",
+    "pista": "Desplazamiento a pie; también estado de funcionamiento de algo.",
+    "usado": false
+  },
+  {
+    "palabra": "PASANDO",
+    "pista": "Ocurriendo en ese momento; también atravesando un lugar o situación.",
+    "usado": false
+  },
+  {
+    "palabra": "PUEDAN",
+    "pista": "Forma del subjuntivo de poder; indica posibilidad o permiso.",
+    "usado": false
+  },
+  {
+    "palabra": "TECNOLOGIA",
+    "pista": "Conjunto de técnicas y conocimientos aplicados para resolver problemas prácticos.",
+    "usado": false
+  },
+  {
+    "palabra": "TRABAJOS",
+    "pista": "Tareas realizadas con esfuerzo; también empleos o estudios elaborados.",
+    "usado": false
+  },
+  {
+    "palabra": "APRENDER",
+    "pista": "Adquirir conocimientos o habilidades nuevas mediante la práctica o el estudio.",
+    "usado": false
+  },
+  {
+    "palabra": "CONJUNTO",
+    "pista": "Totalidad de elementos que forman una unidad o grupo.",
+    "usado": false
+  },
+  {
+    "palabra": "CUARTO",
+    "pista": "Habitación de una vivienda; también una de las cuatro partes iguales de algo.",
+    "usado": false
+  },
+  {
+    "palabra": "DEMOCRACIA",
+    "pista": "Sistema político en el que la ciudadanía participa en las decisiones públicas.",
+    "usado": false
+  },
+  {
+    "palabra": "GENERO",
+    "pista": "Categoría que clasifica seres, obras o palabras según características comunes.",
+    "usado": false
+  },
+  {
+    "palabra": "MUERTO",
+    "pista": "Que ha dejado de vivir; también algo sin actividad o movimiento.",
+    "usado": false
+  },
+  {
+    "palabra": "NACION",
+    "pista": "Comunidad humana con identidad común que habita un territorio.",
+    "usado": false
+  },
+  {
+    "palabra": "NEGOCIO",
+    "pista": "Actividad económica orientada a obtener beneficios.",
+    "usado": false
+  },
+  {
+    "palabra": "PARTICULAR",
+    "pista": "Que es propio de alguien o algo; también persona privada no vinculada a lo público.",
+    "usado": false
+  },
+  {
+    "palabra": "POSIBILIDAD",
+    "pista": "Circunstancia que permite que algo pueda ocurrir.",
+    "usado": false
+  },
+  {
+    "palabra": "PROFESIONAL",
+    "pista": "Que ejerce una actividad con formación específica y como medio de vida.",
+    "usado": false
+  },
+  {
+    "palabra": "REGIMEN",
+    "pista": "Sistema político o de gobierno; también conjunto de normas que regulan algo.",
+    "usado": false
+  },
+  {
+    "palabra": "VISITA",
+    "pista": "Presencia de alguien en un lugar o con una persona con un fin concreto.",
+    "usado": false
+  },
+  {
+    "palabra": "AMBIENTE",
+    "pista": "Entorno o condiciones que rodean a un ser o situación.",
+    "usado": false
+  },
+  {
+    "palabra": "ATAQUE",
+    "pista": "Acción agresiva dirigida contra algo o alguien.",
+    "usado": false
+  },
+  {
+    "palabra": "ECONOMICO",
+    "pista": "Relativo a la economía; también que tiene bajo coste.",
+    "usado": false
+  },
+  {
+    "palabra": "FEDERAL",
+    "pista": "Relativo a un sistema en que territorios autónomos comparten un gobierno central.",
+    "usado": false
+  },
+  {
+    "palabra": "LENGUA",
+    "pista": "Sistema de comunicación verbal propio de una comunidad; también órgano bucal.",
+    "usado": false
+  },
+  {
+    "palabra": "NATURALEZA",
+    "pista": "Conjunto del mundo físico no creado por el ser humano.",
+    "usado": false
+  },
+  {
+    "palabra": "NOCHES",
+    "pista": "Periodos de oscuridad entre el atardecer y el amanecer.",
+    "usado": false
+  },
+  {
+    "palabra": "PIENSA",
+    "pista": "Reflexiona o tiene una idea sobre algo.",
+    "usado": false
+  },
+  {
+    "palabra": "PROGRAMAS",
+    "pista": "Conjuntos de instrucciones o actividades organizadas para un fin.",
+    "usado": false
+  },
+  {
+    "palabra": "PROTECCION",
+    "pista": "Medidas adoptadas para resguardar algo de un daño o amenaza.",
+    "usado": false
+  },
+  {
+    "palabra": "PRUEBAS",
+    "pista": "Comprobaciones o evidencias que verifican algo; también exámenes.",
+    "usado": false
+  },
+  {
+    "palabra": "PUBLICADO",
+    "pista": "Que ha sido difundido o puesto a disposición del público.",
+    "usado": false
+  },
+  {
+    "palabra": "SANTIAGO",
+    "pista": "Ciudad capital de Chile; también nombre propio masculino.",
+    "usado": false
+  },
+  {
+    "palabra": "TRABAJANDO",
+    "pista": "En proceso de realizar una labor o actividad.",
+    "usado": false
+  },
+  {
+    "palabra": "TRANSPORTE",
+    "pista": "Sistema o medio para trasladar personas o mercancías de un lugar a otro.",
+    "usado": false
+  },
+  {
+    "palabra": "USUARIOS",
+    "pista": "Personas que utilizan un servicio, producto o plataforma.",
+    "usado": false
+  },
+  {
+    "palabra": "ANIMALES",
+    "pista": "Seres vivos pluricelulares que se mueven y se alimentan de otros organismos.",
+    "usado": false
+  },
+  {
+    "palabra": "ASOCIACION",
+    "pista": "Agrupación de personas unidas para un fin común sin ánimo de lucro.",
+    "usado": false
+  },
+  {
+    "palabra": "COMPLETO",
+    "pista": "Que tiene todas sus partes o que ha llegado a su fin.",
+    "usado": false
+  },
+  {
+    "palabra": "CUIDADO",
+    "pista": "Atención y precaución con que se trata algo o a alguien.",
+    "usado": false
+  },
+  {
+    "palabra": "DETRAS",
+    "pista": "En la parte posterior de algo o en posición de seguimiento.",
+    "usado": false
+  },
+  {
+    "palabra": "EDICION",
+    "pista": "Versión publicada de una obra; también cada tirada de una publicación.",
+    "usado": false
+  },
+  {
+    "palabra": "ENCUENTRAN",
+    "pista": "Hallan o se topan con algo; están presentes en un lugar.",
+    "usado": false
+  },
+  {
+    "palabra": "ESCUCHAR",
+    "pista": "Prestar atención consciente a los sonidos o palabras que se perciben.",
+    "usado": false
+  },
+  {
+    "palabra": "INFORME",
+    "pista": "Documento que expone de manera ordenada datos sobre un tema.",
+    "usado": false
+  },
+  {
+    "palabra": "LLEGADO",
+    "pista": "Que ha alcanzado un destino o que ha ocurrido en un momento.",
+    "usado": false
+  },
+  {
+    "palabra": "MANUEL",
+    "pista": "Nombre propio masculino de origen hebreo, muy común en el mundo hispanohablante.",
+    "usado": false
+  },
+  {
+    "palabra": "MATERIAL",
+    "pista": "Sustancia física con que está hecha una cosa; también relativo a lo físico.",
+    "usado": false
+  },
+  {
+    "palabra": "METROS",
+    "pista": "Unidades de longitud del sistema internacional.",
+    "usado": false
+  },
+  {
+    "palabra": "MOMENTOS",
+    "pista": "Instantes o periodos breves de tiempo.",
+    "usado": false
+  },
+  {
+    "palabra": "NACIONALES",
+    "pista": "Relativo a una nación o perteneciente al conjunto del país.",
+    "usado": false
+  },
+  {
+    "palabra": "PAREJA",
+    "pista": "Conjunto de dos personas o cosas que se complementan; especialmente en el amor.",
+    "usado": false
+  },
+  {
+    "palabra": "PERFECTO",
+    "pista": "Sin defectos ni carencias; que cumple plenamente con lo esperado.",
+    "usado": false
+  },
+  {
+    "palabra": "PRESENTA",
+    "pista": "Muestra o expone algo ante otros; también introduce a una persona.",
+    "usado": false
+  },
+  {
+    "palabra": "RAZONES",
+    "pista": "Argumentos o motivos que justifican algo.",
+    "usado": false
+  },
+  {
+    "palabra": "RECUERDA",
+    "pista": "Trae algo a la memoria o lo menciona para que no se olvide.",
+    "usado": false
+  },
+  {
+    "palabra": "VIENDO",
+    "pista": "Observando con la vista en ese momento.",
+    "usado": false
+  },
+  {
+    "palabra": "CHICAS",
+    "pista": "Personas jóvenes del género femenino.",
+    "usado": false
+  },
+  {
+    "palabra": "CONFIANZA",
+    "pista": "Seguridad que se tiene en alguien o algo por su fiabilidad.",
+    "usado": false
+  },
+  {
+    "palabra": "CREACION",
+    "pista": "Acto de producir algo nuevo; también obra resultante de ese acto.",
+    "usado": false
+  },
+  {
+    "palabra": "DESTINO",
+    "pista": "Lugar al que algo o alguien se dirige; también fuerza que determina los hechos.",
+    "usado": false
+  },
+  {
+    "palabra": "ESPECIE",
+    "pista": "Categoría biológica que agrupa seres con características comunes.",
+    "usado": false
+  },
+  {
+    "palabra": "ESPOSA",
+    "pista": "Mujer unida a otra persona mediante matrimonio.",
+    "usado": false
+  },
+  {
+    "palabra": "HAMBRE",
+    "pista": "Sensación física de necesidad de alimento; también escasez generalizada de comida.",
+    "usado": false
+  },
+  {
+    "palabra": "MUERTOS",
+    "pista": "Personas o seres que han dejado de vivir.",
+    "usado": false
+  },
+  {
+    "palabra": "NEGOCIOS",
+    "pista": "Actividades comerciales o económicas orientadas al beneficio.",
+    "usado": false
+  },
+  {
+    "palabra": "OBTENER",
+    "pista": "Conseguir algo mediante un esfuerzo, petición o proceso.",
+    "usado": false
+  },
+  {
+    "palabra": "PENSANDO",
+    "pista": "En proceso de reflexionar o elaborar ideas.",
+    "usado": false
+  },
+  {
+    "palabra": "PROPUESTA",
+    "pista": "Oferta o plan que se presenta para que otros lo consideren.",
+    "usado": false
+  },
+  {
+    "palabra": "PUEBLOS",
+    "pista": "Localidades pequeñas; también comunidades humanas con identidad propia.",
+    "usado": false
+  },
+  {
+    "palabra": "QUIERA",
+    "pista": "Forma del subjuntivo de querer; indica deseo o voluntad hipotética.",
+    "usado": false
+  },
+  {
+    "palabra": "REUNION",
+    "pista": "Encuentro de varias personas para tratar un asunto.",
+    "usado": false
+  },
+  {
+    "palabra": "REVISTA",
+    "pista": "Publicación periódica sobre temas específicos, generalmente ilustrada.",
+    "usado": false
+  },
+  {
+    "palabra": "SOLUCION",
+    "pista": "Respuesta o medida que resuelve un problema.",
+    "usado": false
+  },
+  {
+    "palabra": "TERRITORIO",
+    "pista": "Extensión de tierra delimitada que pertenece a un Estado o grupo.",
+    "usado": false
+  },
+  {
+    "palabra": "APLICACION",
+    "pista": "Programa informático diseñado para una función concreta; también puesta en práctica.",
+    "usado": false
+  },
+  {
+    "palabra": "AUMENTO",
+    "pista": "Incremento en cantidad, tamaño o intensidad.",
+    "usado": false
+  },
+  {
+    "palabra": "CALLES",
+    "pista": "Vías públicas entre edificios dentro de una localidad.",
+    "usado": false
+  },
+  {
+    "palabra": "CIENCIA",
+    "pista": "Conjunto de conocimientos obtenidos mediante observación y razonamiento sistemático.",
+    "usado": false
+  },
+  {
+    "palabra": "DISTANCIA",
+    "pista": "Separación entre dos puntos en el espacio o en el tiempo.",
+    "usado": false
+  },
+  {
+    "palabra": "FAMILIAS",
+    "pista": "Grupos de personas unidas por lazos de parentesco o convivencia.",
+    "usado": false
+  },
+  {
+    "palabra": "MEMORIA",
+    "pista": "Capacidad de retener y recordar experiencias o información.",
+    "usado": false
+  },
+  {
+    "palabra": "MOTIVO",
+    "pista": "Razón o causa que impulsa a hacer algo.",
+    "usado": false
+  },
+  {
+    "palabra": "OPCION",
+    "pista": "Cada una de las alternativas entre las que se puede elegir.",
+    "usado": false
+  },
+  {
+    "palabra": "PRACTICA",
+    "pista": "Ejercicio repetido para adquirir habilidad; también aplicación de un saber.",
+    "usado": false
+  },
+  {
+    "palabra": "REALIZAR",
+    "pista": "Llevar a cabo algo de manera efectiva.",
+    "usado": false
+  },
+  {
+    "palabra": "REFERENCIA",
+    "pista": "Dato o fuente que sirve para identificar o localizar algo.",
+    "usado": false
+  },
+  {
+    "palabra": "REFORMA",
+    "pista": "Modificación de algo para mejorarlo o adaptarlo a nuevas necesidades.",
+    "usado": false
+  },
+  {
+    "palabra": "RESULTA",
+    "pista": "Da como resultado; también se manifiesta de cierta manera.",
+    "usado": false
+  },
+  {
+    "palabra": "RIESGO",
+    "pista": "Posibilidad de que ocurra algo dañino o no deseado.",
+    "usado": false
+  },
+  {
+    "palabra": "SENTIR",
+    "pista": "Percibir a través de los sentidos o experimentar un estado emocional.",
+    "usado": false
+  },
+  {
+    "palabra": "SILENCIO",
+    "pista": "Ausencia de ruido o de sonido perceptible.",
+    "usado": false
+  },
+  {
+    "palabra": "TEMPORADA",
+    "pista": "Periodo de tiempo con características o actividades propias.",
+    "usado": false
+  },
+  {
+    "palabra": "TERMINAR",
+    "pista": "Llegar al final de algo o completarlo.",
+    "usado": false
+  },
+  {
+    "palabra": "AUTORIDADES",
+    "pista": "Personas o instituciones con poder para tomar decisiones y hacerlas cumplir.",
+    "usado": false
+  },
+  {
+    "palabra": "COMENZO",
+    "pista": "Inició o dio comienzo a algo en el pasado.",
+    "usado": false
+  },
+  {
+    "palabra": "COMERCIO",
+    "pista": "Actividad de comprar y vender bienes o servicios.",
+    "usado": false
+  },
+  {
+    "palabra": "ELEMENTOS",
+    "pista": "Partes o componentes que forman un todo.",
+    "usado": false
+  },
+  {
+    "palabra": "EQUIPOS",
+    "pista": "Grupos de personas que trabajan juntas; también conjuntos de herramientas.",
+    "usado": false
+  },
+  {
+    "palabra": "ESFUERZO",
+    "pista": "Empleo de energía física o mental para lograr algo.",
+    "usado": false
+  },
+  {
+    "palabra": "FUENTES",
+    "pista": "Orígenes de donde procede algo; también puntos de abastecimiento de agua.",
+    "usado": false
+  },
+  {
+    "palabra": "GRATIS",
+    "pista": "Sin coste económico para quien lo recibe.",
+    "usado": false
+  },
+  {
+    "palabra": "LOCALES",
+    "pista": "Perteneciente a un lugar concreto; también espacios físicos para una actividad.",
+    "usado": false
+  },
+  {
+    "palabra": "MIEMBRO",
+    "pista": "Persona que forma parte de un grupo u organización.",
+    "usado": false
+  },
+  {
+    "palabra": "MEDICO",
+    "pista": "Profesional sanitario titulado para diagnosticar y tratar enfermedades.",
+    "usado": false
+  },
+  {
+    "palabra": "PERDIDO",
+    "pista": "Que no se encuentra o que ha sido extraviado.",
+    "usado": false
+  },
+  {
+    "palabra": "PRODUCTO",
+    "pista": "Bien resultante de un proceso de fabricación o extracción.",
+    "usado": false
+  },
+  {
+    "palabra": "PROXIMO",
+    "pista": "Que está cerca en el espacio o que llegará pronto en el tiempo.",
+    "usado": false
+  },
+  {
+    "palabra": "SALIDA",
+    "pista": "Punto por el que se abandona un lugar; también solución a una situación.",
+    "usado": false
+  },
+  {
+    "palabra": "SELECCION",
+    "pista": "Conjunto de personas elegidas por sus méritos; también acto de escoger.",
+    "usado": false
+  },
+  {
+    "palabra": "SISTEMAS",
+    "pista": "Conjuntos organizados de elementos que interactúan para un fin.",
+    "usado": false
+  },
+  {
+    "palabra": "TENDRA",
+    "pista": "Forma de futuro de tener; indica que algo se poseerá o existirá más adelante.",
+    "usado": false
+  },
+  {
+    "palabra": "TENIENDO",
+    "pista": "En proceso de poseer o experimentar algo en ese momento.",
+    "usado": false
+  },
+  {
+    "palabra": "APARECE",
+    "pista": "Se hace visible o surge algo que antes no estaba presente.",
+    "usado": false
+  },
+  {
+    "palabra": "CONOZCO",
+    "pista": "Primera persona de conocer; indica trato o noción propia de algo o alguien.",
+    "usado": false
+  },
+  {
+    "palabra": "CONTACTO",
+    "pista": "Relación o comunicación entre personas; también punto de unión físico.",
+    "usado": false
+  },
+  {
+    "palabra": "CONTAR",
+    "pista": "Narrar algo; también enumerar o calcular una cantidad.",
+    "usado": false
+  },
+  {
+    "palabra": "CRECIMIENTO",
+    "pista": "Proceso de aumento en tamaño, cantidad o desarrollo.",
+    "usado": false
+  },
+  {
+    "palabra": "DESPUES",
+    "pista": "En un momento posterior; a continuación de algo.",
+    "usado": false
+  },
+  {
+    "palabra": "EXCELENTE",
+    "pista": "De calidad muy superior a lo habitual; que destaca notablemente.",
+    "usado": false
+  },
+  {
+    "palabra": "FUNCION",
+    "pista": "Actividad o papel que desempeña algo; también representación escénica.",
+    "usado": false
+  },
+  {
+    "palabra": "INTERESES",
+    "pista": "Ventajas o beneficios que se persiguen; también rendimiento económico de un capital.",
+    "usado": false
+  },
+  {
+    "palabra": "TERMINO",
+    "pista": "Fin o límite de algo; también palabra o expresión de un campo específico.",
+    "usado": false
+  },
+  {
+    "palabra": "VALORES",
+    "pista": "Principios éticos o morales que guían el comportamiento; también bienes económicos.",
+    "usado": false
+  },
+  {
+    "palabra": "VERDADERO",
+    "pista": "Que se ajusta a la realidad sin falsedad ni engaño.",
+    "usado": false
+  },
+  {
+    "palabra": "CORRUPCION",
+    "pista": "Uso indebido de poder o confianza para obtener beneficios ilícitos.",
+    "usado": false
+  },
+  {
+    "palabra": "DORMIR",
+    "pista": "Estado de reposo en que se suspende la actividad consciente.",
+    "usado": false
+  },
+  {
+    "palabra": "ESPERANZA",
+    "pista": "Confianza en que algo deseado ocurrirá en el futuro.",
+    "usado": false
+  },
+  {
+    "palabra": "FISCAL",
+    "pista": "Relativo al fisco o a la hacienda pública; también funcionario que representa la acusación.",
+    "usado": false
+  },
+  {
+    "palabra": "INCLUYE",
+    "pista": "Contiene o incorpora algo dentro de un conjunto.",
+    "usado": false
+  },
+  {
+    "palabra": "MILITARES",
+    "pista": "Personas pertenecientes a las fuerzas armadas de un Estado.",
+    "usado": false
+  },
+  {
+    "palabra": "NOMBRES",
+    "pista": "Palabras que identifican a personas, lugares o cosas.",
+    "usado": false
+  },
+  {
+    "palabra": "PROPIOS",
+    "pista": "Que pertenecen a alguien en exclusiva o son característicos de algo.",
+    "usado": false
+  },
+  {
+    "palabra": "PUBLICOS",
+    "pista": "Que son accesibles o pertenecen a la ciudadanía en general.",
+    "usado": false
+  },
+  {
+    "palabra": "TENGAN",
+    "pista": "Forma del subjuntivo de tener; indica posesión o condición hipotética.",
+    "usado": false
+  },
+  {
+    "palabra": "TRATAR",
+    "pista": "Relacionarse con alguien; también intentar hacer algo o abordar un tema.",
+    "usado": false
+  },
+  {
+    "palabra": "TRIBUNAL",
+    "pista": "Órgano con autoridad para juzgar y dictar sentencias.",
+    "usado": false
+  },
+  {
+    "palabra": "USUARIO",
+    "pista": "Persona que utiliza un servicio, sistema o producto.",
+    "usado": false
+  },
+  {
+    "palabra": "BARRIO",
+    "pista": "División de una ciudad con características o identidad propias.",
+    "usado": false
+  },
+  {
+    "palabra": "CIENTO",
+    "pista": "Número equivalente a diez veces diez.",
+    "usado": false
+  },
+  {
+    "palabra": "COMERCIAL",
+    "pista": "Relativo al comercio; también espacio publicitario en medios.",
+    "usado": false
+  },
+  {
+    "palabra": "EFECTOS",
+    "pista": "Consecuencias producidas por una causa; también bienes o pertenencias.",
+    "usado": false
+  },
+  {
+    "palabra": "ELECCION",
+    "pista": "Acto de escoger entre varias opciones; también proceso de votación.",
+    "usado": false
+  },
+  {
+    "palabra": "EMPEZO",
+    "pista": "Dio comienzo a algo en el pasado.",
+    "usado": false
+  },
+  {
+    "palabra": "EXTERIOR",
+    "pista": "Parte de fuera; también lo relativo a otros países.",
+    "usado": false
+  },
+  {
+    "palabra": "HABITANTES",
+    "pista": "Personas que residen de manera permanente en un lugar.",
+    "usado": false
+  },
+  {
+    "palabra": "HERMANOS",
+    "pista": "Personas con los mismos padres; también trato de solidaridad entre personas.",
+    "usado": false
+  },
+  {
+    "palabra": "LLAMAR",
+    "pista": "Invocar a alguien para que acuda; también denominar algo de cierta manera.",
+    "usado": false
+  },
+  {
+    "palabra": "MEJORAR",
+    "pista": "Pasar a un estado más favorable o de mayor calidad.",
+    "usado": false
+  },
+  {
+    "palabra": "MIGUEL",
+    "pista": "Nombre propio masculino de origen hebreo, muy extendido en el mundo hispanohablante.",
+    "usado": false
+  },
+  {
+    "palabra": "OFICIALES",
+    "pista": "Reconocidos por una autoridad competente; también miembros de cierto rango militar.",
+    "usado": false
+  },
+  {
+    "palabra": "PEQUEÑOS",
+    "pista": "De tamaño o importancia reducida; también niños de corta edad.",
+    "usado": false
+  },
+  {
+    "palabra": "PODRIAN",
+    "pista": "Forma condicional de poder; indica posibilidad bajo ciertas condiciones.",
+    "usado": false
+  },
+  {
+    "palabra": "SIENTE",
+    "pista": "Experimenta una emoción o percepción sensorial.",
+    "usado": false
+  },
+  {
+    "palabra": "TRISTE",
+    "pista": "Que experimenta o expresa melancolía o pena.",
+    "usado": false
+  },
+  {
+    "palabra": "ALGUNO",
+    "pista": "Un número indeterminado pero no nulo de algo.",
+    "usado": false
+  },
+  {
+    "palabra": "CONTRATO",
+    "pista": "Acuerdo formal entre partes que genera obligaciones y derechos.",
+    "usado": false
+  },
+  {
+    "palabra": "DEBATE",
+    "pista": "Intercambio de argumentos entre posiciones distintas sobre un tema.",
+    "usado": false
+  },
+  {
+    "palabra": "DIERON",
+    "pista": "Forma del pasado de dar; entregaron o proporcionaron algo.",
+    "usado": false
+  },
+  {
+    "palabra": "DISEÑO",
+    "pista": "Plan o esquema que define la forma y función de algo antes de crearlo.",
+    "usado": false
+  },
+  {
+    "palabra": "ELECTORAL",
+    "pista": "Relativo a las elecciones o al proceso de votación.",
+    "usado": false
+  },
+  {
+    "palabra": "PELICULAS",
+    "pista": "Obras audiovisuales de ficción o documental proyectadas en pantalla.",
+    "usado": false
+  },
+  {
+    "palabra": "QUEDAN",
+    "pista": "Permanecen en un lugar o estado; también restan tras una resta.",
+    "usado": false
+  },
+  {
+    "palabra": "RECIBIR",
+    "pista": "Aceptar o hacerse cargo de algo que otro entrega.",
+    "usado": false
+  },
+  {
+    "palabra": "SIMILAR",
+    "pista": "Que tiene parecido o semejanza con otra cosa sin ser idéntico.",
+    "usado": false
+  },
+  {
+    "palabra": "VIENEN",
+    "pista": "Se aproximan o proceden de un lugar.",
+    "usado": false
+  },
+  {
+    "palabra": "ARGENTINO",
+    "pista": "Natural de Argentina o relativo a ese país sudamericano.",
+    "usado": false
+  },
+  {
+    "palabra": "CUMPLIR",
+    "pista": "Llevar a cabo lo prometido o lo requerido; también alcanzar cierta edad.",
+    "usado": false
+  },
+  {
+    "palabra": "DISCURSO",
+    "pista": "Exposición oral o escrita sobre un tema ante un público.",
+    "usado": false
+  },
+  {
+    "palabra": "ENCANTA",
+    "pista": "Produce gran agrado o deleite.",
+    "usado": false
+  },
+  {
+    "palabra": "ENTREVISTA",
+    "pista": "Conversación estructurada en la que se obtiene información de alguien.",
+    "usado": false
+  },
+  {
+    "palabra": "ESPAÑOLES",
+    "pista": "Naturales de España o relativo a ese país europeo.",
+    "usado": false
+  },
+  {
+    "palabra": "ESTUDIAR",
+    "pista": "Aplicar el entendimiento para aprender algo.",
+    "usado": false
+  },
+  {
+    "palabra": "EXPRESION",
+    "pista": "Manifestación de ideas o sentimientos mediante palabras, gestos o arte.",
+    "usado": false
+  },
+  {
+    "palabra": "EXTRAÑO",
+    "pista": "Que no es habitual o no pertenece al entorno conocido.",
+    "usado": false
+  },
+  {
+    "palabra": "FLORES",
+    "pista": "Órganos reproductores de las plantas, generalmente llamativos por su color.",
+    "usado": false
+  },
+  {
+    "palabra": "FUNCIONA",
+    "pista": "Opera o trabaja de manera correcta.",
+    "usado": false
+  },
+  {
+    "palabra": "GARCIA",
+    "pista": "Apellido muy frecuente en el mundo hispanohablante.",
+    "usado": false
+  },
+  {
+    "palabra": "INCREIBLE",
+    "pista": "Que supera lo esperado o parece difícil de creer.",
+    "usado": false
+  },
+  {
+    "palabra": "INICIO",
+    "pista": "Punto o momento en que algo comienza.",
+    "usado": false
+  },
+  {
+    "palabra": "MATERIA",
+    "pista": "Sustancia física que compone los cuerpos; también asignatura o tema de estudio.",
+    "usado": false
+  },
+  {
+    "palabra": "NINGUNO",
+    "pista": "Ni uno solo de un conjunto; ausencia total.",
+    "usado": false
+  },
+  {
+    "palabra": "OPOSICION",
+    "pista": "Resistencia o posición contraria a algo; también conjunto de partidos que no gobiernan.",
+    "usado": false
+  },
+  {
+    "palabra": "REGISTRO",
+    "pista": "Anotación oficial de datos; también acción de inspeccionar un lugar.",
+    "usado": false
+  },
+  {
+    "palabra": "TERMINOS",
+    "pista": "Palabras de un campo específico; también condiciones de un acuerdo.",
+    "usado": false
+  },
+  {
+    "palabra": "VECINOS",
+    "pista": "Personas que residen en el mismo edificio, barrio o localidad.",
+    "usado": false
+  },
+  {
+    "palabra": "ASAMBLEA",
+    "pista": "Reunión de personas con representación para tratar asuntos comunes.",
+    "usado": false
+  },
+  {
+    "palabra": "CANCIONES",
+    "pista": "Composiciones musicales breves con letra destinadas a ser cantadas.",
+    "usado": false
+  },
+  {
+    "palabra": "DETALLES",
+    "pista": "Elementos pequeños pero significativos de algo.",
+    "usado": false
+  },
+  {
+    "palabra": "DIJERON",
+    "pista": "Forma del pasado de decir; expresaron algo verbalmente.",
+    "usado": false
+  },
+  {
+    "palabra": "EMPLEO",
+    "pista": "Trabajo remunerado que ocupa a una persona; también uso de algo.",
+    "usado": false
+  },
+  {
+    "palabra": "ENFERMEDAD",
+    "pista": "Alteración del estado de salud que afecta al organismo.",
+    "usado": false
+  },
+  {
+    "palabra": "ESCENA",
+    "pista": "Fragmento de una obra teatral o cinematográfica; también lugar donde ocurre algo.",
+    "usado": false
+  },
+  {
+    "palabra": "ESTRUCTURA",
+    "pista": "Modo en que están organizadas las partes de un todo.",
+    "usado": false
+  },
+  {
+    "palabra": "HACEMOS",
+    "pista": "Primera persona plural de hacer; realizamos algo conjuntamente.",
+    "usado": false
+  },
+  {
+    "palabra": "INCLUYENDO",
+    "pista": "Incorporando algo dentro de un conjunto o relación.",
+    "usado": false
+  },
+  {
+    "palabra": "MATRIMONIO",
+    "pista": "Unión formal y legal entre dos personas reconocida por la sociedad.",
+    "usado": false
+  },
+  {
+    "palabra": "MISION",
+    "pista": "Tarea encomendada con un fin específico; también establecimiento religioso.",
+    "usado": false
+  },
+  {
+    "palabra": "PARECER",
+    "pista": "Tener cierto aspecto o semejanza; también opinión o criterio propio.",
+    "usado": false
+  },
+  {
+    "palabra": "PARTICIPAR",
+    "pista": "Tomar parte en algo de manera activa.",
+    "usado": false
+  },
+  {
+    "palabra": "PELIGRO",
+    "pista": "Situación en que existe riesgo de daño o amenaza.",
+    "usado": false
+  },
+  {
+    "palabra": "PRESION",
+    "pista": "Fuerza ejercida sobre una superficie; también coacción sobre alguien.",
+    "usado": false
+  },
+  {
+    "palabra": "SECCION",
+    "pista": "Parte diferenciada dentro de un todo organizado.",
+    "usado": false
+  },
+  {
+    "palabra": "TERCERA",
+    "pista": "Que ocupa el lugar número tres en una serie.",
+    "usado": false
+  },
+  {
+    "palabra": "BATALLA",
+    "pista": "Enfrentamiento armado entre grupos o ejércitos.",
+    "usado": false
+  },
+  {
+    "palabra": "CARACTER",
+    "pista": "Conjunto de rasgos que definen la personalidad de alguien.",
+    "usado": false
+  },
+  {
+    "palabra": "DEBERIAN",
+    "pista": "Forma condicional de deber; indica obligación o conveniencia hipotética.",
+    "usado": false
+  },
+  {
+    "palabra": "DISTINTOS",
+    "pista": "Que son diferentes entre sí o no son iguales.",
+    "usado": false
+  },
+  {
+    "palabra": "EVENTO",
+    "pista": "Acontecimiento organizado de cierta relevancia social o cultural.",
+    "usado": false
+  },
+  {
+    "palabra": "FRANCES",
+    "pista": "Natural de Francia o relativo a ese país; también la lengua románica allí hablada.",
+    "usado": false
+  },
+  {
+    "palabra": "GOOGLE",
+    "pista": "Motor de búsqueda en internet ampliamente utilizado a nivel mundial.",
+    "usado": false
+  },
+  {
+    "palabra": "INGRESOS",
+    "pista": "Cantidades de dinero que entran en una cuenta o se perciben regularmente.",
+    "usado": false
+  },
+  {
+    "palabra": "INTENTO",
+    "pista": "Esfuerzo realizado para lograr algo, con resultado incierto.",
+    "usado": false
+  },
+  {
+    "palabra": "OFRECE",
+    "pista": "Pone algo a disposición de otro o propone algo.",
+    "usado": false
+  },
+  {
+    "palabra": "OPERACION",
+    "pista": "Acción planificada para lograr un objetivo; también intervención quirúrgica.",
+    "usado": false
+  },
+  {
+    "palabra": "PERDON",
+    "pista": "Acto de renunciar a la venganza o al rencor ante una ofensa.",
+    "usado": false
+  },
+  {
+    "palabra": "PLANTA",
+    "pista": "Ser vivo vegetal; también cada uno de los pisos de un edificio.",
+    "usado": false
+  },
+  {
+    "palabra": "PRIMERAS",
+    "pista": "Las que van al inicio de una serie o llegan antes que las demás.",
+    "usado": false
+  },
+  {
+    "palabra": "PUBLICAS",
+    "pista": "Que son de acceso o titularidad colectiva.",
+    "usado": false
+  },
+  {
+    "palabra": "TANTOS",
+    "pista": "En número elevado o en igual cantidad que otro referente.",
+    "usado": false
+  },
+  {
+    "palabra": "TEORIA",
+    "pista": "Conjunto de ideas que explican algo de manera sistemática.",
+    "usado": false
+  },
+  {
+    "palabra": "VOLVIO",
+    "pista": "Regresó a un lugar o retomó algo en el pasado.",
+    "usado": false
+  },
+  {
+    "palabra": "COMPAÑEROS",
+    "pista": "Personas que comparten actividad, trabajo o espacio con otras.",
+    "usado": false
+  },
+  {
+    "palabra": "COMPRA",
+    "pista": "Adquisición de algo a cambio de dinero.",
+    "usado": false
+  },
+  {
+    "palabra": "CONCEPTO",
+    "pista": "Idea abstracta que representa algo en el pensamiento.",
+    "usado": false
+  },
+  {
+    "palabra": "DIRECTO",
+    "pista": "Que va sin rodeos al destino o al punto; también transmisión en tiempo real.",
+    "usado": false
+  },
+  {
+    "palabra": "DISTINTAS",
+    "pista": "Que no son iguales entre sí; de diferente naturaleza.",
+    "usado": false
+  },
+  {
+    "palabra": "DOCUMENTOS",
+    "pista": "Escritos que acreditan o informan sobre algo de manera oficial.",
+    "usado": false
+  },
+  {
+    "palabra": "ENORME",
+    "pista": "De tamaño o magnitud muy superior a lo habitual.",
+    "usado": false
+  },
+  {
+    "palabra": "FESTIVAL",
+    "pista": "Evento cultural o artístico de carácter celebrativo y periódico.",
+    "usado": false
+  },
+  {
+    "palabra": "GENERALES",
+    "pista": "De carácter amplio y no específico; también mandos militares de alto rango.",
+    "usado": false
+  },
+  {
+    "palabra": "GOBERNADOR",
+    "pista": "Autoridad que dirige una región o estado dentro de un país.",
+    "usado": false
+  },
+  {
+    "palabra": "LOGRAR",
+    "pista": "Alcanzar algo que se pretendía mediante esfuerzo.",
+    "usado": false
+  },
+  {
+    "palabra": "MISMAS",
+    "pista": "Igual a lo ya mencionado; refuerza la identidad femenina plural.",
+    "usado": false
+  },
+  {
+    "palabra": "NECESITAMOS",
+    "pista": "Primera persona plural de necesitar; requerimos algo de forma imprescindible.",
+    "usado": false
+  },
+  {
+    "palabra": "NECESITAN",
+    "pista": "Requieren algo de manera imprescindible.",
+    "usado": false
+  },
+  {
+    "palabra": "OCURRE",
+    "pista": "Sucede o acontece algo en ese momento.",
+    "usado": false
+  },
+  {
+    "palabra": "PERIODO",
+    "pista": "Lapso de tiempo con características propias.",
+    "usado": false
+  },
+  {
+    "palabra": "PLANES",
+    "pista": "Proyectos o intenciones organizadas para el futuro.",
+    "usado": false
+  },
+  {
+    "palabra": "RESPONSABLE",
+    "pista": "Que asume las consecuencias de sus actos o está a cargo de algo.",
+    "usado": false
+  },
+  {
+    "palabra": "TAMAÑO",
+    "pista": "Magnitud o dimensión de algo en el espacio.",
+    "usado": false
+  },
+  {
+    "palabra": "ABIERTO",
+    "pista": "Que no está cerrado; también receptivo o sin restricciones.",
+    "usado": false
+  },
+  {
+    "palabra": "AFUERA",
+    "pista": "En el exterior; fuera de un lugar determinado.",
+    "usado": false
+  },
+  {
+    "palabra": "ALEMANIA",
+    "pista": "País de Europa central, la mayor economía de la Unión Europea.",
+    "usado": false
+  },
+  {
+    "palabra": "BLANCA",
+    "pista": "De color blanco; también nombre propio femenino.",
+    "usado": false
+  },
+  {
+    "palabra": "COMIENZA",
+    "pista": "Da inicio a algo que aún no había empezado.",
+    "usado": false
+  },
+  {
+    "palabra": "COMPARTIR",
+    "pista": "Usar o tener algo en común con otras personas.",
+    "usado": false
+  },
+  {
+    "palabra": "CONSIDERA",
+    "pista": "Tiene en cuenta algo o lo juzga de cierta manera.",
+    "usado": false
+  },
+  {
+    "palabra": "CRITICA",
+    "pista": "Valoración o análisis sobre algo, generalmente con señalamiento de defectos.",
+    "usado": false
+  },
+  {
+    "palabra": "DEJADO",
+    "pista": "Que ha sido abandonado o que ya no se hace.",
+    "usado": false
+  },
+  {
+    "palabra": "DEMANDA",
+    "pista": "Petición formal de algo; también acción legal para reclamar un derecho.",
+    "usado": false
+  },
+  {
+    "palabra": "DIVERSOS",
+    "pista": "De distintos tipos o naturalezas dentro de un conjunto.",
+    "usado": false
+  },
+  {
+    "palabra": "ECUADOR",
+    "pista": "País de América del Sur atravesado por la línea ecuatorial.",
+    "usado": false
+  },
+  {
+    "palabra": "ESCUELAS",
+    "pista": "Centros donde se imparte enseñanza básica.",
+    "usado": false
+  },
+  {
+    "palabra": "ESTARA",
+    "pista": "Forma de futuro de estar; indica situación o presencia futura.",
+    "usado": false
+  },
+  {
+    "palabra": "JUGADORES",
+    "pista": "Personas que participan en un juego o deporte.",
+    "usado": false
+  },
+  {
+    "palabra": "PERSONAJE",
+    "pista": "Individuo que aparece en una obra de ficción o que es notable en la realidad.",
+    "usado": false
+  },
+  {
+    "palabra": "POBRES",
+    "pista": "Personas con recursos económicos insuficientes para cubrir sus necesidades básicas.",
+    "usado": false
+  },
+  {
+    "palabra": "RECIEN",
+    "pista": "Hace muy poco tiempo; en un momento muy próximo al presente.",
+    "usado": false
+  },
+  {
+    "palabra": "REPRESENTA",
+    "pista": "Simboliza o actúa en nombre de algo o alguien.",
+    "usado": false
+  },
+  {
+    "palabra": "TERCER",
+    "pista": "Que ocupa el lugar número tres; apócope de tercero.",
+    "usado": false
+  },
+  {
+    "palabra": "TIERRAS",
+    "pista": "Extensiones de suelo; también territorios o lugares de origen.",
+    "usado": false
+  },
+  {
+    "palabra": "TUVIERON",
+    "pista": "Forma del pasado de tener; indica posesión en un momento anterior.",
+    "usado": false
+  },
+  {
+    "palabra": "VELOCIDAD",
+    "pista": "Magnitud que mide el espacio recorrido en una unidad de tiempo.",
+    "usado": false
+  },
+  {
+    "palabra": "VISION",
+    "pista": "Capacidad de ver; también perspectiva o modo de entender algo.",
+    "usado": false
+  },
+  {
+    "palabra": "ALCALDE",
+    "pista": "Máxima autoridad del gobierno municipal de una localidad.",
+    "usado": false
+  },
+  {
+    "palabra": "ALTURA",
+    "pista": "Distancia vertical desde la base hasta el punto más elevado de algo.",
+    "usado": false
+  },
+  {
+    "palabra": "ANTERIORES",
+    "pista": "Que preceden a otros en el tiempo o el orden.",
+    "usado": false
+  },
+  {
+    "palabra": "ASUNTOS",
+    "pista": "Temas o materias que requieren atención o gestión.",
+    "usado": false
+  },
+  {
+    "palabra": "CANDIDATO",
+    "pista": "Persona que aspira a ser elegida para un cargo.",
+    "usado": false
+  },
+  {
+    "palabra": "COMENTARIO",
+    "pista": "Observación o valoración expresada sobre algo.",
+    "usado": false
+  },
+  {
+    "palabra": "COMPETENCIA",
+    "pista": "Rivalidad entre personas o entidades por un mismo objetivo.",
+    "usado": false
+  },
+  {
+    "palabra": "DEBAJO",
+    "pista": "En una posición inferior o en la parte baja de algo.",
+    "usado": false
+  },
+  {
+    "palabra": "DIVERSAS",
+    "pista": "De distintos tipos o procedencias dentro de un conjunto.",
+    "usado": false
+  },
+  {
+    "palabra": "EMPIEZA",
+    "pista": "Da comienzo a algo.",
+    "usado": false
+  },
+  {
+    "palabra": "ESCRIBIO",
+    "pista": "Compuso o redactó algo en el pasado.",
+    "usado": false
+  },
+  {
+    "palabra": "ESTARIA",
+    "pista": "Forma condicional de estar; indica situación hipotética.",
+    "usado": false
+  },
+  {
+    "palabra": "FACULTAD",
+    "pista": "Capacidad o aptitud para hacer algo; también división universitaria.",
+    "usado": false
+  },
+  {
+    "palabra": "GENERACION",
+    "pista": "Conjunto de personas nacidas en una época similar.",
+    "usado": false
+  },
+  {
+    "palabra": "GESTION",
+    "pista": "Conjunto de acciones para administrar y dirigir algo.",
+    "usado": false
+  },
+  {
+    "palabra": "MENUDO",
+    "pista": "Pequeño o poco importante; también con frecuencia en la expresión a menudo.",
+    "usado": false
+  },
+  {
+    "palabra": "PRESUPUESTO",
+    "pista": "Cálculo anticipado de los ingresos y gastos de un periodo.",
+    "usado": false
+  },
+  {
+    "palabra": "QUERIDO",
+    "pista": "Que es apreciado con afecto; también encabezamiento de cartas.",
+    "usado": false
+  },
+  {
+    "palabra": "QUIERAS",
+    "pista": "Forma del subjuntivo de querer; indica deseo o voluntad condicionada.",
+    "usado": false
+  },
+  {
+    "palabra": "SUPONGO",
+    "pista": "Primera persona de suponer; expresa una hipótesis propia.",
+    "usado": false
+  },
+  {
+    "palabra": "TRABAJA",
+    "pista": "Realiza una actividad laboral de manera habitual.",
+    "usado": false
+  },
+  {
+    "palabra": "USANDO",
+    "pista": "En proceso de utilizar algo con un fin.",
+    "usado": false
+  },
+  {
+    "palabra": "VIDEOS",
+    "pista": "Grabaciones de imágenes en movimiento almacenadas digitalmente.",
+    "usado": false
+  },
+  {
+    "palabra": "ABOGADO",
+    "pista": "Profesional del derecho que asesora y defiende a personas ante la ley.",
+    "usado": false
+  },
+  {
+    "palabra": "ANTIGUO",
+    "pista": "Que existe desde hace mucho tiempo o pertenece a épocas pasadas.",
+    "usado": false
+  },
+  {
+    "palabra": "CONSUMO",
+    "pista": "Uso o gasto de bienes y servicios por parte de las personas.",
+    "usado": false
+  },
+  {
+    "palabra": "CONTEXTO",
+    "pista": "Conjunto de circunstancias que rodean y dan sentido a algo.",
+    "usado": false
+  },
+  {
+    "palabra": "CORREO",
+    "pista": "Servicio de envío de cartas y paquetes; también mensajes electrónicos.",
+    "usado": false
+  },
+  {
+    "palabra": "DECISIONES",
+    "pista": "Elecciones tomadas tras valorar alternativas.",
+    "usado": false
+  },
+  {
+    "palabra": "EJERCICIO",
+    "pista": "Actividad física realizada para mantener o mejorar la salud.",
+    "usado": false
+  },
+  {
+    "palabra": "ELEGIR",
+    "pista": "Escoger una opción entre varias posibles.",
+    "usado": false
+  },
+  {
+    "palabra": "FIGURA",
+    "pista": "Forma o silueta de algo; también persona destacada en un ámbito.",
+    "usado": false
+  },
+  {
+    "palabra": "GENIAL",
+    "pista": "Que destaca por su ingenio o capacidad; también coloquialmente, muy bueno.",
+    "usado": false
+  },
+  {
+    "palabra": "HISTORIAS",
+    "pista": "Relatos de hechos reales o imaginarios; también el conjunto del pasado.",
+    "usado": false
+  },
+  {
+    "palabra": "JUGADOR",
+    "pista": "Persona que participa en un juego o deporte.",
+    "usado": false
+  },
+  {
+    "palabra": "MENORES",
+    "pista": "De menor edad o tamaño que otros; también personas que no han alcanzado la mayoría de edad.",
+    "usado": false
+  },
+  {
+    "palabra": "MUNICIPAL",
+    "pista": "Relativo al municipio o a su gobierno local.",
+    "usado": false
+  },
+  {
+    "palabra": "NACIONES",
+    "pista": "Comunidades humanas con identidad y territorio propios.",
+    "usado": false
+  },
+  {
+    "palabra": "NECESITAS",
+    "pista": "Segunda persona de necesitar; requieres algo de forma imprescindible.",
+    "usado": false
+  },
+  {
+    "palabra": "OBJETO",
+    "pista": "Cosa material de naturaleza inanimada; también fin o propósito.",
+    "usado": false
+  },
+  {
+    "palabra": "PERSONAJES",
+    "pista": "Individuos que aparecen en obras de ficción o son relevantes en la realidad.",
+    "usado": false
+  },
+  {
+    "palabra": "PUBLICACION",
+    "pista": "Obra o texto difundido para el público; también acto de publicar.",
+    "usado": false
+  },
+  {
+    "palabra": "PAGINAS",
+    "pista": "Caras de las hojas de un documento; también sitios web.",
+    "usado": false
+  },
+  {
+    "palabra": "SUPONE",
+    "pista": "Da por cierto algo sin verificarlo; también implica o conlleva.",
+    "usado": false
+  },
+  {
+    "palabra": "TRATAMIENTO",
+    "pista": "Manera de tratar a alguien; también proceso médico para curar una enfermedad.",
+    "usado": false
+  },
+  {
+    "palabra": "CIENCIAS",
+    "pista": "Disciplinas que estudian el mundo mediante observación y experimentación.",
+    "usado": false
+  },
+  {
+    "palabra": "COMPLETA",
+    "pista": "Que tiene todas sus partes; también finaliza algo.",
+    "usado": false
+  },
+  {
+    "palabra": "CONCIENCIA",
+    "pista": "Conocimiento que tiene el ser de sí mismo y de su entorno; también sentido moral.",
+    "usado": false
+  },
+  {
+    "palabra": "CARCEL",
+    "pista": "Establecimiento donde se recluye a personas privadas de libertad por mandato judicial.",
+    "usado": false
+  },
+  {
+    "palabra": "DIGITAL",
+    "pista": "Relativo a la tecnología basada en datos representados en formato binario.",
+    "usado": false
+  },
+  {
+    "palabra": "DISTRITO",
+    "pista": "División administrativa de una ciudad o territorio.",
+    "usado": false
+  },
+  {
+    "palabra": "FAMILIAR",
+    "pista": "Relativo a la familia; también algo conocido por su frecuencia.",
+    "usado": false
+  },
+  {
+    "palabra": "FUNDACION",
+    "pista": "Organización sin ánimo de lucro con fines sociales o culturales.",
+    "usado": false
+  },
+  {
+    "palabra": "GANADO",
+    "pista": "Conjunto de animales criados en una explotación; también algo conseguido.",
+    "usado": false
+  },
+  {
+    "palabra": "HISTORICO",
+    "pista": "Que tiene importancia en la historia o pertenece al pasado.",
+    "usado": false
+  },
+  {
+    "palabra": "INTENCION",
+    "pista": "Propósito o finalidad con que se hace algo.",
+    "usado": false
+  },
+  {
+    "palabra": "LLEVAN",
+    "pista": "Transportan algo; también llevan cierto tiempo haciendo algo.",
+    "usado": false
+  },
+  {
+    "palabra": "LONDRES",
+    "pista": "Capital del Reino Unido, una de las ciudades más pobladas de Europa.",
+    "usado": false
+  },
+  {
+    "palabra": "MAXIMO",
+    "pista": "El grado más alto posible; también el más alto cargo o valor.",
+    "usado": false
+  },
+  {
+    "palabra": "NIVELES",
+    "pista": "Grados de una escala que miden la intensidad o altura de algo.",
+    "usado": false
+  },
+  {
+    "palabra": "OCASIONES",
+    "pista": "Momentos o circunstancias concretas en que algo ocurre.",
+    "usado": false
+  },
+  {
+    "palabra": "PARECEN",
+    "pista": "Tienen el aspecto o apariencia de algo.",
+    "usado": false
+  },
+  {
+    "palabra": "PIEDRA",
+    "pista": "Materia mineral sólida y dura de la corteza terrestre.",
+    "usado": false
+  },
+  {
+    "palabra": "PODIDO",
+    "pista": "Participio de poder; indica que algo fue posible.",
+    "usado": false
+  },
+  {
+    "palabra": "PRIVADO",
+    "pista": "Que no es público; perteneciente a una persona o entidad particular.",
+    "usado": false
+  },
+  {
+    "palabra": "PROPOSITO",
+    "pista": "Intención o fin con que se hace algo.",
+    "usado": false
+  },
+  {
+    "palabra": "RECORDAR",
+    "pista": "Traer algo al pensamiento que estaba en la memoria.",
+    "usado": false
+  },
+  {
+    "palabra": "REGLAS",
+    "pista": "Normas que regulan el comportamiento o el funcionamiento de algo.",
+    "usado": false
+  },
+  {
+    "palabra": "SECRETARIO",
+    "pista": "Persona encargada de la administración y la correspondencia de una organización.",
+    "usado": false
+  },
+  {
+    "palabra": "TECNICA",
+    "pista": "Conjunto de procedimientos propios de un arte, ciencia u oficio.",
+    "usado": false
+  },
+  {
+    "palabra": "AUTORIDAD",
+    "pista": "Poder reconocido para mandar o tomar decisiones; también persona que lo ejerce.",
+    "usado": false
+  },
+  {
+    "palabra": "CADENA",
+    "pista": "Serie de eslabones enlazados; también red de emisoras o establecimientos.",
+    "usado": false
+  },
+  {
+    "palabra": "CAPITAN",
+    "pista": "Oficial que manda una tropa, barco o equipo.",
+    "usado": false
+  },
+  {
+    "palabra": "CENTROS",
+    "pista": "Lugares de reunión o gestión con una función específica.",
+    "usado": false
+  },
+  {
+    "palabra": "CONTINUACION",
+    "pista": "Lo que sigue a algo precedente sin interrupción.",
+    "usado": false
+  },
+  {
+    "palabra": "DELANTE",
+    "pista": "En posición frontal o anterior respecto a algo.",
+    "usado": false
+  },
+  {
+    "palabra": "EUROPEA",
+    "pista": "Relativo a Europa o propia de ese continente.",
+    "usado": false
+  },
+  {
+    "palabra": "FERNANDO",
+    "pista": "Nombre propio masculino de origen germánico muy extendido en el mundo hispanohablante.",
+    "usado": false
+  },
+  {
+    "palabra": "FONDOS",
+    "pista": "Recursos económicos disponibles; también parte trasera o inferior de algo.",
+    "usado": false
+  },
+  {
+    "palabra": "GUSTAN",
+    "pista": "Producen agrado o placer a alguien.",
+    "usado": false
+  },
+  {
+    "palabra": "HUMANA",
+    "pista": "Relativo a la especie humana o que muestra compasión y cercanía.",
+    "usado": false
+  },
+  {
+    "palabra": "INFLUENCIA",
+    "pista": "Poder de una persona o cosa para afectar el comportamiento o pensamiento de otros.",
+    "usado": false
+  },
+  {
+    "palabra": "JUDICIAL",
+    "pista": "Relativo al poder encargado de impartir justicia.",
+    "usado": false
+  },
+  {
+    "palabra": "LENGUAJE",
+    "pista": "Sistema de signos que permite comunicarse; también estilo expresivo de alguien.",
+    "usado": false
+  },
+  {
+    "palabra": "LITERATURA",
+    "pista": "Arte que emplea la palabra escrita como medio de expresión.",
+    "usado": false
+  },
+  {
+    "palabra": "MENSAJES",
+    "pista": "Informaciones transmitidas de un emisor a un receptor.",
+    "usado": false
+  },
+  {
+    "palabra": "MEXICANO",
+    "pista": "Natural de México o relativo a ese país norteamericano.",
+    "usado": false
+  },
+  {
+    "palabra": "NATURALES",
+    "pista": "Propios de la naturaleza o no artificiales; también oriundos de un lugar.",
+    "usado": false
+  },
+  {
+    "palabra": "ONLINE",
+    "pista": "Que funciona o está disponible a través de internet.",
+    "usado": false
+  },
+  {
+    "palabra": "PROPIAS",
+    "pista": "Que pertenecen en exclusiva a alguien o le son características.",
+    "usado": false
+  },
+  {
+    "palabra": "QUERER",
+    "pista": "Desear algo o sentir afecto hacia alguien.",
+    "usado": false
+  },
+  {
+    "palabra": "RECIBIO",
+    "pista": "Aceptó o tomó algo que le fue entregado en el pasado.",
+    "usado": false
+  },
+  {
+    "palabra": "SALUDOS",
+    "pista": "Expresiones de cortesía para iniciar o cerrar una comunicación.",
+    "usado": false
+  },
+  {
+    "palabra": "TANTAS",
+    "pista": "En número elevado o en igual cantidad que otro referente femenino.",
+    "usado": false
+  },
+  {
+    "palabra": "ACTITUD",
+    "pista": "Postura o disposición mental ante algo o alguien.",
+    "usado": false
+  },
+  {
+    "palabra": "BASURA",
+    "pista": "Conjunto de residuos y desechos que se descartan.",
+    "usado": false
+  },
+  {
+    "palabra": "BUSQUEDA",
+    "pista": "Proceso activo de localizar algo o a alguien.",
+    "usado": false
+  },
+  {
+    "palabra": "CUANTO",
+    "pista": "En qué cantidad o medida; también todo lo que.",
+    "usado": false
+  },
+  {
+    "palabra": "DOCUMENTO",
+    "pista": "Escrito que acredita o informa sobre algo de manera oficial.",
+    "usado": false
+  },
+  {
+    "palabra": "ESPIRITU",
+    "pista": "Principio inmaterial que se atribuye a los seres; también ánimo o carácter.",
+    "usado": false
+  },
+  {
+    "palabra": "EXISTENCIA",
+    "pista": "Hecho de existir; también modo de vivir o estar en el mundo.",
+    "usado": false
+  },
+  {
+    "palabra": "FAMILIARES",
+    "pista": "Personas del entorno familiar; también algo conocido por su frecuencia.",
+    "usado": false
+  },
+  {
+    "palabra": "FINALES",
+    "pista": "Que están al término de algo; también últimas fases de una competición.",
+    "usado": false
+  },
+  {
+    "palabra": "FRONTERA",
+    "pista": "Límite territorial que separa dos países o regiones.",
+    "usado": false
+  },
+  {
+    "palabra": "FUNCIONES",
+    "pista": "Tareas o roles que desempeña algo o alguien.",
+    "usado": false
+  },
+  {
+    "palabra": "HABLAN",
+    "pista": "Se comunican oralmente en un idioma determinado.",
+    "usado": false
+  },
+  {
+    "palabra": "IDIOMA",
+    "pista": "Sistema de comunicación verbal propio de una comunidad.",
+    "usado": false
+  },
+  {
+    "palabra": "OBSTANTE",
+    "pista": "Usado en la expresión no obstante, indica oposición a lo anterior.",
+    "usado": false
+  },
+  {
+    "palabra": "OPERACIONES",
+    "pista": "Acciones planificadas; también procedimientos matemáticos o quirúrgicos.",
+    "usado": false
+  },
+  {
+    "palabra": "POBREZA",
+    "pista": "Situación de carencia de recursos suficientes para cubrir necesidades básicas.",
+    "usado": false
+  },
+  {
+    "palabra": "QUEDAR",
+    "pista": "Permanecer en un lugar o estado; también acordar algo.",
+    "usado": false
+  },
+  {
+    "palabra": "SEGUNDOS",
+    "pista": "Unidades mínimas de tiempo; también los que ocupan el segundo lugar.",
+    "usado": false
+  },
+  {
+    "palabra": "SEXUAL",
+    "pista": "Relativo al sexo o a la sexualidad de los seres vivos.",
+    "usado": false
+  },
+  {
+    "palabra": "TENGAS",
+    "pista": "Forma del subjuntivo de tener; indica posesión o condición hipotética.",
+    "usado": false
+  },
+  {
+    "palabra": "VACACIONES",
+    "pista": "Periodo de descanso en que se suspende la actividad habitual.",
+    "usado": false
+  },
+  {
+    "palabra": "BELLEZA",
+    "pista": "Cualidad de lo que produce admiración por su armonía o perfección.",
+    "usado": false
+  },
+  {
+    "palabra": "CONSTRUIR",
+    "pista": "Edificar o crear algo material de manera ordenada.",
+    "usado": false
+  },
+  {
+    "palabra": "DECLARACION",
+    "pista": "Manifestación formal de algo ante una autoridad o el público.",
+    "usado": false
+  },
+  {
+    "palabra": "ESTATAL",
+    "pista": "Relativo al Estado o que depende de él.",
+    "usado": false
+  },
+  {
+    "palabra": "JAJAJA",
+    "pista": "Representación escrita de la risa, usada habitualmente en comunicación informal.",
+    "usado": false
+  },
+  {
+    "palabra": "LINEAS",
+    "pista": "Trazos continuos sin anchura; también filas o servicios de transporte.",
+    "usado": false
+  },
+  {
+    "palabra": "MINIMO",
+    "pista": "El valor más bajo posible; lo estrictamente indispensable.",
+    "usado": false
+  },
+  {
+    "palabra": "NUMEROS",
+    "pista": "Signos que expresan cantidades y se usan para contar y calcular.",
+    "usado": false
+  },
+  {
+    "palabra": "PERFIL",
+    "pista": "Silueta lateral de algo; también conjunto de características que definen a alguien.",
+    "usado": false
+  },
+  {
+    "palabra": "PROXIMA",
+    "pista": "Que está cerca en el espacio o llegará pronto en el tiempo.",
+    "usado": false
+  },
+  {
+    "palabra": "PUDIERA",
+    "pista": "Forma del subjuntivo de poder; indica posibilidad hipotética.",
+    "usado": false
+  },
+  {
+    "palabra": "TENDRIA",
+    "pista": "Forma condicional de tener; indica posesión hipotética.",
+    "usado": false
+  },
+  {
+    "palabra": "TERMINA",
+    "pista": "Llega al final o pone fin a algo.",
+    "usado": false
+  },
+  {
+    "palabra": "TRATADO",
+    "pista": "Acuerdo formal entre Estados; también texto extenso sobre un tema.",
+    "usado": false
+  },
+  {
+    "palabra": "URUGUAY",
+    "pista": "País de América del Sur, entre Argentina y Brasil.",
+    "usado": false
+  },
+  {
+    "palabra": "ARTISTA",
+    "pista": "Persona que crea o interpreta obras de arte.",
+    "usado": false
+  },
+  {
+    "palabra": "ARTISTAS",
+    "pista": "Personas que crean o interpretan obras de arte.",
+    "usado": false
+  },
+  {
+    "palabra": "ASPECTOS",
+    "pista": "Facetas o dimensiones de algo que se pueden considerar por separado.",
+    "usado": false
+  },
+  {
+    "palabra": "COMPAÑERO",
+    "pista": "Persona que comparte actividad, trabajo o espacio con otra.",
+    "usado": false
+  },
+  {
+    "palabra": "COMUNIDADES",
+    "pista": "Grupos de personas con intereses, territorio o características comunes.",
+    "usado": false
+  },
+  {
+    "palabra": "CREDITO",
+    "pista": "Confianza otorgada para diferir un pago; también reconocimiento de un mérito.",
+    "usado": false
+  },
+  {
+    "palabra": "CUESTA",
+    "pista": "Tiene cierto precio; también terreno inclinado.",
+    "usado": false
+  },
+  {
+    "palabra": "DEPENDE",
+    "pista": "Está condicionado por algo o alguien.",
+    "usado": false
+  },
+  {
+    "palabra": "DISTRIBUCION",
+    "pista": "Reparto o entrega ordenada de algo entre destinatarios.",
+    "usado": false
+  },
+  {
+    "palabra": "FUERTES",
+    "pista": "De gran resistencia, intensidad o solidez.",
+    "usado": false
+  },
+  {
+    "palabra": "IDENTIDAD",
+    "pista": "Conjunto de rasgos que hacen que algo o alguien sea reconocible como único.",
+    "usado": false
+  },
+  {
+    "palabra": "INTELIGENCIA",
+    "pista": "Capacidad de aprender, razonar y resolver problemas.",
+    "usado": false
+  },
+  {
+    "palabra": "INVERSION",
+    "pista": "Empleo de recursos económicos con expectativa de obtener beneficio futuro.",
+    "usado": false
+  },
+  {
+    "palabra": "MIRADA",
+    "pista": "Dirección de los ojos hacia algo; también modo de ver o entender.",
+    "usado": false
+  },
+  {
+    "palabra": "PEDIDO",
+    "pista": "Solicitud formal de algo; también encargo de productos.",
+    "usado": false
+  },
+  {
+    "palabra": "PEQUEÑAS",
+    "pista": "De tamaño o importancia reducida.",
+    "usado": false
+  },
+  {
+    "palabra": "PROMEDIO",
+    "pista": "Valor que resulta de dividir la suma de varios datos entre su cantidad.",
+    "usado": false
+  },
+  {
+    "palabra": "PUERTAS",
+    "pista": "Paneles que abren o cierran accesos; también oportunidades.",
+    "usado": false
+  },
+  {
+    "palabra": "PERDIDA",
+    "pista": "Privación de algo que se tenía; también resultado desfavorable en una competición.",
+    "usado": false
+  },
+  {
+    "palabra": "QUISIERA",
+    "pista": "Forma del subjuntivo de querer; expresa deseo con cortesía o hipótesis.",
+    "usado": false
+  },
+  {
+    "palabra": "RECIBIDO",
+    "pista": "Que ha sido aceptado o llegado a su destinatario.",
+    "usado": false
+  },
+  {
+    "palabra": "RESISTENCIA",
+    "pista": "Capacidad de soportar esfuerzo o adversidad sin ceder.",
+    "usado": false
+  },
+  {
+    "palabra": "SANCHEZ",
+    "pista": "Apellido muy frecuente en el mundo hispanohablante.",
+    "usado": false
+  },
+  {
+    "palabra": "TERRENO",
+    "pista": "Porción de suelo con una extensión determinada.",
+    "usado": false
+  },
+  {
+    "palabra": "TRATANDO",
+    "pista": "En proceso de intentar o de relacionarse con algo o alguien.",
+    "usado": false
+  },
+  {
+    "palabra": "VALENCIA",
+    "pista": "Ciudad de la costa mediterránea española, capital de la Comunitat Valenciana.",
+    "usado": false
+  },
+  {
+    "palabra": "VOLUNTAD",
+    "pista": "Facultad de decidir y actuar de manera consciente según los propios deseos.",
+    "usado": false
+  },
+  {
+    "palabra": "ACEPTAR",
+    "pista": "Dar por bueno algo o estar de acuerdo con ello.",
+    "usado": false
+  },
+  {
+    "palabra": "ANTIGUA",
+    "pista": "Que tiene mucha antigüedad o pertenece a épocas pasadas.",
+    "usado": false
+  },
+  {
+    "palabra": "ASESINATO",
+    "pista": "Acción de matar a alguien de manera deliberada y premeditada.",
+    "usado": false
+  },
+  {
+    "palabra": "ASPECTO",
+    "pista": "Apariencia exterior de algo; también faceta o dimensión de un asunto.",
+    "usado": false
+  },
+  {
+    "palabra": "CIERTA",
+    "pista": "Que es verdadera o segura; también una determinada, sin especificar cuál.",
+    "usado": false
+  },
+  {
+    "palabra": "COCINA",
+    "pista": "Espacio donde se preparan los alimentos; también arte culinario.",
+    "usado": false
+  },
+  {
+    "palabra": "COMITE",
+    "pista": "Grupo reducido de personas encargado de una tarea o decisión específica.",
+    "usado": false
+  },
+  {
+    "palabra": "CONFLICTO",
+    "pista": "Situación de enfrentamiento entre intereses, ideas o personas opuestas.",
+    "usado": false
+  },
+  {
+    "palabra": "CONSECUENCIA",
+    "pista": "Resultado que se deriva de una causa o acción precedente.",
+    "usado": false
+  },
+  {
+    "palabra": "CORRECTO",
+    "pista": "Que se ajusta a las normas o está libre de errores.",
+    "usado": false
+  },
+  {
+    "palabra": "ENTIENDE",
+    "pista": "Comprende el sentido de algo.",
+    "usado": false
+  },
+  {
+    "palabra": "ERRORES",
+    "pista": "Juicios o acciones que se apartan de lo correcto.",
+    "usado": false
+  },
+  {
+    "palabra": "EXPLICA",
+    "pista": "Expone algo de manera clara para que sea comprendido.",
+    "usado": false
+  },
+  {
+    "palabra": "FISICA",
+    "pista": "Ciencia que estudia la materia, la energía y sus interacciones.",
+    "usado": false
+  },
+  {
+    "palabra": "IMPUESTOS",
+    "pista": "Tributos obligatorios que los ciudadanos pagan al Estado.",
+    "usado": false
+  },
+  {
+    "palabra": "MEDICINA",
+    "pista": "Ciencia que estudia y trata las enfermedades del ser humano.",
+    "usado": false
+  },
+  {
+    "palabra": "MOVIMIENTOS",
+    "pista": "Cambios de posición o estado; también corrientes organizadas de personas.",
+    "usado": false
+  },
+  {
+    "palabra": "NECESIDADES",
+    "pista": "Carencias de algo imprescindible para vivir o funcionar.",
+    "usado": false
+  },
+  {
+    "palabra": "NOVELA",
+    "pista": "Obra literaria extensa en prosa que narra una historia ficticia.",
+    "usado": false
+  },
+  {
+    "palabra": "OBJETIVOS",
+    "pista": "Metas o fines que se pretenden alcanzar.",
+    "usado": false
+  },
+  {
+    "palabra": "PARECIA",
+    "pista": "Tenía cierto aspecto o daba la impresión de algo en el pasado.",
+    "usado": false
+  },
+  {
+    "palabra": "PERMISO",
+    "pista": "Autorización concedida para hacer algo.",
+    "usado": false
+  },
+  {
+    "palabra": "PRESENTACION",
+    "pista": "Acto de mostrar algo o a alguien ante otros; también primera exposición.",
+    "usado": false
+  },
+  {
+    "palabra": "PRIVADA",
+    "pista": "Que no es pública; perteneciente a una persona o entidad particular.",
+    "usado": false
+  },
+  {
+    "palabra": "PROFESORES",
+    "pista": "Personas que imparten enseñanza de manera profesional.",
+    "usado": false
+  },
+  {
+    "palabra": "REALES",
+    "pista": "Que tienen existencia verdadera; también relativo a la monarquía.",
+    "usado": false
+  },
+  {
+    "palabra": "REGRESO",
+    "pista": "Vuelta al punto de partida o lugar de origen.",
+    "usado": false
+  },
+  {
+    "palabra": "UTILIZAR",
+    "pista": "Hacer uso de algo para un fin determinado.",
+    "usado": false
+  },
+  {
+    "palabra": "VERDADERA",
+    "pista": "Que se ajusta plenamente a la realidad sin falsedad.",
+    "usado": false
+  },
+  {
+    "palabra": "VICTIMAS",
+    "pista": "Personas que sufren daño por culpa de otro o de una circunstancia.",
+    "usado": false
+  },
+  {
+    "palabra": "ULTIMAS",
+    "pista": "Las que están al final de una serie o son las más recientes.",
+    "usado": false
+  },
+  {
+    "palabra": "ABIERTA",
+    "pista": "Que no está cerrada; también receptiva o sin restricciones.",
+    "usado": false
+  },
+  {
+    "palabra": "BENEFICIOS",
+    "pista": "Ventajas o ganancias obtenidas de algo.",
+    "usado": false
+  },
+  {
+    "palabra": "CATEGORIA",
+    "pista": "Clase o nivel dentro de una clasificación.",
+    "usado": false
+  },
+  {
+    "palabra": "CONCURSO",
+    "pista": "Competición en la que los participantes aspiran a un premio.",
+    "usado": false
+  },
+  {
+    "palabra": "CREADO",
+    "pista": "Que ha sido producido o diseñado por alguien.",
+    "usado": false
+  },
+  {
+    "palabra": "DECRETO",
+    "pista": "Resolución dictada por una autoridad con fuerza de ley.",
+    "usado": false
+  },
+  {
+    "palabra": "EJECUTIVO",
+    "pista": "Relativo al poder que aplica las leyes; también directivo de una empresa.",
+    "usado": false
+  },
+  {
+    "palabra": "ENCONTRADO",
+    "pista": "Que ha sido hallado tras una búsqueda.",
+    "usado": false
+  },
+  {
+    "palabra": "ESPECIALES",
+    "pista": "Que tienen características que los distinguen del resto.",
+    "usado": false
+  },
+  {
+    "palabra": "ESTRATEGIA",
+    "pista": "Plan estructurado para alcanzar un objetivo en un entorno complejo.",
+    "usado": false
+  },
+  {
+    "palabra": "EVENTOS",
+    "pista": "Acontecimentos organizados de cierta relevancia.",
+    "usado": false
+  },
+  {
+    "palabra": "GOBIERNOS",
+    "pista": "Órganos que ejercen el poder político en un territorio.",
+    "usado": false
+  },
+  {
+    "palabra": "HACERSE",
+    "pista": "Convertirse en algo o llevar a cabo algo por uno mismo.",
+    "usado": false
+  },
+  {
+    "palabra": "LATINA",
+    "pista": "Relativo a los pueblos de lengua romance; también mujer latinoamericana.",
+    "usado": false
+  },
+  {
+    "palabra": "LLEGAN",
+    "pista": "Alcanzan un destino o un punto determinado.",
+    "usado": false
+  },
+  {
+    "palabra": "MUNICIPIO",
+    "pista": "División territorial básica con gobierno propio.",
+    "usado": false
+  },
+  {
+    "palabra": "PATRIA",
+    "pista": "País de origen al que se pertenece por nacimiento o arraigo.",
+    "usado": false
+  },
+  {
+    "palabra": "PENSAMIENTO",
+    "pista": "Actividad mental de razonar o reflexionar; también idea resultante.",
+    "usado": false
+  },
+  {
+    "palabra": "PERIODISTA",
+    "pista": "Profesional que recaba y difunde información a través de los medios.",
+    "usado": false
+  },
+  {
+    "palabra": "PERSONALES",
+    "pista": "Que pertenecen o afectan a una persona en particular.",
+    "usado": false
+  },
+  {
+    "palabra": "PREGUNTO",
+    "pista": "Formuló una cuestión para obtener información en el pasado.",
+    "usado": false
+  },
+  {
+    "palabra": "PRISION",
+    "pista": "Establecimiento de reclusión; también estado de privación de libertad.",
+    "usado": false
+  },
+  {
+    "palabra": "REALIZADO",
+    "pista": "Llevado a cabo de manera efectiva.",
+    "usado": false
+  },
+  {
+    "palabra": "REFIERE",
+    "pista": "Alude o hace referencia a algo.",
+    "usado": false
+  },
+  {
+    "palabra": "SANTOS",
+    "pista": "Personas reconocidas por su virtud; también apellido frecuente.",
+    "usado": false
+  },
+  {
+    "palabra": "SENTIMIENTOS",
+    "pista": "Estados afectivos que experimentan las personas ante algo.",
+    "usado": false
+  },
+  {
+    "palabra": "TOMANDO",
+    "pista": "En proceso de coger, consumir o adoptar algo.",
+    "usado": false
+  },
+  {
+    "palabra": "ACCIDENTE",
+    "pista": "Suceso imprevisto que causa daño o interrupción.",
+    "usado": false
+  },
+  {
+    "palabra": "ACTUALIDAD",
+    "pista": "Conjunto de hechos y temas que son relevantes en el momento presente.",
+    "usado": false
+  },
+  {
+    "palabra": "ALIMENTOS",
+    "pista": "Sustancias que los seres vivos ingieren para nutrirse.",
+    "usado": false
+  },
+  {
+    "palabra": "AUTORES",
+    "pista": "Personas que crean una obra literaria, artística o intelectual.",
+    "usado": false
+  },
+  {
+    "palabra": "BIBLIOTECA",
+    "pista": "Lugar o colección donde se conservan y consultan libros y documentos.",
+    "usado": false
+  },
+  {
+    "palabra": "CAMPOS",
+    "pista": "Terrenos abiertos; también ámbitos o disciplinas de conocimiento.",
+    "usado": false
+  },
+  {
+    "palabra": "CELULAR",
+    "pista": "Teléfono móvil de comunicación inalámbrica.",
+    "usado": false
+  },
+  {
+    "palabra": "COLORES",
+    "pista": "Propiedades visuales de la luz percibidas por el ojo humano.",
+    "usado": false
+  },
+  {
+    "palabra": "DEJANDO",
+    "pista": "En proceso de abandonar o cesar en algo.",
+    "usado": false
+  },
+  {
+    "palabra": "DELITO",
+    "pista": "Acción tipificada como ilegal por la ley y sujeta a pena.",
+    "usado": false
+  },
+  {
+    "palabra": "ENTREGA",
+    "pista": "Acción de dar algo a quien corresponde; también dedicación total.",
+    "usado": false
+  },
+  {
+    "palabra": "ESCRITOR",
+    "pista": "Persona que se dedica a crear obras literarias.",
+    "usado": false
+  },
+  {
+    "palabra": "FUNCIONARIOS",
+    "pista": "Personas que trabajan al servicio de una administración pública.",
+    "usado": false
+  },
+  {
+    "palabra": "HERMOSA",
+    "pista": "Que tiene gran belleza o atractivo.",
+    "usado": false
+  },
+  {
+    "palabra": "INICIATIVA",
+    "pista": "Acción de proponer o emprender algo por propia decisión.",
+    "usado": false
+  },
+  {
+    "palabra": "JUGANDO",
+    "pista": "Participando en un juego o actividad lúdica.",
+    "usado": false
+  },
+  {
+    "palabra": "KILOMETROS",
+    "pista": "Unidades de longitud equivalentes a mil metros.",
+    "usado": false
+  },
+  {
+    "palabra": "LLEGARON",
+    "pista": "Alcanzaron un destino en el pasado.",
+    "usado": false
+  },
+  {
+    "palabra": "LLEGUE",
+    "pista": "Forma del subjuntivo de llegar; indica consecución de un destino hipotético.",
+    "usado": false
+  },
+  {
+    "palabra": "MADERA",
+    "pista": "Material sólido obtenido del tronco de los árboles.",
+    "usado": false
+  },
+  {
+    "palabra": "MATERIALES",
+    "pista": "Sustancias o elementos físicos usados para construir o fabricar algo.",
+    "usado": false
+  },
+  {
+    "palabra": "MEXICANA",
+    "pista": "Natural de México o relativa a ese país.",
+    "usado": false
+  },
+  {
+    "palabra": "OCASION",
+    "pista": "Momento o circunstancia favorable para algo.",
+    "usado": false
+  },
+  {
+    "palabra": "PUESTOS",
+    "pista": "Lugares o cargos asignados a alguien; también colocados en un lugar.",
+    "usado": false
+  },
+  {
+    "palabra": "REGIONAL",
+    "pista": "Relativo a una región o propio de ella.",
+    "usado": false
+  },
+  {
+    "palabra": "RESOLUCION",
+    "pista": "Decisión tomada para resolver algo; también nitidez de una imagen.",
+    "usado": false
+  },
+  {
+    "palabra": "RESPUESTAS",
+    "pista": "Contestaciones dadas a preguntas o situaciones.",
+    "usado": false
+  },
+  {
+    "palabra": "RODRIGUEZ",
+    "pista": "Apellido muy frecuente en el mundo hispanohablante.",
+    "usado": false
+  },
+  {
+    "palabra": "TENDENCIA",
+    "pista": "Inclinación o dirección predominante hacia la que evoluciona algo.",
+    "usado": false
+  }
+]

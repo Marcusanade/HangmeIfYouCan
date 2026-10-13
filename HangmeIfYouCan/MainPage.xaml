@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="HangmeIfYouCan.MainPage"
+             Shell.NavBarIsVisible="False"
+             BackgroundColor="#1E1E2E">
+
+    <Grid>
+
+        <!-- ═══════════════════════════════════════════════════════════
+             HOME SCREEN
+             ═══════════════════════════════════════════════════════════ -->
+        <Grid x:Name="StartView" BackgroundColor="White" RowDefinitions="*,Auto,Auto">
+
+            <!-- Imagen principal: AspectFit para que no se corte -->
+            <Image Grid.Row="0" Source="home.png"
+                   Aspect="AspectFit" VerticalOptions="Center"
+                   Margin="0,8,0,0"/>
+
+            <!-- Zona de botones -->
+            <VerticalStackLayout Grid.Row="1" Spacing="8" Padding="20,8,20,8">
+
+                <!-- Selector de modo -->
+                <Grid ColumnDefinitions="*,*" ColumnSpacing="10">
+                    <Button x:Name="Btn1Player" Grid.Column="0"
+                            Text="👤 1 Jugador" CornerRadius="10" FontSize="13"
+                            BorderWidth="1.5" Clicked="On1PlayerClicked"/>
+                    <Button x:Name="Btn2Players" Grid.Column="1"
+                            Text="👥 2 Jugadores" CornerRadius="10" FontSize="13"
+                            BorderWidth="1.5" Clicked="On2PlayersClicked"/>
+                </Grid>
+
+                <!-- Config 2 jugadores: una sola fila (jugador1 | jugador2 | spinner) -->
+                <VerticalStackLayout x:Name="SetupMulti" IsVisible="False" Spacing="0">
+                    <Grid ColumnDefinitions="*,*,Auto" ColumnSpacing="6">
+                        <Entry x:Name="EntryPlayer1" Grid.Column="0"
+                               Placeholder="Jugador 1" MaxLength="16"
+                               Keyboard="Text"
+                               BackgroundColor="#FFF7ED" TextColor="#1C1917"
+                               PlaceholderColor="#A8A29E"/>
+                        <Entry x:Name="EntryPlayer2" Grid.Column="1"
+                               Placeholder="Jugador 2" MaxLength="16"
+                               Keyboard="Text"
+                               BackgroundColor="#FFF7ED" TextColor="#1C1917"
+                               PlaceholderColor="#A8A29E"/>
+                        <Border Grid.Column="2"
+                                BackgroundColor="#FFF7ED"
+                                Stroke="#EA580C" StrokeThickness="1.5"
+                                Padding="2,0" VerticalOptions="Fill">
+                            <Border.StrokeShape>
+                                <RoundRectangle CornerRadius="8"/>
+                            </Border.StrokeShape>
+                            <HorizontalStackLayout Spacing="0" VerticalOptions="Center">
+                                <Button x:Name="BtnTimerMinus" Text="−"
+                                        WidthRequest="28" HeightRequest="36"
+                                        FontSize="16" BackgroundColor="Transparent"
+                                        TextColor="#EA580C" Padding="0"
+                                        Clicked="OnTimerMinus"/>
+                                <Label x:Name="LabelTimerValue" Text="20"
+                                       FontSize="13" FontAttributes="Bold"
+                                       TextColor="#EA580C" VerticalOptions="Center"
+                                       WidthRequest="28" HorizontalTextAlignment="Center"/>
+                                <Button x:Name="BtnTimerPlus" Text="+"
+                                        WidthRequest="28" HeightRequest="36"
+                                        FontSize="16" BackgroundColor="Transparent"
+                                        TextColor="#EA580C" Padding="0"
+                                        Clicked="OnTimerPlus"/>
+                            </HorizontalStackLayout>
+                        </Border>
+                    </Grid>
+                </VerticalStackLayout>
+
+                <!-- Dificultad -->
+                <Grid ColumnDefinitions="*,*,*" ColumnSpacing="8">
+                    <Button x:Name="BtnEasy"   Grid.Column="0" CornerRadius="10" FontSize="13"
+                            BorderWidth="1.5" Clicked="OnDifficultyClicked" CommandParameter="Easy"/>
+                    <Button x:Name="BtnMedium" Grid.Column="1" CornerRadius="10" FontSize="13"
+                            BorderWidth="1.5" Clicked="OnDifficultyClicked" CommandParameter="Medium"/>
+                    <Button x:Name="BtnHard"   Grid.Column="2" CornerRadius="10" FontSize="13"
+                            BorderWidth="1.5" Clicked="OnDifficultyClicked" CommandParameter="Hard"/>
+                </Grid>
+
+                <!-- Jugar -->
+                <Button Text="▶  Jugar"
+                        BackgroundColor="#EA580C" TextColor="White"
+                        FontSize="17" FontAttributes="Bold"
+                        HeightRequest="50" CornerRadius="25"
+                        Clicked="OnStartClicked"/>
+            </VerticalStackLayout>
+
+            <!-- Franja inferior: idioma | mute | estadísticas (fondo blanco) -->
+            <Grid Grid.Row="2" BackgroundColor="White" HeightRequest="50"
+                  ColumnDefinitions="Auto,*,Auto,*,Auto" Padding="14,0">
+                <ImageButton Grid.Column="0" x:Name="BtnLanguage"
+                             Aspect="AspectFit" BackgroundColor="Transparent"
+                             WidthRequest="47" HeightRequest="29"
+                             VerticalOptions="Center"
+                             Clicked="OnLanguageClicked"/>
+                <Button Grid.Column="2" x:Name="HomeMuteButton"
+                        BackgroundColor="Transparent" FontSize="22"
+                        Padding="0" WidthRequest="40" HeightRequest="40"
+                        HorizontalOptions="Center" VerticalOptions="Center"
+                        Clicked="OnMuteClicked"/>
+                <ImageButton Grid.Column="4"
+                             Source="stats_ico.png"
+                             Aspect="AspectFit" BackgroundColor="Transparent"
+                             WidthRequest="29" HeightRequest="29"
+                             VerticalOptions="Center"
+                             Clicked="OnStatsClicked"/>
+            </Grid>
+        </Grid>
+
+        <!-- ═══════════════════════════════════════════════════════════
+             GAME SCREEN
+             Row 0 (Auto) = header.png + dificultad
+             Row 1 (*)    = contenido scrollable
+             Row 2 (Auto) = teclado fijo
+             Row 3 (Auto) = franja naranja inferior (stats + home)
+             ═══════════════════════════════════════════════════════════ -->
+        <Grid x:Name="GameView" IsVisible="False"
+              BackgroundColor="White"
+              RowDefinitions="Auto,*,Auto,Auto"
+              Padding="0">
+
+            <!-- Cabecera: imagen header + dificultad centrada -->
+            <Grid Grid.Row="0">
+                <Image Source="header.png" Aspect="AspectFit"
+                       HorizontalOptions="Fill"/>
+                <Label x:Name="DifficultyLabel"
+                       TextColor="White" FontSize="15" FontAttributes="Bold"
+                       HorizontalOptions="Center" VerticalOptions="Center"
+                       Margin="0,8,0,0"/>
+            </Grid>
+
+            <!-- Contenido scrollable -->
+            <ScrollView Grid.Row="1" Padding="12,6,12,0">
+                <VerticalStackLayout Spacing="0">
+
+                    <!-- Banner de turno (fondo cambia con el tiempo) -->
+                    <Border x:Name="TurnBanner"
+                            IsVisible="False"
+                            BackgroundColor="#16A34A"
+                            Padding="10,5" Margin="0,0,0,4">
+                        <Border.StrokeShape>
+                            <RoundRectangle CornerRadius="8"/>
+                        </Border.StrokeShape>
+                        <Grid ColumnDefinitions="*,Auto">
+                            <Label x:Name="TurnLabel" Grid.Column="0"
+                                   TextColor="White" FontSize="13" FontAttributes="Bold"
+                                   VerticalOptions="Center"/>
+                            <Label x:Name="TimerLabel" Grid.Column="1"
+                                   TextColor="White" FontSize="20" FontAttributes="Bold"
+                                   VerticalOptions="Center" Margin="8,0,0,0"/>
+                        </Grid>
+                    </Border>
+
+                    <!-- Marcador multijugador: ancho completo, compacto -->
+                    <Grid x:Name="Scoreboard" IsVisible="False"
+                          ColumnDefinitions="*,Auto,*" ColumnSpacing="6"
+                          Margin="0,4,0,2">
+                        <Border x:Name="ScoreBorder1" Grid.Column="0"
+                                Padding="10,5" BackgroundColor="#F9FAFB"
+                                Stroke="#EA580C" StrokeThickness="2">
+                            <Border.StrokeShape><RoundRectangle CornerRadius="8"/></Border.StrokeShape>
+                            <Grid ColumnDefinitions="*,Auto">
+                                <Label x:Name="Name1Label" Grid.Column="0"
+                                       TextColor="#EA580C" FontSize="12" FontAttributes="Bold"
+                                       VerticalOptions="Center" LineBreakMode="TailTruncation"/>
+                                <Label x:Name="Score1Label" Grid.Column="1"
+                                       TextColor="#EA580C" FontSize="20" FontAttributes="Bold"
+                                       VerticalOptions="Center" Margin="8,0,0,0"/>
+                            </Grid>
+                        </Border>
+                        <Label Grid.Column="1" Text="vs"
+                               TextColor="#9CA3AF" FontSize="12"
+                               VerticalOptions="Center" HorizontalOptions="Center"/>
+                        <Border x:Name="ScoreBorder2" Grid.Column="2"
+                                Padding="10,5" BackgroundColor="#F9FAFB"
+                                Stroke="#EA580C" StrokeThickness="2">
+                            <Border.StrokeShape><RoundRectangle CornerRadius="8"/></Border.StrokeShape>
+                            <Grid ColumnDefinitions="*,Auto">
+                                <Label x:Name="Name2Label" Grid.Column="0"
+                                       TextColor="#EA580C" FontSize="12" FontAttributes="Bold"
+                                       VerticalOptions="Center" LineBreakMode="TailTruncation"/>
+                                <Label x:Name="Score2Label" Grid.Column="1"
+                                       TextColor="#EA580C" FontSize="20" FontAttributes="Bold"
+                                       VerticalOptions="Center" Margin="8,0,0,0"/>
+                            </Grid>
+                        </Border>
+                    </Grid>
+
+                    <!-- Vidas: fila completa -->
+                    <Label x:Name="LivesLabel"
+                           HorizontalOptions="Center" FontSize="22"
+                           Margin="0,2,0,2"/>
+
+                    <!-- Ahorcado + pista (panel derecho más estrecho) -->
+                    <Grid ColumnDefinitions="*,Auto" HeightRequest="155">
+                        <GraphicsView x:Name="HangmanView" Grid.Column="0"
+                                      HeightRequest="155"/>
+                        <VerticalStackLayout Grid.Column="1"
+                                             VerticalOptions="Center"
+                                             Spacing="6" Padding="6,0"
+                                             WidthRequest="110">
+                            <!-- Pista: Opacity evita layout shifts -->
+                            <Label x:Name="HintLabel"
+                                   TextColor="#EA580C" FontSize="13"
+                                   HorizontalTextAlignment="Center"
+                                   Opacity="0"/>
+                            <Button x:Name="HintButton"
+                                    BackgroundColor="#EA580C" TextColor="White"
+                                    BorderWidth="0" FontSize="12" CornerRadius="8"
+                                    Opacity="0" InputTransparent="True"
+                                    Clicked="OnHintClicked"/>
+                        </VerticalStackLayout>
+                    </Grid>
+
+                    <!-- Letras de la palabra -->
+                    <FlexLayout x:Name="WordDisplay"
+                                Wrap="Wrap" JustifyContent="Center"
+                                Margin="0,6"/>
+
+                    <!-- Resultado y botones de fin -->
+                    <VerticalStackLayout HorizontalOptions="Center"
+                                         Spacing="6" Margin="0,6,0,4">
+                        <Label x:Name="ResultLabel" Text=""
+                               FontSize="16" FontAttributes="Bold"
+                               HorizontalOptions="Center"/>
+                        <Button x:Name="PlayAgainButton"
+                                BackgroundColor="#EA580C" TextColor="White"
+                                FontSize="14" FontAttributes="Bold"
+                                HeightRequest="40" CornerRadius="20"
+                                Padding="20,0" IsVisible="False"
+                                Clicked="OnPlayAgainClicked"/>
+                        <Button x:Name="RematchButton" Text="⚔  Revancha"
+                                BackgroundColor="#EA580C" TextColor="White"
+                                FontSize="14" FontAttributes="Bold"
+                                HeightRequest="40" CornerRadius="20"
+                                Padding="20,0" IsVisible="False"
+                                Clicked="OnRematchClicked"/>
+                        <Button x:Name="ChangePlayersButton" Text="👥  Cambiar jugadores"
+                                BackgroundColor="#F3F4F6" TextColor="#57534E"
+                                FontSize="12" HeightRequest="36" CornerRadius="18"
+                                Padding="16,0" IsVisible="False"
+                                Clicked="OnChangePlayersClicked"/>
+                    </VerticalStackLayout>
+
+                </VerticalStackLayout>
+            </ScrollView>
+
+            <!-- Teclado: Auto → tamaño fijo, nunca se desplaza -->
+            <VerticalStackLayout x:Name="KeyboardLayout" Grid.Row="2"
+                                 HorizontalOptions="Center"
+                                 Spacing="5"
+                                 Margin="0,4,0,4"/>
+
+            <!-- Franja inferior blanca: stats | mute | home -->
+            <Grid Grid.Row="3" BackgroundColor="White" HeightRequest="50"
+                  ColumnDefinitions="Auto,*,Auto,*,Auto" Padding="14,0">
+                <ImageButton Grid.Column="0"
+                             Source="stats_ico.png"
+                             BackgroundColor="Transparent"
+                             WidthRequest="26" HeightRequest="26"
+                             Aspect="AspectFit"
+                             VerticalOptions="Center"
+                             Clicked="OnStatsClicked"/>
+                <Button Grid.Column="2" x:Name="GameMuteButton"
+                        BackgroundColor="Transparent" FontSize="22"
+                        Padding="0" WidthRequest="40" HeightRequest="40"
+                        HorizontalOptions="Center" VerticalOptions="Center"
+                        Clicked="OnMuteClicked"/>
+                <ImageButton Grid.Column="4"
+                             Source="home_ico.png"
+                             BackgroundColor="Transparent"
+                             WidthRequest="30" HeightRequest="30"
+                             Aspect="AspectFit"
+                             VerticalOptions="Center"
+                             Clicked="OnHomeClicked"/>
+            </Grid>
+
+        </Grid>
+    </Grid>
+</ContentPage>

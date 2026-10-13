@@ -1,0 +1,6002 @@
+[
+  {
+    "palabra": "APARENTEMENTE",
+    "pista": "Velo que separa lo que se muestra de lo que verdaderamente es.",
+    "usado": false
+  },
+  {
+    "palabra": "CONFLICTOS",
+    "pista": "Tensión irresoluble entre fuerzas que no pueden coexistir sin que una ceda.",
+    "usado": false
+  },
+  {
+    "palabra": "DEMOCRATICA",
+    "pista": "Forma de organización colectiva en que las decisiones emanan del conjunto de quienes integran una comunidad.",
+    "usado": false
+  },
+  {
+    "palabra": "DISPONIBLES",
+    "pista": "Aquello que espera ser convocado; potencia sin acto.",
+    "usado": false
+  },
+  {
+    "palabra": "DOCUMENTAL",
+    "pista": "Intento de fijar lo efímero mediante la mirada de quien decide qué merece ser visto.",
+    "usado": false
+  },
+  {
+    "palabra": "ESTUVIERA",
+    "pista": "Forma subjuntiva que habita el reino de lo que pudo ser pero no fue.",
+    "usado": false
+  },
+  {
+    "palabra": "MANTENIMIENTO",
+    "pista": "Esfuerzo continuo por resistir la entropía que todo lo desgasta.",
+    "usado": false
+  },
+  {
+    "palabra": "NECESARIOS",
+    "pista": "Aquello sin lo cual el orden de las cosas se desmorona.",
+    "usado": false
+  },
+  {
+    "palabra": "POSIBLEMENTE",
+    "pista": "Habitante del territorio incierto entre lo que es y lo que podría llegar a ser.",
+    "usado": false
+  },
+  {
+    "palabra": "RECORRIDO",
+    "pista": "Huella que deja el movimiento sobre el espacio; memoria del trayecto.",
+    "usado": false
+  },
+  {
+    "palabra": "RELATIVAMENTE",
+    "pista": "Partícula que recuerda que ningún juicio existe fuera de su contexto.",
+    "usado": false
+  },
+  {
+    "palabra": "RELIGIOSA",
+    "pista": "Perteneciente al vínculo que el ser humano establece con lo que considera sagrado o trascendente.",
+    "usado": false
+  },
+  {
+    "palabra": "RESTAURANTE",
+    "pista": "Espacio donde el acto de nutrirse se convierte en ritual social compartido.",
+    "usado": false
+  },
+  {
+    "palabra": "TRABAJADOR",
+    "pista": "Quien convierte su tiempo y energía en valor a cambio de subsistencia.",
+    "usado": false
+  },
+  {
+    "palabra": "ANDALUCIA",
+    "pista": "Territorio al sur de la península ibérica donde confluyen siglos de culturas superpuestas.",
+    "usado": false
+  },
+  {
+    "palabra": "COMENZARON",
+    "pista": "El instante en que algo que no existía empezó a ser.",
+    "usado": false
+  },
+  {
+    "palabra": "COMPLICADO",
+    "pista": "Aquello cuyas partes se entrecruzan hasta dificultar la comprensión del conjunto.",
+    "usado": false
+  },
+  {
+    "palabra": "CONCLUSION",
+    "pista": "El punto donde el pensamiento se detiene y emite su veredicto.",
+    "usado": false
+  },
+  {
+    "palabra": "CONSIDERANDO",
+    "pista": "Acto mental de dar peso a los argumentos antes de decidir.",
+    "usado": false
+  },
+  {
+    "palabra": "CONTINENTE",
+    "pista": "Vasta extensión de tierra que agrupa naciones bajo una misma geografía.",
+    "usado": false
+  },
+  {
+    "palabra": "COSTUMBRE",
+    "pista": "Conducta repetida hasta que el hábito la convierte en segunda naturaleza.",
+    "usado": false
+  },
+  {
+    "palabra": "ENTIDADES",
+    "pista": "Aquello que posee existencia propia y diferenciada dentro de un sistema.",
+    "usado": false
+  },
+  {
+    "palabra": "IMPRESIONANTE",
+    "pista": "Lo que golpea la percepción con tal fuerza que deja huella en quien lo contempla.",
+    "usado": false
+  },
+  {
+    "palabra": "INVERSIONES",
+    "pista": "Capital que se lanza al futuro con la esperanza de regresar multiplicado.",
+    "usado": false
+  },
+  {
+    "palabra": "LIBERACION",
+    "pista": "Ruptura del vínculo que mantenía a algo o alguien sujeto a una condición.",
+    "usado": false
+  },
+  {
+    "palabra": "LOCALIDAD",
+    "pista": "Núcleo humano que ocupa un punto concreto del mapa con nombre propio.",
+    "usado": false
+  },
+  {
+    "palabra": "NUMEROSAS",
+    "pista": "Tan abundantes que su cantidad dificulta la enumeración.",
+    "usado": false
+  },
+  {
+    "palabra": "PASAJEROS",
+    "pista": "Quienes atraviesan un trayecto sin ser dueños del vehículo que los transporta.",
+    "usado": false
+  },
+  {
+    "palabra": "POSICIONES",
+    "pista": "Lugares que ocupamos en el espacio o en el pensamiento desde los que interpretamos el mundo.",
+    "usado": false
+  },
+  {
+    "palabra": "PRODUCIDO",
+    "pista": "Lo que ha salido al mundo como resultado de un proceso previo.",
+    "usado": false
+  },
+  {
+    "palabra": "REALIZADA",
+    "pista": "Aquello que ha cruzado el umbral entre la intención y la existencia concreta.",
+    "usado": false
+  },
+  {
+    "palabra": "REDUCCION",
+    "pista": "Proceso de comprimir o disminuir algo hasta su expresión más contenida.",
+    "usado": false
+  },
+  {
+    "palabra": "REPRESENTAN",
+    "pista": "Hacen presente ante otros algo que en sí mismo está ausente.",
+    "usado": false
+  },
+  {
+    "palabra": "SOLIDARIDAD",
+    "pista": "Reconocimiento de que el sufrimiento ajeno también nos pertenece.",
+    "usado": false
+  },
+  {
+    "palabra": "TECNOLOGIAS",
+    "pista": "Extensiones artificiales con las que el ser humano amplía sus capacidades naturales.",
+    "usado": false
+  },
+  {
+    "palabra": "COMPRENDER",
+    "pista": "Rodear con el pensamiento algo hasta que sus límites coinciden con los nuestros.",
+    "usado": false
+  },
+  {
+    "palabra": "DESARROLLADO",
+    "pista": "Lo que ha recorrido el camino desde la semilla hasta su forma más plena.",
+    "usado": false
+  },
+  {
+    "palabra": "DESCUBIERTO",
+    "pista": "Lo que ya existía pero permanecía oculto hasta que alguien lo hizo visible.",
+    "usado": false
+  },
+  {
+    "palabra": "ELECTRICA",
+    "pista": "Relativa a la fuerza invisible que fluye entre cargas y mueve el mundo moderno.",
+    "usado": false
+  },
+  {
+    "palabra": "ENCONTRARON",
+    "pista": "Dieron con algo que aguardaba sin saber que era buscado.",
+    "usado": false
+  },
+  {
+    "palabra": "ESCRITURA",
+    "pista": "Sistema por el que el pensamiento abandona la mente y persiste en el tiempo.",
+    "usado": false
+  },
+  {
+    "palabra": "ESTADISTICAS",
+    "pista": "Números que intentan capturar la complejidad humana reduciéndola a patrones.",
+    "usado": false
+  },
+  {
+    "palabra": "INGENIERO",
+    "pista": "Quien aplica el conocimiento científico para construir soluciones al mundo material.",
+    "usado": false
+  },
+  {
+    "palabra": "INSTRUMENTOS",
+    "pista": "Prolongaciones del cuerpo o la mente diseñadas para ejecutar una tarea.",
+    "usado": false
+  },
+  {
+    "palabra": "LABORATORIO",
+    "pista": "Espacio donde la realidad es controlada para que revele sus secretos.",
+    "usado": false
+  },
+  {
+    "palabra": "MUNICIPIOS",
+    "pista": "Unidades básicas de organización territorial con gobierno propio.",
+    "usado": false
+  },
+  {
+    "palabra": "PODRIAMOS",
+    "pista": "Puerta entreabierta hacia una acción colectiva que aún no ha sucedido.",
+    "usado": false
+  },
+  {
+    "palabra": "PROGRAMACION",
+    "pista": "Creación de instrucciones que permiten realizar tareas a un sistema informático.",
+    "usado": false
+  },
+  {
+    "palabra": "REUNIONES",
+    "pista": "Momentos en que varios confluyen en un punto para pensar juntos.",
+    "usado": false
+  },
+  {
+    "palabra": "SUFICIENTES",
+    "pista": "Lo que colma sin desbordar; el límite justo entre la carencia y el exceso.",
+    "usado": false
+  },
+  {
+    "palabra": "VENEZOLANOS",
+    "pista": "Naturales del país caribeño que lleva el nombre de una ciudad italiana.",
+    "usado": false
+  },
+  {
+    "palabra": "ULTIMAMENTE",
+    "pista": "En el tramo más reciente del tiempo, aquel que aún conserva el calor del presente.",
+    "usado": false
+  },
+  {
+    "palabra": "ABANDONAR",
+    "pista": "Acto de retirar la presencia o el compromiso de algo que antes se sostenía.",
+    "usado": false
+  },
+  {
+    "palabra": "AGRADABLE",
+    "pista": "Lo que produce bienestar sin necesidad de explicación.",
+    "usado": false
+  },
+  {
+    "palabra": "ARQUITECTURA",
+    "pista": "Arte de ordenar el espacio para que la piedra y el vacío dialoguen con quien los habita.",
+    "usado": false
+  },
+  {
+    "palabra": "BIENVENIDA",
+    "pista": "Gesto que abre el umbral y convierte al extraño en huésped.",
+    "usado": false
+  },
+  {
+    "palabra": "BRILLANTE",
+    "pista": "Lo que concentra y devuelve la luz; también quien ilumina con su intelecto.",
+    "usado": false
+  },
+  {
+    "palabra": "COMUNICADO",
+    "pista": "Mensaje formal lanzado al espacio público con voluntad de que sea recibido.",
+    "usado": false
+  },
+  {
+    "palabra": "CONTRATOS",
+    "pista": "Pactos en que las palabras adquieren peso legal y comprometen el futuro.",
+    "usado": false
+  },
+  {
+    "palabra": "CORRIENDO",
+    "pista": "En movimiento acelerado; también en proceso de transcurrir.",
+    "usado": false
+  },
+  {
+    "palabra": "CRISTIANOS",
+    "pista": "Quienes articulan su visión del mundo en torno a una figura histórica y su mensaje.",
+    "usado": false
+  },
+  {
+    "palabra": "DEMOSTRADO",
+    "pista": "Lo que ha salido del terreno de la hipótesis para instalarse en el de la evidencia.",
+    "usado": false
+  },
+  {
+    "palabra": "ENCARGADO",
+    "pista": "Quien carga con la responsabilidad de que algo ocurra o funcione.",
+    "usado": false
+  },
+  {
+    "palabra": "FINANCIERA",
+    "pista": "Relativa al movimiento del dinero y los instrumentos que lo representan.",
+    "usado": false
+  },
+  {
+    "palabra": "FRANCESES",
+    "pista": "Naturales del país europeo cuya lengua y cultura irradiaron por todo el mundo moderno.",
+    "usado": false
+  },
+  {
+    "palabra": "PERIODISMO",
+    "pista": "Oficio de seleccionar, verificar y narrar los hechos que conforman el presente colectivo.",
+    "usado": false
+  },
+  {
+    "palabra": "PREOCUPACION",
+    "pista": "Estado mental que anticipa el daño antes de que este llegue.",
+    "usado": false
+  },
+  {
+    "palabra": "PREPARACION",
+    "pista": "El tiempo invertido antes de que llegue el momento que lo justifica.",
+    "usado": false
+  },
+  {
+    "palabra": "PRODUCTORES",
+    "pista": "Quienes transforman recursos en bienes que otros consumirán.",
+    "usado": false
+  },
+  {
+    "palabra": "RECONOCIDO",
+    "pista": "Lo que ha sido visto y nombrado como lo que es por quienes tienen autoridad para hacerlo.",
+    "usado": false
+  },
+  {
+    "palabra": "RESPONDIO",
+    "pista": "Cerró el ciclo abierto por una pregunta con una afirmación propia.",
+    "usado": false
+  },
+  {
+    "palabra": "SUPERIORES",
+    "pista": "Los que ocupan una posición más alta en una jerarquía de poder o calidad.",
+    "usado": false
+  },
+  {
+    "palabra": "ARGUMENTOS",
+    "pista": "Razones construidas para sostener una posición ante quien pueda cuestionarla.",
+    "usado": false
+  },
+  {
+    "palabra": "CLASIFICACION",
+    "pista": "Acto de distribuir la diversidad en categorías que la hacen manejable.",
+    "usado": false
+  },
+  {
+    "palabra": "CONCEPTOS",
+    "pista": "Unidades del pensamiento con las que ordenamos y nombramos la realidad.",
+    "usado": false
+  },
+  {
+    "palabra": "CONSIDERAN",
+    "pista": "Dan peso mental a algo antes de emitir un juicio o tomar una postura.",
+    "usado": false
+  },
+  {
+    "palabra": "CUMPLIMIENTO",
+    "pista": "Momento en que lo prometido o lo exigido se convierte en acto.",
+    "usado": false
+  },
+  {
+    "palabra": "DEFINITIVA",
+    "pista": "La que no admite revisión; aquella tras la que no hay vuelta atrás.",
+    "usado": false
+  },
+  {
+    "palabra": "DESTRUCCION",
+    "pista": "Proceso por el que una forma deja de existir sin posibilidad de retorno.",
+    "usado": false
+  },
+  {
+    "palabra": "DIFICILES",
+    "pista": "Aquello que exige más de lo habitual para ser comprendido o superado.",
+    "usado": false
+  },
+  {
+    "palabra": "ESTADOUNIDENSES",
+    "pista": "Naturales del país que ocupa la mayor parte de América del Norte.",
+    "usado": false
+  },
+  {
+    "palabra": "INMIGRANTES",
+    "pista": "Quienes cruzan una frontera para comenzar su vida en un territorio ajeno.",
+    "usado": false
+  },
+  {
+    "palabra": "INTERESANTES",
+    "pista": "Lo que atrapa la atención y genera el deseo de saber más.",
+    "usado": false
+  },
+  {
+    "palabra": "ORGANISMOS",
+    "pista": "Estructuras organizadas que funcionan como un todo con propósito propio.",
+    "usado": false
+  },
+  {
+    "palabra": "PERIODICOS",
+    "pista": "Publicaciones que convierten el flujo de los hechos en texto datado y efímero.",
+    "usado": false
+  },
+  {
+    "palabra": "PROPAGANDA",
+    "pista": "Discurso diseñado no para informar sino para moldear la voluntad del receptor.",
+    "usado": false
+  },
+  {
+    "palabra": "VIGILANCIA",
+    "pista": "Mirada sostenida sobre algo para detectar cualquier alteración en su estado.",
+    "usado": false
+  },
+  {
+    "palabra": "AMERICANA",
+    "pista": "Relativa al continente que lleva el nombre de un cartógrafo florentino.",
+    "usado": false
+  },
+  {
+    "palabra": "ARGENTINOS",
+    "pista": "Naturales del país sudamericano más austral de habla española.",
+    "usado": false
+  },
+  {
+    "palabra": "ASESINADO",
+    "pista": "Quien fue privado de la vida de forma deliberada y premeditada por otro.",
+    "usado": false
+  },
+  {
+    "palabra": "CIENTIFICA",
+    "pista": "Perteneciente al método que exige evidencia antes de aceptar cualquier afirmación.",
+    "usado": false
+  },
+  {
+    "palabra": "CONCEPCION",
+    "pista": "Momento en que una idea o un ser comienza a existir en algún plano.",
+    "usado": false
+  },
+  {
+    "palabra": "CONSERVACION",
+    "pista": "Resistencia activa al deterioro que el tiempo impone sobre las cosas.",
+    "usado": false
+  },
+  {
+    "palabra": "CONSTANTEMENTE",
+    "pista": "Sin pausa ni interrupción; de manera que no conoce el reposo.",
+    "usado": false
+  },
+  {
+    "palabra": "CORRIENTES",
+    "pista": "Flujos que arrastran en una dirección; también tendencias que mueven el pensamiento.",
+    "usado": false
+  },
+  {
+    "palabra": "CRISTIANO",
+    "pista": "Quien orienta su existencia según la tradición espiritual derivada de Jesucristo.",
+    "usado": false
+  },
+  {
+    "palabra": "DEMOCRATICO",
+    "pista": "Perteneciente al sistema en que la voluntad colectiva articula el poder.",
+    "usado": false
+  },
+  {
+    "palabra": "DIRIGENTES",
+    "pista": "Quienes ocupan el vértice desde el que se orienta la acción de un grupo.",
+    "usado": false
+  },
+  {
+    "palabra": "ELECTRICIDAD",
+    "pista": "Fenómeno físico invisible cuyo dominio transformó radicalmente la civilización.",
+    "usado": false
+  },
+  {
+    "palabra": "ESTACIONES",
+    "pista": "Divisiones del año en que el clima adopta un carácter propio y reconocible.",
+    "usado": false
+  },
+  {
+    "palabra": "FOTOGRAFIAS",
+    "pista": "Fragmentos de tiempo congelados por la luz sobre una superficie sensible.",
+    "usado": false
+  },
+  {
+    "palabra": "INDEPENDIENTES",
+    "pista": "Los que no dependen de otro para existir, decidir o actuar.",
+    "usado": false
+  },
+  {
+    "palabra": "INSTRUCCIONES",
+    "pista": "Cadena de pasos que guían al ignorante hacia el resultado que el experto ya conoce.",
+    "usado": false
+  },
+  {
+    "palabra": "INTEGRACION",
+    "pista": "Proceso por el que partes distintas se funden en un todo que las supera.",
+    "usado": false
+  },
+  {
+    "palabra": "NECESARIAS",
+    "pista": "Aquellas sin las cuales el sistema del que forman parte no puede funcionar.",
+    "usado": false
+  },
+  {
+    "palabra": "OFICIALMENTE",
+    "pista": "Con el respaldo de la autoridad que convierte un hecho en reconocido.",
+    "usado": false
+  },
+  {
+    "palabra": "PRESIDENCIAL",
+    "pista": "Relativo a quien ocupa el más alto cargo ejecutivo de un Estado.",
+    "usado": false
+  },
+  {
+    "palabra": "PRESIDENTA",
+    "pista": "Mujer que ejerce la máxima responsabilidad ejecutiva de una institución o nación.",
+    "usado": false
+  },
+  {
+    "palabra": "REGISTROS",
+    "pista": "Huellas formales que el presente deja para que el futuro pueda recordarlo.",
+    "usado": false
+  },
+  {
+    "palabra": "RELACIONADAS",
+    "pista": "Que guardan entre sí un vínculo que las hace comprensibles en conjunto.",
+    "usado": false
+  },
+  {
+    "palabra": "RELIGIOSOS",
+    "pista": "Pertenecientes al ámbito de lo que trasciende lo material y apunta a lo sagrado.",
+    "usado": false
+  },
+  {
+    "palabra": "SOCIEDADES",
+    "pista": "Formas en que los seres humanos se organizan para vivir juntos bajo normas compartidas.",
+    "usado": false
+  },
+  {
+    "palabra": "TENDREMOS",
+    "pista": "Promesa o predicción de posesión colectiva en un tiempo que aún no ha llegado.",
+    "usado": false
+  },
+  {
+    "palabra": "ACONTECIMIENTOS",
+    "pista": "Sucesos que rompen la continuidad de lo cotidiano y quedan en la memoria.",
+    "usado": false
+  },
+  {
+    "palabra": "AMERICANOS",
+    "pista": "Naturales del continente que abarca desde el Ártico hasta la Patagonia.",
+    "usado": false
+  },
+  {
+    "palabra": "APARICION",
+    "pista": "Momento en que algo o alguien se hace presente donde antes no existía.",
+    "usado": false
+  },
+  {
+    "palabra": "AUTORIZACION",
+    "pista": "Permiso concedido por quien tiene poder para habilitar lo que estaba vedado.",
+    "usado": false
+  },
+  {
+    "palabra": "CIUDADANA",
+    "pista": "Perteneciente a quien ejerce derechos y obligaciones en una comunidad política.",
+    "usado": false
+  },
+  {
+    "palabra": "COBERTURA",
+    "pista": "Extensión del alcance con que algo llega o protege un área determinada.",
+    "usado": false
+  },
+  {
+    "palabra": "COLOMBIANO",
+    "pista": "Natural del país sudamericano bañado por el Pacífico y el Caribe.",
+    "usado": false
+  },
+  {
+    "palabra": "CONSIGUIO",
+    "pista": "Alcanzó lo que perseguía tras el esfuerzo necesario.",
+    "usado": false
+  },
+  {
+    "palabra": "DESGRACIA",
+    "pista": "Aquello que tuerce el destino hacia donde nadie quería ir.",
+    "usado": false
+  },
+  {
+    "palabra": "EMPEZARON",
+    "pista": "El colectivo que dio el primer paso hacia algo que aún no existía.",
+    "usado": false
+  },
+  {
+    "palabra": "ENTRENADOR",
+    "pista": "Quien modela las capacidades ajenas para que alcancen su mayor expresión.",
+    "usado": false
+  },
+  {
+    "palabra": "EVALUACION",
+    "pista": "Juicio sistemático sobre el valor o el rendimiento de algo.",
+    "usado": false
+  },
+  {
+    "palabra": "EXPLOTACION",
+    "pista": "Extracción de rendimiento máximo de un recurso o ser con independencia del coste.",
+    "usado": false
+  },
+  {
+    "palabra": "FINANCIERO",
+    "pista": "Relativo al movimiento y gestión de los recursos económicos y sus instrumentos.",
+    "usado": false
+  },
+  {
+    "palabra": "IDENTIFICACION",
+    "pista": "Acto de reconocer algo como lo que es y asignarle su nombre propio.",
+    "usado": false
+  },
+  {
+    "palabra": "INCREMENTO",
+    "pista": "Aumento medible de algo que antes era menor.",
+    "usado": false
+  },
+  {
+    "palabra": "INDIVIDUALES",
+    "pista": "Que pertenecen o afectan a cada uno por separado, sin fusionarse con el colectivo.",
+    "usado": false
+  },
+  {
+    "palabra": "MENCIONAR",
+    "pista": "Traer algo al discurso sin necesidad de desarrollarlo completamente.",
+    "usado": false
+  },
+  {
+    "palabra": "NECESITABA",
+    "pista": "Estado de carencia que reclamaba algo para ser colmado.",
+    "usado": false
+  },
+  {
+    "palabra": "OBLIGACION",
+    "pista": "Vínculo que ata la voluntad y exige una conducta sin importar el deseo.",
+    "usado": false
+  },
+  {
+    "palabra": "ORIGINALES",
+    "pista": "Los que no derivan de ningún modelo anterior; los primeros en su especie.",
+    "usado": false
+  },
+  {
+    "palabra": "PARTICULARES",
+    "pista": "Lo que pertenece a uno solo y no se comparte con el conjunto.",
+    "usado": false
+  },
+  {
+    "palabra": "PROFUNDIDAD",
+    "pista": "La dimensión que mide cuánto hay por debajo de lo visible.",
+    "usado": false
+  },
+  {
+    "palabra": "PROHIBIDO",
+    "pista": "Lo que una norma o poder ha colocado fuera del alcance permitido.",
+    "usado": false
+  },
+  {
+    "palabra": "REALIZACION",
+    "pista": "El tránsito completo desde la intención hasta la obra consumada.",
+    "usado": false
+  },
+  {
+    "palabra": "REGIONALES",
+    "pista": "Pertenecientes a una zona con identidad propia dentro de una unidad mayor.",
+    "usado": false
+  },
+  {
+    "palabra": "RELIGIOSO",
+    "pista": "Perteneciente a la dimensión de lo sagrado y trascendente en la experiencia humana.",
+    "usado": false
+  },
+  {
+    "palabra": "TENDENCIAS",
+    "pista": "Fuerzas latentes que empujan los fenómenos en una dirección sin que nadie las decrete.",
+    "usado": false
+  },
+  {
+    "palabra": "TRABAJADO",
+    "pista": "Sometido al esfuerzo sostenido que transforma la materia o el conocimiento.",
+    "usado": false
+  },
+  {
+    "palabra": "TRANSICION",
+    "pista": "Espacio de incertidumbre entre un estado que muere y otro que aún no ha nacido.",
+    "usado": false
+  },
+  {
+    "palabra": "APRENDIZAJE",
+    "pista": "Proceso por el que la ignorancia se va convirtiendo lentamente en competencia.",
+    "usado": false
+  },
+  {
+    "palabra": "BASICAMENTE",
+    "pista": "En su esencia; despojado de todo lo accesorio.",
+    "usado": false
+  },
+  {
+    "palabra": "COMBUSTIBLE",
+    "pista": "Sustancia que al reaccionar libera energía que pone en movimiento otras cosas.",
+    "usado": false
+  },
+  {
+    "palabra": "CURIOSIDAD",
+    "pista": "Impulso que arrastra la mente hacia lo desconocido sin garantía de recompensa.",
+    "usado": false
+  },
+  {
+    "palabra": "DEPORTIVO",
+    "pista": "Relativo a la competición reglada entre cuerpos o habilidades.",
+    "usado": false
+  },
+  {
+    "palabra": "DIVERSIDAD",
+    "pista": "Condición de lo que contiene en sí mismo múltiples formas sin fundirse en una sola.",
+    "usado": false
+  },
+  {
+    "palabra": "EMPERADOR",
+    "pista": "Quien gobierna un territorio tan extenso que no cabe en un solo reino.",
+    "usado": false
+  },
+  {
+    "palabra": "EMPEZANDO",
+    "pista": "En el umbral de algo que aún no tiene historia propia.",
+    "usado": false
+  },
+  {
+    "palabra": "ESTABILIDAD",
+    "pista": "Estado en que las fuerzas se equilibran y el sistema resiste el cambio.",
+    "usado": false
+  },
+  {
+    "palabra": "EXCLUSIVAMENTE",
+    "pista": "Sin admitir ninguna otra cosa; cerrando la puerta a todo lo que no sea eso.",
+    "usado": false
+  },
+  {
+    "palabra": "FUNCIONAR",
+    "pista": "Operar según la lógica para la que algo fue concebido.",
+    "usado": false
+  },
+  {
+    "palabra": "GARANTIZAR",
+    "pista": "Comprometerse a que algo ocurrirá o no ocurrirá, asumiendo las consecuencias.",
+    "usado": false
+  },
+  {
+    "palabra": "GENERACIONES",
+    "pista": "Oleadas de seres nacidos en un mismo tiempo que comparten un horizonte.",
+    "usado": false
+  },
+  {
+    "palabra": "HABILIDAD",
+    "pista": "Destreza adquirida que permite hacer con facilidad lo que a otros les cuesta.",
+    "usado": false
+  },
+  {
+    "palabra": "HERNANDEZ",
+    "pista": "Apellido de raíz patronímica muy extendido en el mundo hispanohablante.",
+    "usado": false
+  },
+  {
+    "palabra": "INSTRUMENTO",
+    "pista": "Lo que sirve de medio para que una voluntad alcance su fin.",
+    "usado": false
+  },
+  {
+    "palabra": "INTERESADO",
+    "pista": "Quien orienta su atención o su acción movido por un beneficio propio.",
+    "usado": false
+  },
+  {
+    "palabra": "INVESTIGADORES",
+    "pista": "Quienes se adentran en lo desconocido con método para traer respuestas.",
+    "usado": false
+  },
+  {
+    "palabra": "INVESTIGAR",
+    "pista": "Avanzar sistemáticamente hacia lo que aún no se sabe.",
+    "usado": false
+  },
+  {
+    "palabra": "MANIFESTACIONES",
+    "pista": "Momentos en que lo interior se exterioriza y se hace visible ante otros.",
+    "usado": false
+  },
+  {
+    "palabra": "ORIGINALMENTE",
+    "pista": "En su estado o momento primero, antes de cualquier modificación.",
+    "usado": false
+  },
+  {
+    "palabra": "REQUISITOS",
+    "pista": "Condiciones previas sin cuyo cumplimiento el acceso queda vedado.",
+    "usado": false
+  },
+  {
+    "palabra": "UNIVERSITARIO",
+    "pista": "Perteneciente al espacio donde el saber se organiza en su forma más sistemática.",
+    "usado": false
+  },
+  {
+    "palabra": "AMBIENTAL",
+    "pista": "Relativo al conjunto de condiciones externas que rodean y condicionan a los seres.",
+    "usado": false
+  },
+  {
+    "palabra": "CATEGORIAS",
+    "pista": "Cajones conceptuales en los que ordenamos la diversidad del mundo.",
+    "usado": false
+  },
+  {
+    "palabra": "CEREMONIA",
+    "pista": "Rito que convierte un acto ordinario en acontecimiento cargado de significado.",
+    "usado": false
+  },
+  {
+    "palabra": "COMPUTADORA",
+    "pista": "Máquina que procesa instrucciones simbólicas a velocidades que superan la mente.",
+    "usado": false
+  },
+  {
+    "palabra": "ESTABLECIMIENTO",
+    "pista": "Aquello que ha echado raíces y adquirido permanencia en un lugar o sistema.",
+    "usado": false
+  },
+  {
+    "palabra": "ESTRUCTURAS",
+    "pista": "Armazones invisibles que sostienen la forma de las cosas.",
+    "usado": false
+  },
+  {
+    "palabra": "OCUPACION",
+    "pista": "Estado de quien ha llenado su tiempo o territorio con una actividad o presencia.",
+    "usado": false
+  },
+  {
+    "palabra": "ORGANIZAR",
+    "pista": "Imponer un orden sobre el caos para que los elementos cooperen hacia un fin.",
+    "usado": false
+  },
+  {
+    "palabra": "PENDIENTE",
+    "pista": "Lo que aún no ha sido resuelto y aguarda el momento de su cierre.",
+    "usado": false
+  },
+  {
+    "palabra": "PERMITIDO",
+    "pista": "Lo que la norma ha dejado dentro del espacio de lo posible.",
+    "usado": false
+  },
+  {
+    "palabra": "PREVIAMENTE",
+    "pista": "En el tiempo que precedió y preparó el terreno para lo que vino después.",
+    "usado": false
+  },
+  {
+    "palabra": "RECOMIENDO",
+    "pista": "Señalo hacia algo con la confianza de quien ya ha comprobado su valor.",
+    "usado": false
+  },
+  {
+    "palabra": "RECUPERACION",
+    "pista": "Regreso a un estado anterior después de haberlo perdido.",
+    "usado": false
+  },
+  {
+    "palabra": "SORPRENDE",
+    "pista": "Irrumpe en la conciencia rompiendo lo que se esperaba.",
+    "usado": false
+  },
+  {
+    "palabra": "SUPUESTAMENTE",
+    "pista": "Bajo el amparo de una suposición que nadie ha verificado aún.",
+    "usado": false
+  },
+  {
+    "palabra": "TRANQUILA",
+    "pista": "En estado de quietud donde las perturbaciones no encuentran entrada.",
+    "usado": false
+  },
+  {
+    "palabra": "VERDADERAMENTE",
+    "pista": "Sin ninguna máscara entre la realidad y quien la nombra.",
+    "usado": false
+  },
+  {
+    "palabra": "CONDUCTOR",
+    "pista": "Quien toma las riendas del movimiento y decide la dirección.",
+    "usado": false
+  },
+  {
+    "palabra": "CONSCIENTE",
+    "pista": "Que sabe lo que hace y por qué lo hace; presente en su propio acto.",
+    "usado": false
+  },
+  {
+    "palabra": "CONVERSACIONES",
+    "pista": "Intercambios en que dos mentes se construyen mutuamente mediante palabras.",
+    "usado": false
+  },
+  {
+    "palabra": "DIRECTORA",
+    "pista": "Mujer que orienta el rumbo de una organización o creación colectiva.",
+    "usado": false
+  },
+  {
+    "palabra": "EDUCATIVO",
+    "pista": "Relativo al proceso por el que una mente se va formando y expandiendo.",
+    "usado": false
+  },
+  {
+    "palabra": "EQUIVALENTE",
+    "pista": "Lo que ocupa el mismo lugar en la balanza sin ser idéntico a lo que contrapesa.",
+    "usado": false
+  },
+  {
+    "palabra": "ESCUCHANDO",
+    "pista": "En el acto de recibir con atención lo que otro ha decidido compartir.",
+    "usado": false
+  },
+  {
+    "palabra": "FRONTERAS",
+    "pista": "Líneas trazadas por el poder para separar lo propio de lo ajeno.",
+    "usado": false
+  },
+  {
+    "palabra": "FUNCIONARIO",
+    "pista": "Quien ha subordinado su actividad al servicio de una estructura estatal.",
+    "usado": false
+  },
+  {
+    "palabra": "FUNDAMENTALES",
+    "pista": "Los que sostienen el edificio; sin ellos todo lo demás se derrumba.",
+    "usado": false
+  },
+  {
+    "palabra": "INDIVIDUO",
+    "pista": "Unidad indivisible en que la especie se particulariza en un ser único.",
+    "usado": false
+  },
+  {
+    "palabra": "MENCIONADO",
+    "pista": "Lo que ya fue traído al discurso y por tanto existe en la memoria del intercambio.",
+    "usado": false
+  },
+  {
+    "palabra": "NECESARIAMENTE",
+    "pista": "De modo que no puede ser de otra manera sin que algo se rompa.",
+    "usado": false
+  },
+  {
+    "palabra": "ORIENTACION",
+    "pista": "La brújula interna o externa que señala hacia dónde dirigir el movimiento.",
+    "usado": false
+  },
+  {
+    "palabra": "PROCEDIMIENTOS",
+    "pista": "Secuencias de pasos que garantizan que el resultado no dependa del azar.",
+    "usado": false
+  },
+  {
+    "palabra": "PROFESORA",
+    "pista": "Mujer que transmite conocimiento de forma sistemática y profesional.",
+    "usado": false
+  },
+  {
+    "palabra": "RENDIMIENTO",
+    "pista": "La proporción entre lo que se invierte y lo que se obtiene a cambio.",
+    "usado": false
+  },
+  {
+    "palabra": "VICEPRESIDENTE",
+    "pista": "Quien ocupa el lugar inmediatamente inferior al del máximo poder ejecutivo.",
+    "usado": false
+  },
+  {
+    "palabra": "CABALLEROS",
+    "pista": "Quienes adoptaron un código de honor como armadura interior más duradera que el metal.",
+    "usado": false
+  },
+  {
+    "palabra": "CAMINANDO",
+    "pista": "En el acto de avanzar con los pies como único motor; también metáfora del progreso lento.",
+    "usado": false
+  },
+  {
+    "palabra": "DECLARADO",
+    "pista": "Lo que salió del ámbito privado y se hizo público con voluntad de que fuera escuchado.",
+    "usado": false
+  },
+  {
+    "palabra": "DESAPARECIDO",
+    "pista": "Lo que existió y luego dejó de estar sin que nadie pueda señalar exactamente cuándo.",
+    "usado": false
+  },
+  {
+    "palabra": "EMBAJADOR",
+    "pista": "Quien habita entre dos mundos como voz de uno ante el otro.",
+    "usado": false
+  },
+  {
+    "palabra": "EQUILIBRIO",
+    "pista": "Estado frágil en que las fuerzas opuestas se neutralizan mutuamente sin vencer ninguna.",
+    "usado": false
+  },
+  {
+    "palabra": "EQUIVOCADO",
+    "pista": "Quien tomó por verdadero lo que la realidad luego desmintió.",
+    "usado": false
+  },
+  {
+    "palabra": "ESCRIBIENDO",
+    "pista": "En el acto de convertir el pensamiento en signos que otro podrá leer en su ausencia.",
+    "usado": false
+  },
+  {
+    "palabra": "EXPANSION",
+    "pista": "Movimiento hacia afuera que amplía los límites de lo que algo ocupaba.",
+    "usado": false
+  },
+  {
+    "palabra": "IDENTIFICAR",
+    "pista": "Reconocer algo entre lo múltiple y asignarle su nombre propio.",
+    "usado": false
+  },
+  {
+    "palabra": "MECANISMO",
+    "pista": "Engranaje de partes que cooperan para producir un efecto que ninguna lograría sola.",
+    "usado": false
+  },
+  {
+    "palabra": "PROFESION",
+    "pista": "Actividad que se ejerce con competencia acreditada como medio de vida y de identidad.",
+    "usado": false
+  },
+  {
+    "palabra": "REFLEXION",
+    "pista": "El pensamiento que se dobla sobre sí mismo para examinarse.",
+    "usado": false
+  },
+  {
+    "palabra": "AUTONOMIA",
+    "pista": "Capacidad de darse la propia ley sin necesitar que otro la dicte.",
+    "usado": false
+  },
+  {
+    "palabra": "BIENVENIDO",
+    "pista": "Declarado digno de cruzar el umbral y ocupar el espacio del anfitrión.",
+    "usado": false
+  },
+  {
+    "palabra": "CAMPEONATO",
+    "pista": "Certamen en que los mejores compiten hasta que solo queda uno.",
+    "usado": false
+  },
+  {
+    "palabra": "CANTIDADES",
+    "pista": "Expresiones de cuánto hay de algo; el lenguaje con que la matemática habla del mundo.",
+    "usado": false
+  },
+  {
+    "palabra": "CIERTAMENTE",
+    "pista": "Con la firmeza de quien no alberga duda sobre lo que afirma.",
+    "usado": false
+  },
+  {
+    "palabra": "COMPOSICION",
+    "pista": "El arte de disponer las partes de modo que el conjunto tenga sentido y forma.",
+    "usado": false
+  },
+  {
+    "palabra": "CONOCEMOS",
+    "pista": "Lo que habita ya en nuestra experiencia y no necesita ser descubierto.",
+    "usado": false
+  },
+  {
+    "palabra": "CONSTITUYE",
+    "pista": "Forma o es parte esencial de algo; sin ello, aquello no sería lo que es.",
+    "usado": false
+  },
+  {
+    "palabra": "CRECIENTE",
+    "pista": "Que aumenta progresivamente sin haber alcanzado aún su límite.",
+    "usado": false
+  },
+  {
+    "palabra": "ELECTORALES",
+    "pista": "Pertenecientes al proceso por el que una comunidad designa a quienes la gobernarán.",
+    "usado": false
+  },
+  {
+    "palabra": "EMOCIONES",
+    "pista": "Estados afectivos que colorean la experiencia antes de que la razón los nombre.",
+    "usado": false
+  },
+  {
+    "palabra": "ENTIENDEN",
+    "pista": "Han logrado que el sentido de algo cruce al interior de su comprensión.",
+    "usado": false
+  },
+  {
+    "palabra": "ESPIRITUAL",
+    "pista": "Perteneciente a la dimensión inmaterial del ser que no se agota en lo físico.",
+    "usado": false
+  },
+  {
+    "palabra": "GUILLERMO",
+    "pista": "Nombre propio masculino de origen germánico muy extendido en el mundo hispanohablante.",
+    "usado": false
+  },
+  {
+    "palabra": "INSTAGRAM",
+    "pista": "Plataforma digital centrada en la imagen como moneda de intercambio social.",
+    "usado": false
+  },
+  {
+    "palabra": "INSTALACION",
+    "pista": "Proceso de colocar algo en el lugar y condiciones para que pueda operar.",
+    "usado": false
+  },
+  {
+    "palabra": "MARAVILLOSO",
+    "pista": "Lo que provoca asombro genuino; aquello ante lo que la mente se detiene sin palabras.",
+    "usado": false
+  },
+  {
+    "palabra": "MUCHACHOS",
+    "pista": "Personas en la franja de edad en que dejan de ser niños sin haber llegado a ser adultos.",
+    "usado": false
+  },
+  {
+    "palabra": "ORGULLOSO",
+    "pista": "Quien siente que su valor o el de lo suyo merece ser reconocido abiertamente.",
+    "usado": false
+  },
+  {
+    "palabra": "RECIENTES",
+    "pista": "Los que han ocurrido tan cerca del presente que aún conservan su temperatura.",
+    "usado": false
+  },
+  {
+    "palabra": "RELIGIOSAS",
+    "pista": "Pertenecientes al ámbito de lo sagrado y de las instituciones que lo administran.",
+    "usado": false
+  },
+  {
+    "palabra": "SEGUIMIENTO",
+    "pista": "Acción de mantener la mirada puesta sobre algo que se mueve o evoluciona.",
+    "usado": false
+  },
+  {
+    "palabra": "TERRITORIOS",
+    "pista": "Extensiones de tierra sobre las que alguien ejerce dominio o reclama pertenencia.",
+    "usado": false
+  },
+  {
+    "palabra": "TRANSFORMACION",
+    "pista": "Cambio tan profundo que lo que emerge ya no guarda semejanza con lo que era.",
+    "usado": false
+  },
+  {
+    "palabra": "UNIVERSITARIA",
+    "pista": "Perteneciente al nivel más alto del sistema formal de producción de conocimiento.",
+    "usado": false
+  },
+  {
+    "palabra": "ACADEMICO",
+    "pista": "Relativo al espacio institucionalizado donde el saber se produce y transmite.",
+    "usado": false
+  },
+  {
+    "palabra": "ACTUALIZACION",
+    "pista": "Proceso de poner algo al nivel exigido por el momento presente.",
+    "usado": false
+  },
+  {
+    "palabra": "ADICIONAL",
+    "pista": "Lo que se suma a lo ya existente sin ser parte de su núcleo original.",
+    "usado": false
+  },
+  {
+    "palabra": "APROVECHAR",
+    "pista": "Extraer el máximo rendimiento de una oportunidad o recurso antes de que desaparezca.",
+    "usado": false
+  },
+  {
+    "palabra": "COALICION",
+    "pista": "Alianza provisional entre fuerzas que conservan su identidad mientras cooperan.",
+    "usado": false
+  },
+  {
+    "palabra": "COORDINACION",
+    "pista": "Arte de sincronizar las acciones de varios para que no se obstaculicen mutuamente.",
+    "usado": false
+  },
+  {
+    "palabra": "DEPENDIENDO",
+    "pista": "Condicionado por algo externo que no controla quien depende de ello.",
+    "usado": false
+  },
+  {
+    "palabra": "DEPRESION",
+    "pista": "Estado en que la energía vital se retira y el presente pierde su color.",
+    "usado": false
+  },
+  {
+    "palabra": "EFECTIVAMENTE",
+    "pista": "Con plena correspondencia entre lo dicho o prometido y lo que ocurrió.",
+    "usado": false
+  },
+  {
+    "palabra": "ELECTRONICA",
+    "pista": "Disciplina que gobierna el comportamiento de partículas diminutas para procesar información.",
+    "usado": false
+  },
+  {
+    "palabra": "EMPRESARIO",
+    "pista": "Quien asume el riesgo de organizar recursos con la esperanza de obtener valor.",
+    "usado": false
+  },
+  {
+    "palabra": "LABORALES",
+    "pista": "Relativas al vínculo entre quien trabaja y quien recibe ese trabajo.",
+    "usado": false
+  },
+  {
+    "palabra": "LATINOAMERICA",
+    "pista": "Conjunto de naciones que comparten raíces coloniales ibéricas y lenguas romances.",
+    "usado": false
+  },
+  {
+    "palabra": "LIBERALES",
+    "pista": "Quienes anteponen la libertad individual como valor político y económico.",
+    "usado": false
+  },
+  {
+    "palabra": "PROPIETARIO",
+    "pista": "Quien tiene reconocido el derecho de usar y disponer de algo con exclusividad.",
+    "usado": false
+  },
+  {
+    "palabra": "PROTAGONISTA",
+    "pista": "Quien ocupa el centro de la acción y sin quien la historia no tendría su eje.",
+    "usado": false
+  },
+  {
+    "palabra": "TOTALIDAD",
+    "pista": "El conjunto sin excepciones; aquello que no deja nada fuera de sí.",
+    "usado": false
+  },
+  {
+    "palabra": "VERSIONES",
+    "pista": "Variantes de un mismo relato o producto que difieren en algún detalle significativo.",
+    "usado": false
+  },
+  {
+    "palabra": "VIOLACION",
+    "pista": "Transgresión forzada de un límite que otro tenía derecho a que se respetara.",
+    "usado": false
+  },
+  {
+    "palabra": "VOLVIENDO",
+    "pista": "En proceso de regresar a un punto de partida o a una condición anterior.",
+    "usado": false
+  },
+  {
+    "palabra": "ACOMPAÑADO",
+    "pista": "Quien no atraviesa su camino en soledad sino con la presencia de otro.",
+    "usado": false
+  },
+  {
+    "palabra": "ALIMENTACION",
+    "pista": "Proceso por el que los seres vivos incorporan aquello que los mantiene en funcionamiento.",
+    "usado": false
+  },
+  {
+    "palabra": "ALTERNATIVAS",
+    "pista": "Los caminos que existen cuando el principal está bloqueado.",
+    "usado": false
+  },
+  {
+    "palabra": "BRITANICO",
+    "pista": "Natural de las islas que dieron origen a un imperio en el que nunca se ponía el sol.",
+    "usado": false
+  },
+  {
+    "palabra": "COMBINACION",
+    "pista": "Unión de elementos distintos que produce algo que ninguno contenía por separado.",
+    "usado": false
+  },
+  {
+    "palabra": "DESCONOCIDO",
+    "pista": "Lo que aún no ha cruzado el umbral de nuestra experiencia o nuestro saber.",
+    "usado": false
+  },
+  {
+    "palabra": "ESPECIFICO",
+    "pista": "Lo que pertenece solo a ese caso y no puede extenderse a los demás sin distorsión.",
+    "usado": false
+  },
+  {
+    "palabra": "HISTORICOS",
+    "pista": "Que han dejado huella suficiente para ser recordados mucho después de ocurridos.",
+    "usado": false
+  },
+  {
+    "palabra": "HOSPITALES",
+    "pista": "Espacios donde la enfermedad y la reparación del cuerpo se encuentran bajo un mismo techo.",
+    "usado": false
+  },
+  {
+    "palabra": "INCLUIDOS",
+    "pista": "Los que han sido admitidos dentro de un conjunto que podría haberlos dejado fuera.",
+    "usado": false
+  },
+  {
+    "palabra": "INMEDIATA",
+    "pista": "La que no interpone ningún paso ni distancia entre la causa y el efecto.",
+    "usado": false
+  },
+  {
+    "palabra": "LITERALMENTE",
+    "pista": "Sin metáfora ni rodeo; tomando las palabras en su sentido más exacto.",
+    "usado": false
+  },
+  {
+    "palabra": "MANIFESTACION",
+    "pista": "Momento en que algo interior se exterioriza y reclama ser visto.",
+    "usado": false
+  },
+  {
+    "palabra": "MATEMATICAS",
+    "pista": "El lenguaje que el universo habla cuando nadie lo interrumpe con interpretaciones.",
+    "usado": false
+  },
+  {
+    "palabra": "MECANISMOS",
+    "pista": "Sistemas de partes articuladas cuya cooperación produce un efecto predecible.",
+    "usado": false
+  },
+  {
+    "palabra": "PRIORIDAD",
+    "pista": "Lo que ocupa el primer lugar cuando no todo puede atenderse a la vez.",
+    "usado": false
+  },
+  {
+    "palabra": "REGLAMENTO",
+    "pista": "Conjunto de normas que fijan los límites dentro de los cuales algo puede ocurrir.",
+    "usado": false
+  },
+  {
+    "palabra": "SEPARACION",
+    "pista": "Distancia que se abre entre lo que antes compartía un mismo espacio o vínculo.",
+    "usado": false
+  },
+  {
+    "palabra": "TONELADAS",
+    "pista": "Unidades de peso que expresan masas que el cuerpo ya no puede intuir directamente.",
+    "usado": false
+  },
+  {
+    "palabra": "TRIBUNALES",
+    "pista": "Espacios donde el conflicto entre partes es sometido a un juicio con autoridad.",
+    "usado": false
+  },
+  {
+    "palabra": "CASUALIDAD",
+    "pista": "Encuentro de causas que nadie planeó y cuyo resultado nadie podía prever.",
+    "usado": false
+  },
+  {
+    "palabra": "DEPARTAMENTOS",
+    "pista": "Divisiones internas de una organización o territorio con funciones propias.",
+    "usado": false
+  },
+  {
+    "palabra": "DETERMINADO",
+    "pista": "Lo que ha sido fijado sin margen para la variación.",
+    "usado": false
+  },
+  {
+    "palabra": "DOMICILIO",
+    "pista": "El lugar que alguien ha elegido como centro fijo de su existencia cotidiana.",
+    "usado": false
+  },
+  {
+    "palabra": "DOMINICANA",
+    "pista": "Natural o relativa a la isla caribeña que comparte territorio con otro Estado.",
+    "usado": false
+  },
+  {
+    "palabra": "ESTATALES",
+    "pista": "Pertenecientes o dependientes del aparato del Estado.",
+    "usado": false
+  },
+  {
+    "palabra": "EXISTENTES",
+    "pista": "Los que tienen realidad efectiva en el momento presente.",
+    "usado": false
+  },
+  {
+    "palabra": "EXPLOSION",
+    "pista": "Liberación violenta y repentina de energía que rompe los límites de su contenedor.",
+    "usado": false
+  },
+  {
+    "palabra": "MONTEVIDEO",
+    "pista": "Capital del país sudamericano situado entre los dos gigantes del Río de la Plata.",
+    "usado": false
+  },
+  {
+    "palabra": "NACIONALIDAD",
+    "pista": "Vínculo jurídico que une a una persona con un Estado y define su pertenencia.",
+    "usado": false
+  },
+  {
+    "palabra": "PROTESTAS",
+    "pista": "Expresiones colectivas de rechazo ante algo que se considera injusto.",
+    "usado": false
+  },
+  {
+    "palabra": "REFERENCIAS",
+    "pista": "Puntos fijos desde los que se orienta o verifica lo demás.",
+    "usado": false
+  },
+  {
+    "palabra": "REPRODUCCION",
+    "pista": "Proceso por el que algo genera una copia de sí mismo o de otro original.",
+    "usado": false
+  },
+  {
+    "palabra": "SINDICATO",
+    "pista": "Organización que agrupa trabajadores para defender sus intereses frente al capital.",
+    "usado": false
+  },
+  {
+    "palabra": "SOBERANIA",
+    "pista": "Poder supremo que no reconoce autoridad por encima de sí en su propio ámbito.",
+    "usado": false
+  },
+  {
+    "palabra": "TERRORISTAS",
+    "pista": "Quienes emplean el miedo como arma política dirigida contra poblaciones civiles.",
+    "usado": false
+  },
+  {
+    "palabra": "TESTIMONIO",
+    "pista": "Relato de quien estuvo presente y convierte su memoria en prueba.",
+    "usado": false
+  },
+  {
+    "palabra": "TRANSPARENCIA",
+    "pista": "Cualidad de lo que no oculta nada entre su interior y la mirada de quien observa.",
+    "usado": false
+  },
+  {
+    "palabra": "VENEZOLANA",
+    "pista": "Natural o relativa al país caribeño de habla hispana rico en petróleo.",
+    "usado": false
+  },
+  {
+    "palabra": "VERDADEROS",
+    "pista": "Los que no fingen ser lo que son; los que coinciden con su propia esencia.",
+    "usado": false
+  },
+  {
+    "palabra": "ADOLESCENTES",
+    "pista": "Quienes habitan el territorio incierto entre la infancia que se abandona y la adultez que aún no llega.",
+    "usado": false
+  },
+  {
+    "palabra": "APRENDIDO",
+    "pista": "Lo que ha cruzado del exterior al interior y ya forma parte del que lo recibió.",
+    "usado": false
+  },
+  {
+    "palabra": "ASOCIACIONES",
+    "pista": "Agrupaciones voluntarias de personas unidas por un propósito común.",
+    "usado": false
+  },
+  {
+    "palabra": "CAMBIANDO",
+    "pista": "En proceso de dejar de ser lo que era para convertirse en algo distinto.",
+    "usado": false
+  },
+  {
+    "palabra": "CIRCULACION",
+    "pista": "Movimiento continuo de algo que recorre un circuito sin detenerse.",
+    "usado": false
+  },
+  {
+    "palabra": "COMIENZOS",
+    "pista": "Los instantes en que algo empieza a existir y aún no sabe lo que será.",
+    "usado": false
+  },
+  {
+    "palabra": "COMPONENTES",
+    "pista": "Las partes que, juntas, forman algo que ninguna de ellas podría ser por separado.",
+    "usado": false
+  },
+  {
+    "palabra": "CRIMINALES",
+    "pista": "Quienes han cruzado la línea que la ley traza entre lo permitido y lo punible.",
+    "usado": false
+  },
+  {
+    "palabra": "DESAPARECER",
+    "pista": "Cesar en la existencia visible sin que quede rastro de dónde fue a parar.",
+    "usado": false
+  },
+  {
+    "palabra": "EMPEZAMOS",
+    "pista": "El instante en que un colectivo dio el primer paso hacia algo nuevo.",
+    "usado": false
+  },
+  {
+    "palabra": "FACILITAR",
+    "pista": "Reducir la fricción que se interpone entre alguien y lo que intenta hacer.",
+    "usado": false
+  },
+  {
+    "palabra": "IDEOLOGIA",
+    "pista": "Sistema de ideas que da forma a cómo alguien interpreta el mundo y actúa en él.",
+    "usado": false
+  },
+  {
+    "palabra": "IMAGINACION",
+    "pista": "Facultad de construir realidades que aún no existen fuera de la mente.",
+    "usado": false
+  },
+  {
+    "palabra": "INFLACION",
+    "pista": "Proceso por el que el valor del dinero se erosiona y las cosas cuestan más sin valer más.",
+    "usado": false
+  },
+  {
+    "palabra": "INTEGRANTES",
+    "pista": "Quienes forman parte de un conjunto que no existiría sin ellos.",
+    "usado": false
+  },
+  {
+    "palabra": "MANTIENEN",
+    "pista": "Conservan algo en el estado en que estaba resistiendo al cambio.",
+    "usado": false
+  },
+  {
+    "palabra": "NICARAGUA",
+    "pista": "País centroamericano entre Honduras y Costa Rica, bañado por el lago más grande de la región.",
+    "usado": false
+  },
+  {
+    "palabra": "OCCIDENTE",
+    "pista": "La mitad del mundo que heredó la tradición grecorromana y judeocristiana.",
+    "usado": false
+  },
+  {
+    "palabra": "OSCURIDAD",
+    "pista": "Ausencia de lo que permite ver; también metáfora de lo que permanece sin iluminar.",
+    "usado": false
+  },
+  {
+    "palabra": "PARTICIPA",
+    "pista": "Toma parte activa en algo sin ser su único protagonista.",
+    "usado": false
+  },
+  {
+    "palabra": "POBLACIONES",
+    "pista": "Conjuntos de seres que comparten un territorio en un momento dado.",
+    "usado": false
+  },
+  {
+    "palabra": "REDACCION",
+    "pista": "Arte de transformar el pensamiento en texto ordenado y comprensible.",
+    "usado": false
+  },
+  {
+    "palabra": "RENUNCIAR",
+    "pista": "Soltar voluntariamente algo a lo que se tenía derecho o pretensión.",
+    "usado": false
+  },
+  {
+    "palabra": "SOBREVIVIR",
+    "pista": "Permanecer cuando todo indicaba que ya no habría razón para seguir.",
+    "usado": false
+  },
+  {
+    "palabra": "ACCIDENTES",
+    "pista": "Irrupciones del azar que alteran el curso previsto de las cosas.",
+    "usado": false
+  },
+  {
+    "palabra": "ADMINISTRATIVA",
+    "pista": "Relativa a la gestión ordenada de los recursos y procedimientos de una organización.",
+    "usado": false
+  },
+  {
+    "palabra": "APARIENCIA",
+    "pista": "La cara que algo muestra al mundo, no necesariamente fiel a lo que oculta.",
+    "usado": false
+  },
+  {
+    "palabra": "CINCUENTA",
+    "pista": "El número que marca la mitad de un siglo y suele usarse como frontera simbólica.",
+    "usado": false
+  },
+  {
+    "palabra": "COLECTIVA",
+    "pista": "Perteneciente al grupo como unidad, no a ninguno de sus miembros por separado.",
+    "usado": false
+  },
+  {
+    "palabra": "COMPUESTO",
+    "pista": "Formado por la unión de partes heterogéneas que conservan su naturaleza.",
+    "usado": false
+  },
+  {
+    "palabra": "CONTACTOS",
+    "pista": "Puntos de conexión entre personas o sistemas que permiten el intercambio.",
+    "usado": false
+  },
+  {
+    "palabra": "CONVERTIR",
+    "pista": "Hacer que algo pase a ser otra cosa distinta de lo que era.",
+    "usado": false
+  },
+  {
+    "palabra": "CRITERIOS",
+    "pista": "Principios que sirven de vara de medir para juzgar o decidir.",
+    "usado": false
+  },
+  {
+    "palabra": "DELEGACION",
+    "pista": "Transferencia de autoridad a otro para que actúe en nombre de quien la cede.",
+    "usado": false
+  },
+  {
+    "palabra": "DESPERTAR",
+    "pista": "Tránsito del estado en que la conciencia estaba ausente al estado en que regresa.",
+    "usado": false
+  },
+  {
+    "palabra": "DESPIERTA",
+    "pista": "Que ha salido del estado de inconsciencia y tiene la conciencia activa.",
+    "usado": false
+  },
+  {
+    "palabra": "DOCUMENTACION",
+    "pista": "Conjunto de pruebas escritas que acreditan la identidad o la veracidad de algo.",
+    "usado": false
+  },
+  {
+    "palabra": "ESTRATEGIAS",
+    "pista": "Planes de acción diseñados para alcanzar objetivos en entornos de incertidumbre.",
+    "usado": false
+  },
+  {
+    "palabra": "FORTALEZA",
+    "pista": "Capacidad de resistir sin quebrarse ante la presión o la adversidad.",
+    "usado": false
+  },
+  {
+    "palabra": "GANANCIAS",
+    "pista": "Lo que queda después de descontar los costes de una actividad.",
+    "usado": false
+  },
+  {
+    "palabra": "INTENCIONES",
+    "pista": "Los propósitos que preceden a los actos y les dan dirección.",
+    "usado": false
+  },
+  {
+    "palabra": "PERMANECER",
+    "pista": "Seguir en el mismo lugar o estado a pesar del tiempo que pasa.",
+    "usado": false
+  },
+  {
+    "palabra": "PRESIDENTES",
+    "pista": "Quienes ocupan el vértice del poder ejecutivo en sus respectivos Estados.",
+    "usado": false
+  },
+  {
+    "palabra": "PREVENCION",
+    "pista": "Acción de anticiparse al daño para que no llegue a producirse.",
+    "usado": false
+  },
+  {
+    "palabra": "PROFUNDAMENTE",
+    "pista": "Hasta las capas más hondas de algo; sin quedarse en la superficie.",
+    "usado": false
+  },
+  {
+    "palabra": "REVOLUCIONARIO",
+    "pista": "Quien no acepta el orden existente y trabaja para sustituirlo por otro.",
+    "usado": false
+  },
+  {
+    "palabra": "SUFRIMIENTO",
+    "pista": "Estado en que el dolor, físico o moral, se instala sin permiso en el ser.",
+    "usado": false
+  },
+  {
+    "palabra": "VISITANTES",
+    "pista": "Quienes llegan a un lugar donde no residen y luego regresan a su origen.",
+    "usado": false
+  },
+  {
+    "palabra": "ADMINISTRATIVO",
+    "pista": "Relativo a la gestión ordenada de procedimientos en una organización.",
+    "usado": false
+  },
+  {
+    "palabra": "CONDENADO",
+    "pista": "Quien ha recibido el veredicto que le cierra el acceso a lo que antes era libre.",
+    "usado": false
+  },
+  {
+    "palabra": "CONFERENCIAS",
+    "pista": "Reuniones formales en que el conocimiento o las posiciones se exponen ante otros.",
+    "usado": false
+  },
+  {
+    "palabra": "CRISTIANA",
+    "pista": "Perteneciente a la tradición espiritual que tiene como centro la figura de Jesucristo.",
+    "usado": false
+  },
+  {
+    "palabra": "DESARROLLA",
+    "pista": "Expande o hace crecer algo desde un estado inicial hacia su forma más plena.",
+    "usado": false
+  },
+  {
+    "palabra": "EJERCICIOS",
+    "pista": "Prácticas repetidas para adquirir dominio sobre algo que al principio resistía.",
+    "usado": false
+  },
+  {
+    "palabra": "ELABORACION",
+    "pista": "Proceso de transformar materiales o ideas en algo más complejo y acabado.",
+    "usado": false
+  },
+  {
+    "palabra": "EXTRANJERA",
+    "pista": "Que proviene de otro lugar y no pertenece al territorio que la recibe.",
+    "usado": false
+  },
+  {
+    "palabra": "FINANCIEROS",
+    "pista": "Relativos al movimiento y gestión del dinero y los instrumentos que lo representan.",
+    "usado": false
+  },
+  {
+    "palabra": "INSTITUCIONAL",
+    "pista": "Perteneciente a las estructuras estables que organizan la vida colectiva.",
+    "usado": false
+  },
+  {
+    "palabra": "LIDERAZGO",
+    "pista": "Capacidad de orientar la acción de otros hacia un fin que ellos también asumen.",
+    "usado": false
+  },
+  {
+    "palabra": "NEGOCIACIONES",
+    "pista": "Procesos en que partes con intereses distintos buscan un punto de encuentro.",
+    "usado": false
+  },
+  {
+    "palabra": "RECEPCION",
+    "pista": "Acto de recibir algo o a alguien; también espacio destinado a esa función.",
+    "usado": false
+  },
+  {
+    "palabra": "REPRESENTAR",
+    "pista": "Hacer presente algo que está ausente actuando en su nombre.",
+    "usado": false
+  },
+  {
+    "palabra": "REPRESION",
+    "pista": "Uso del poder para sofocar lo que amenaza con salir a la superficie.",
+    "usado": false
+  },
+  {
+    "palabra": "SACERDOTE",
+    "pista": "Intermediario entre lo humano y lo sagrado en una tradición religiosa.",
+    "usado": false
+  },
+  {
+    "palabra": "SEBASTIAN",
+    "pista": "Nombre propio masculino de origen griego muy extendido en el mundo hispanohablante.",
+    "usado": false
+  },
+  {
+    "palabra": "SECRETARIA",
+    "pista": "Mujer que gestiona la correspondencia y administración de una organización.",
+    "usado": false
+  },
+  {
+    "palabra": "TERRITORIAL",
+    "pista": "Relativo a la extensión física sobre la que algo ejerce dominio o pertenencia.",
+    "usado": false
+  },
+  {
+    "palabra": "APARTAMENTO",
+    "pista": "Unidad de vivienda autónoma integrada en un edificio mayor.",
+    "usado": false
+  },
+  {
+    "palabra": "CANDIDATURA",
+    "pista": "Postulación formal de alguien para ser elegido a un cargo.",
+    "usado": false
+  },
+  {
+    "palabra": "CARACTERISTICA",
+    "pista": "Rasgo que distingue algo de lo demás y contribuye a definir su identidad.",
+    "usado": false
+  },
+  {
+    "palabra": "COMPRENDE",
+    "pista": "Abarca algo dentro de sí; también llega a entenderlo.",
+    "usado": false
+  },
+  {
+    "palabra": "CONQUISTA",
+    "pista": "Apropiación de algo por la fuerza o el empeño sostenido.",
+    "usado": false
+  },
+  {
+    "palabra": "CONTESTAR",
+    "pista": "Devolver la palabra al que la lanzó; cerrar el circuito de la comunicación.",
+    "usado": false
+  },
+  {
+    "palabra": "CORAZONES",
+    "pista": "Órganos que no descansan; también sede simbólica de lo que más importa.",
+    "usado": false
+  },
+  {
+    "palabra": "CRECIENDO",
+    "pista": "En proceso de hacerse mayor sin haber llegado aún a su límite.",
+    "usado": false
+  },
+  {
+    "palabra": "DESAPARICION",
+    "pista": "El momento en que algo deja de estar presente de manera definitiva o prolongada.",
+    "usado": false
+  },
+  {
+    "palabra": "DESTACADO",
+    "pista": "Lo que sobresale del plano común y se hace visible por su mérito.",
+    "usado": false
+  },
+  {
+    "palabra": "DIFICULTAD",
+    "pista": "Resistencia que algo opone a quien intenta comprenderlo o superarlo.",
+    "usado": false
+  },
+  {
+    "palabra": "ENTREVISTAS",
+    "pista": "Encuentros estructurados en que uno pregunta y otro revela.",
+    "usado": false
+  },
+  {
+    "palabra": "ESPAÑOLAS",
+    "pista": "Naturales de España o relativas a ese país europeo.",
+    "usado": false
+  },
+  {
+    "palabra": "ESPERANZAS",
+    "pista": "Apuestas del ánimo por un futuro que aún no existe pero se desea.",
+    "usado": false
+  },
+  {
+    "palabra": "EXTREMADAMENTE",
+    "pista": "Hasta el límite más alejado del centro; sin término medio.",
+    "usado": false
+  },
+  {
+    "palabra": "FAVORITOS",
+    "pista": "Los que la preferencia colectiva o personal ha elegido por encima de los demás.",
+    "usado": false
+  },
+  {
+    "palabra": "FELICIDADES",
+    "pista": "Expresión que celebra un acontecimiento positivo en la vida de otro.",
+    "usado": false
+  },
+  {
+    "palabra": "FINALIDAD",
+    "pista": "El para qué que da sentido a todo lo que precede.",
+    "usado": false
+  },
+  {
+    "palabra": "GUADALAJARA",
+    "pista": "Ciudad de gran tamaño e importancia tanto en España como en México.",
+    "usado": false
+  },
+  {
+    "palabra": "IGNORANCIA",
+    "pista": "Estado de quien no sabe y a veces tampoco sabe que no sabe.",
+    "usado": false
+  },
+  {
+    "palabra": "INCIDENTE",
+    "pista": "Acontecimiento menor que interrumpe el curso previsto de las cosas.",
+    "usado": false
+  },
+  {
+    "palabra": "INFORMADO",
+    "pista": "Quien posee datos suficientes para no actuar a ciegas.",
+    "usado": false
+  },
+  {
+    "palabra": "INSCRIPCION",
+    "pista": "Acto formal de registrar la pertenencia o participación de alguien en algo.",
+    "usado": false
+  },
+  {
+    "palabra": "INSPIRACION",
+    "pista": "Impulso que llega de fuera o de adentro y pone en movimiento la creación.",
+    "usado": false
+  },
+  {
+    "palabra": "INVITACION",
+    "pista": "Gesto que abre un espacio para que otro entre donde no estaba.",
+    "usado": false
+  },
+  {
+    "palabra": "PROPIETARIOS",
+    "pista": "Quienes tienen reconocido el derecho de poseer y disponer algo con exclusividad.",
+    "usado": false
+  },
+  {
+    "palabra": "REGULACION",
+    "pista": "Sistema de normas que fija los límites dentro de los cuales algo puede operar.",
+    "usado": false
+  },
+  {
+    "palabra": "SUSPENSION",
+    "pista": "Interrupción temporal de algo que se esperaba que continuara.",
+    "usado": false
+  },
+  {
+    "palabra": "TERRORISMO",
+    "pista": "Estrategia que usa el miedo masivo como instrumento político.",
+    "usado": false
+  },
+  {
+    "palabra": "ADOLESCENTE",
+    "pista": "Quien habita el territorio incierto entre la infancia que deja y la adultez que no llega.",
+    "usado": false
+  },
+  {
+    "palabra": "ALTAMENTE",
+    "pista": "En grado muy elevado; cerca del límite superior de una escala.",
+    "usado": false
+  },
+  {
+    "palabra": "CENTRALES",
+    "pista": "Las que ocupan el lugar de mayor relevancia en un sistema o estructura.",
+    "usado": false
+  },
+  {
+    "palabra": "COMPAÑERA",
+    "pista": "Mujer que comparte camino, actividad o propósito con otra persona.",
+    "usado": false
+  },
+  {
+    "palabra": "COMPROBAR",
+    "pista": "Verificar que la realidad coincide con lo que se afirmaba o suponía.",
+    "usado": false
+  },
+  {
+    "palabra": "CONSTRUIDO",
+    "pista": "Lo que ha pasado de ser proyecto a tener existencia material.",
+    "usado": false
+  },
+  {
+    "palabra": "COSTUMBRES",
+    "pista": "Conductas repetidas tanto tiempo que ya no requieren decisión consciente.",
+    "usado": false
+  },
+  {
+    "palabra": "DIGITALES",
+    "pista": "Pertenecientes al universo donde la realidad se codifica en ceros y unos.",
+    "usado": false
+  },
+  {
+    "palabra": "DISCIPLINA",
+    "pista": "Sometimiento voluntario a una norma que moldea la conducta hasta hacerla segunda naturaleza.",
+    "usado": false
+  },
+  {
+    "palabra": "DISCRIMINACION",
+    "pista": "Trato diferencial que convierte una característica en motivo de exclusión.",
+    "usado": false
+  },
+  {
+    "palabra": "DISCULPAS",
+    "pista": "Palabras que intentan reparar el daño que una acción causó en otro.",
+    "usado": false
+  },
+  {
+    "palabra": "ENAMORADO",
+    "pista": "Quien ha cedido parte de su autonomía interior a la presencia de otro.",
+    "usado": false
+  },
+  {
+    "palabra": "ENFRENTAR",
+    "pista": "Colocarse cara a cara con aquello que se preferiría evitar.",
+    "usado": false
+  },
+  {
+    "palabra": "ESCANDALO",
+    "pista": "Hecho que viola las expectativas morales de una comunidad y exige reacción pública.",
+    "usado": false
+  },
+  {
+    "palabra": "ESTAREMOS",
+    "pista": "Promesa colectiva de presencia en un tiempo que aún no ha llegado.",
+    "usado": false
+  },
+  {
+    "palabra": "EXPECTATIVAS",
+    "pista": "Proyecciones del deseo sobre un futuro que aún no existe.",
+    "usado": false
+  },
+  {
+    "palabra": "FACILIDAD",
+    "pista": "Ausencia de la resistencia que normalmente se interpone entre la intención y el resultado.",
+    "usado": false
+  },
+  {
+    "palabra": "FELICITACIONES",
+    "pista": "Palabras que reconocen el mérito o la alegría de otro haciéndolas propias.",
+    "usado": false
+  },
+  {
+    "palabra": "INSTANCIA",
+    "pista": "Nivel jerárquico al que se acude cuando los anteriores no han bastado.",
+    "usado": false
+  },
+  {
+    "palabra": "IZQUIERDO",
+    "pista": "El lado opuesto al que la mayoría usa de manera dominante.",
+    "usado": false
+  },
+  {
+    "palabra": "LENTAMENTE",
+    "pista": "Con un ritmo que deja tiempo para observar cada paso del camino.",
+    "usado": false
+  },
+  {
+    "palabra": "PARTICIPARON",
+    "pista": "Tomaron parte en algo cuyo resultado compartieron con otros.",
+    "usado": false
+  },
+  {
+    "palabra": "PARTICIPO",
+    "pista": "Tomó parte en algo sin ser su único protagonista.",
+    "usado": false
+  },
+  {
+    "palabra": "PERCEPCION",
+    "pista": "La realidad tal como llega filtrada por los sentidos y la mente de quien la recibe.",
+    "usado": false
+  },
+  {
+    "palabra": "PERTENECEN",
+    "pista": "Tienen vínculo de propiedad o identidad con algo que los integra.",
+    "usado": false
+  },
+  {
+    "palabra": "PRISIONEROS",
+    "pista": "Quienes han sido privados de moverse libremente por decisión de otro.",
+    "usado": false
+  },
+  {
+    "palabra": "PRIVACIDAD",
+    "pista": "El espacio interior que uno reserva para sí y que ningún extraño debería cruzar.",
+    "usado": false
+  },
+  {
+    "palabra": "PRODUCTOR",
+    "pista": "Quien organiza los recursos necesarios para que algo llegue a existir.",
+    "usado": false
+  },
+  {
+    "palabra": "REALIZADAS",
+    "pista": "Las que han cruzado el umbral entre la intención y la existencia concreta.",
+    "usado": false
+  },
+  {
+    "palabra": "RESTAURANTES",
+    "pista": "Espacios donde el sustento se convierte en experiencia social y sensorial.",
+    "usado": false
+  },
+  {
+    "palabra": "SANTANDER",
+    "pista": "Ciudad portuaria del norte de España; también apellido y banco de alcance global.",
+    "usado": false
+  },
+  {
+    "palabra": "TRADICIONES",
+    "pista": "Prácticas que el tiempo ha convertido en herencia compartida entre generaciones.",
+    "usado": false
+  },
+  {
+    "palabra": "UTILIZADA",
+    "pista": "Lo que fue empleada como instrumento para lograr un fin.",
+    "usado": false
+  },
+  {
+    "palabra": "ACTUACIONES",
+    "pista": "Intervenciones en que alguien ejecuta algo ante otros que lo observan.",
+    "usado": false
+  },
+  {
+    "palabra": "CARRETERAS",
+    "pista": "Cintas de asfalto que conectan lo que la geografía separaba.",
+    "usado": false
+  },
+  {
+    "palabra": "COMPRENSION",
+    "pista": "El estado de quien ha logrado que algo externo encaje en su estructura interna.",
+    "usado": false
+  },
+  {
+    "palabra": "CONVENCION",
+    "pista": "Acuerdo tácito o explícito que regula un comportamiento sin que nadie lo imponga.",
+    "usado": false
+  },
+  {
+    "palabra": "CONVOCATORIA",
+    "pista": "Llamamiento formal que reúne a varios hacia un mismo punto o propósito.",
+    "usado": false
+  },
+  {
+    "palabra": "DESCUBRIMIENTO",
+    "pista": "Momento en que algo que existía pero era ignorado pasa a ser conocido.",
+    "usado": false
+  },
+  {
+    "palabra": "EDICIONES",
+    "pista": "Versiones de una obra que salen al público en momentos distintos.",
+    "usado": false
+  },
+  {
+    "palabra": "ELIMINACION",
+    "pista": "Proceso de suprimir algo hasta que deja de estar presente.",
+    "usado": false
+  },
+  {
+    "palabra": "ENCUENTRAS",
+    "pista": "Das con algo o alguien que buscabas o que aparece ante ti.",
+    "usado": false
+  },
+  {
+    "palabra": "ENCUENTRE",
+    "pista": "Forma subjuntiva de hallar algo que se busca bajo ciertas condiciones.",
+    "usado": false
+  },
+  {
+    "palabra": "EXCELENCIA",
+    "pista": "El punto más alto de una escala de calidad al que pocas cosas llegan.",
+    "usado": false
+  },
+  {
+    "palabra": "FABRICACION",
+    "pista": "Proceso de transformar materias primas en objetos con una función definida.",
+    "usado": false
+  },
+  {
+    "palabra": "FEDERALES",
+    "pista": "Pertenecientes a la estructura de gobierno que agrupa territorios autónomos.",
+    "usado": false
+  },
+  {
+    "palabra": "FINANCIACION",
+    "pista": "Provisión de los recursos económicos que permiten que algo exista o funcione.",
+    "usado": false
+  },
+  {
+    "palabra": "GANADORES",
+    "pista": "Quienes han salido del lado victorioso de una competición o disputa.",
+    "usado": false
+  },
+  {
+    "palabra": "INGENIEROS",
+    "pista": "Quienes aplican el conocimiento científico para resolver problemas del mundo material.",
+    "usado": false
+  },
+  {
+    "palabra": "INTENSIDAD",
+    "pista": "El grado de fuerza o concentración con que algo se manifiesta.",
+    "usado": false
+  },
+  {
+    "palabra": "LEGISLATIVO",
+    "pista": "Relativo al poder que elabora las normas por las que se rige una comunidad.",
+    "usado": false
+  },
+  {
+    "palabra": "OBLIGACIONES",
+    "pista": "Vínculos que atan la voluntad y exigen conductas sin importar el deseo.",
+    "usado": false
+  },
+  {
+    "palabra": "PENSIONES",
+    "pista": "Rentas periódicas recibidas tras cesar la actividad laboral o por incapacidad.",
+    "usado": false
+  },
+  {
+    "palabra": "PLANIFICACION",
+    "pista": "Trazado anticipado del camino para que el futuro no llegue como sorpresa.",
+    "usado": false
+  },
+  {
+    "palabra": "PSICOLOGIA",
+    "pista": "Disciplina que estudia los procesos que ocurren en la mente y el comportamiento.",
+    "usado": false
+  },
+  {
+    "palabra": "SOCIALISMO",
+    "pista": "Corriente que propone organizar la sociedad priorizando el bien colectivo sobre el individual.",
+    "usado": false
+  },
+  {
+    "palabra": "TELEFONOS",
+    "pista": "Dispositivos que permiten que la voz viaje sin que el cuerpo lo haga.",
+    "usado": false
+  },
+  {
+    "palabra": "TRABAJABA",
+    "pista": "Realizaba una actividad laboral de manera continuada en el pasado.",
+    "usado": false
+  },
+  {
+    "palabra": "ASESINATOS",
+    "pista": "Actos premeditados de privar a alguien de la vida.",
+    "usado": false
+  },
+  {
+    "palabra": "CERTIFICADO",
+    "pista": "Documento que acredita oficialmente que algo es lo que dice ser.",
+    "usado": false
+  },
+  {
+    "palabra": "CONSIDERADA",
+    "pista": "Que ha sido tenida en cuenta o valorada con atención.",
+    "usado": false
+  },
+  {
+    "palabra": "CONSUMIDORES",
+    "pista": "Quienes constituyen el extremo final de la cadena que produce bienes.",
+    "usado": false
+  },
+  {
+    "palabra": "CREENCIAS",
+    "pista": "Ideas que se sostienen como verdaderas sin requerir demostración.",
+    "usado": false
+  },
+  {
+    "palabra": "DELINCUENTES",
+    "pista": "Quienes han cruzado la frontera que la ley traza entre lo permitido y lo castigable.",
+    "usado": false
+  },
+  {
+    "palabra": "DEPENDENCIA",
+    "pista": "Estado de quien necesita de otro para funcionar o subsistir.",
+    "usado": false
+  },
+  {
+    "palabra": "DESCUBRIO",
+    "pista": "Hizo visible lo que existía pero permanecía oculto.",
+    "usado": false
+  },
+  {
+    "palabra": "DESTINADO",
+    "pista": "Lo que ha sido orientado hacia un fin o lugar específico de antemano.",
+    "usado": false
+  },
+  {
+    "palabra": "EMBARAZADA",
+    "pista": "Mujer que lleva en su interior un nuevo ser en proceso de formación.",
+    "usado": false
+  },
+  {
+    "palabra": "GARANTIAS",
+    "pista": "Compromisos que aseguran que algo no quedará sin respaldo si falla.",
+    "usado": false
+  },
+  {
+    "palabra": "INNOVACION",
+    "pista": "Introducción de algo nuevo que altera el orden establecido de las cosas.",
+    "usado": false
+  },
+  {
+    "palabra": "INTENTADO",
+    "pista": "Lo que fue perseguido con esfuerzo sin que el resultado esté garantizado.",
+    "usado": false
+  },
+  {
+    "palabra": "MEDICAMENTOS",
+    "pista": "Sustancias elaboradas para intervenir en los procesos que alteran la salud.",
+    "usado": false
+  },
+  {
+    "palabra": "MONUMENTO",
+    "pista": "Construcción erigida para que la memoria no se pierda con el tiempo.",
+    "usado": false
+  },
+  {
+    "palabra": "OBSERVACION",
+    "pista": "Acto de prestar atención sostenida a algo para conocerlo sin alterarlo.",
+    "usado": false
+  },
+  {
+    "palabra": "OLIMPICOS",
+    "pista": "Pertenecientes a la competición que cada cuatro años reúne a las naciones del mundo.",
+    "usado": false
+  },
+  {
+    "palabra": "PERDIERON",
+    "pista": "Dejaron de tener algo que antes poseían.",
+    "usado": false
+  },
+  {
+    "palabra": "PORTUGUES",
+    "pista": "Lengua románica nacida en la península ibérica que hoy hablan millones en varios continentes.",
+    "usado": false
+  },
+  {
+    "palabra": "PROTOCOLO",
+    "pista": "Secuencia fija de pasos que garantiza que las situaciones formales transcurran sin improvisación.",
+    "usado": false
+  },
+  {
+    "palabra": "RESIDENTES",
+    "pista": "Quienes han fijado su presencia habitual en un lugar determinado.",
+    "usado": false
+  },
+  {
+    "palabra": "RESPONSABILIDADES",
+    "pista": "Las cargas que uno asume y de cuyas consecuencias no puede escapar.",
+    "usado": false
+  },
+  {
+    "palabra": "SEMEJANTE",
+    "pista": "Lo que comparte suficientes rasgos con otro como para ser confundido con él.",
+    "usado": false
+  },
+  {
+    "palabra": "SOLICITAR",
+    "pista": "Pedir formalmente algo a quien tiene capacidad de concederlo.",
+    "usado": false
+  },
+  {
+    "palabra": "SOLUCIONAR",
+    "pista": "Encontrar la respuesta que deshace el nudo que un problema representa.",
+    "usado": false
+  },
+  {
+    "palabra": "TRAYECTORIA",
+    "pista": "El arco que describe algo en su recorrido; también la historia de un camino recorrido.",
+    "usado": false
+  },
+  {
+    "palabra": "UTILIZACION",
+    "pista": "Proceso de servirse de algo como medio para alcanzar un fin.",
+    "usado": false
+  },
+  {
+    "palabra": "VOLVIERON",
+    "pista": "Regresaron al punto de origen después de haberse alejado.",
+    "usado": false
+  },
+  {
+    "palabra": "ADICIONALES",
+    "pista": "Los que se suman a lo ya existente sin formar parte del núcleo original.",
+    "usado": false
+  },
+  {
+    "palabra": "AGRADEZCO",
+    "pista": "Reconozco el valor de algo que otro hizo por mí y lo expreso.",
+    "usado": false
+  },
+  {
+    "palabra": "AMPLIAMENTE",
+    "pista": "Con una extensión que supera lo estrictamente necesario.",
+    "usado": false
+  },
+  {
+    "palabra": "CAPACITACION",
+    "pista": "Proceso de dotar a alguien de las herramientas que necesita para desempeñar algo.",
+    "usado": false
+  },
+  {
+    "palabra": "COMPLETAR",
+    "pista": "Añadir lo que falta para que algo llegue a su forma íntegra.",
+    "usado": false
+  },
+  {
+    "palabra": "CONCLUSIONES",
+    "pista": "Los puntos donde el pensamiento se detiene y emite sus veredictos.",
+    "usado": false
+  },
+  {
+    "palabra": "CONTRIBUIR",
+    "pista": "Aportar algo propio al esfuerzo colectivo sin pretender ser su único motor.",
+    "usado": false
+  },
+  {
+    "palabra": "CORRESPONDIENTES",
+    "pista": "Los que pertenecen por derecho o lógica a cada parte.",
+    "usado": false
+  },
+  {
+    "palabra": "DENUNCIAS",
+    "pista": "Declaraciones formales que señalan una irregularidad ante quien tiene poder para actuar.",
+    "usado": false
+  },
+  {
+    "palabra": "DESEMPEÑO",
+    "pista": "Modo en que alguien o algo ejecuta la función para la que fue designado.",
+    "usado": false
+  },
+  {
+    "palabra": "DIMENSIONES",
+    "pista": "Las medidas que definen cuánto espacio ocupa algo en distintas direcciones.",
+    "usado": false
+  },
+  {
+    "palabra": "DISPUESTOS",
+    "pista": "En posición de actuar; con la voluntad orientada hacia algo.",
+    "usado": false
+  },
+  {
+    "palabra": "ENCONTRARSE",
+    "pista": "Estar en un lugar o estado; también coincidir con alguien.",
+    "usado": false
+  },
+  {
+    "palabra": "ESTADISTICA",
+    "pista": "Ciencia que extrae patrones del desorden de los datos.",
+    "usado": false
+  },
+  {
+    "palabra": "FUNCIONAN",
+    "pista": "Operan según la lógica para la que fueron concebidos.",
+    "usado": false
+  },
+  {
+    "palabra": "INDUSTRIALES",
+    "pista": "Relativos a la producción a gran escala mediante procesos mecanizados.",
+    "usado": false
+  },
+  {
+    "palabra": "INDUSTRIAS",
+    "pista": "Sectores que transforman materias primas en productos mediante procesos organizados.",
+    "usado": false
+  },
+  {
+    "palabra": "INTELECTUALES",
+    "pista": "Quienes hacen del pensamiento y la reflexión su actividad principal.",
+    "usado": false
+  },
+  {
+    "palabra": "INTERNATIONAL",
+    "pista": "Que trasciende las fronteras de una sola nación.",
+    "usado": false
+  },
+  {
+    "palabra": "MANIFIESTO",
+    "pista": "Declaración pública de principios o intenciones dirigida a quien quiera escuchar.",
+    "usado": false
+  },
+  {
+    "palabra": "PANTALONES",
+    "pista": "Prenda que cubre cada pierna por separado desde la cintura.",
+    "usado": false
+  },
+  {
+    "palabra": "PREGUNTAN",
+    "pista": "Formulan cuestiones a otro esperando una respuesta que no poseen.",
+    "usado": false
+  },
+  {
+    "palabra": "RAZONABLE",
+    "pista": "Lo que no exige más de lo que la situación justifica.",
+    "usado": false
+  },
+  {
+    "palabra": "REFERENTE",
+    "pista": "Aquello que sirve de punto de orientación o modelo para lo demás.",
+    "usado": false
+  },
+  {
+    "palabra": "SACRIFICIO",
+    "pista": "Renuncia a algo valioso en beneficio de algo que se considera más importante.",
+    "usado": false
+  },
+  {
+    "palabra": "TERRORISTA",
+    "pista": "Quien emplea el miedo masivo como herramienta para alcanzar fines políticos.",
+    "usado": false
+  },
+  {
+    "palabra": "TRANQUILIDAD",
+    "pista": "Estado en que la mente no encuentra razón para agitarse.",
+    "usado": false
+  },
+  {
+    "palabra": "TRANSFERENCIA",
+    "pista": "Desplazamiento de algo de un titular o lugar a otro.",
+    "usado": false
+  },
+  {
+    "palabra": "VIDEOJUEGOS",
+    "pista": "Simulaciones interactivas en que el jugador habita mundos que no existen fuera de la pantalla.",
+    "usado": false
+  },
+  {
+    "palabra": "ABANDONADO",
+    "pista": "Lo que fue dejado atrás por quien ya no quiso o pudo sostenerlo.",
+    "usado": false
+  },
+  {
+    "palabra": "ACTITUDES",
+    "pista": "Disposiciones estables de la mente que colorean cómo alguien se enfrenta al mundo.",
+    "usado": false
+  },
+  {
+    "palabra": "ATMOSFERA",
+    "pista": "Capa de gases que envuelve un cuerpo celeste; también el clima invisible de un lugar.",
+    "usado": false
+  },
+  {
+    "palabra": "BIENVENIDOS",
+    "pista": "Declarados dignos de cruzar el umbral y ocupar el espacio de quien los recibe.",
+    "usado": false
+  },
+  {
+    "palabra": "BRASILEÑO",
+    "pista": "Natural del país más extenso de América del Sur.",
+    "usado": false
+  },
+  {
+    "palabra": "CAPITULOS",
+    "pista": "Divisiones internas de una obra que le dan ritmo y estructura.",
+    "usado": false
+  },
+  {
+    "palabra": "COMISIONES",
+    "pista": "Grupos designados para una tarea concreta; también porcentajes sobre transacciones.",
+    "usado": false
+  },
+  {
+    "palabra": "CONCIERTOS",
+    "pista": "Eventos en que músicos ejecutan en vivo ante quienes han ido a escucharlos.",
+    "usado": false
+  },
+  {
+    "palabra": "CONFUSION",
+    "pista": "Estado en que los elementos se mezclan hasta hacer imposible distinguirlos.",
+    "usado": false
+  },
+  {
+    "palabra": "DECIDIERON",
+    "pista": "Tomaron una determinación entre varias posibles en el pasado.",
+    "usado": false
+  },
+  {
+    "palabra": "DETENIDOS",
+    "pista": "Quienes han sido privados de libertad de movimiento por decisión de una autoridad.",
+    "usado": false
+  },
+  {
+    "palabra": "DICCIONARIO",
+    "pista": "Inventario de las palabras de una lengua ordenado para que la búsqueda sea posible.",
+    "usado": false
+  },
+  {
+    "palabra": "DISPOSITIVO",
+    "pista": "Artefacto diseñado para ejecutar una función específica.",
+    "usado": false
+  },
+  {
+    "palabra": "ENCUESTAS",
+    "pista": "Instrumentos que intentan capturar la opinión colectiva preguntando a una muestra.",
+    "usado": false
+  },
+  {
+    "palabra": "FRECUENTES",
+    "pista": "Los que se repiten con una regularidad que los hace predecibles.",
+    "usado": false
+  },
+  {
+    "palabra": "INICIATIVAS",
+    "pista": "Impulsos que ponen en marcha algo que sin ellos no habría comenzado.",
+    "usado": false
+  },
+  {
+    "palabra": "INMIGRACION",
+    "pista": "Movimiento de personas que cruzan fronteras para establecerse en otro territorio.",
+    "usado": false
+  },
+  {
+    "palabra": "INTELIGENTES",
+    "pista": "Los que procesan la realidad con mayor eficacia que el promedio.",
+    "usado": false
+  },
+  {
+    "palabra": "MADRUGADA",
+    "pista": "El tramo del tiempo nocturno en que la mayoría duerme y pocos velan.",
+    "usado": false
+  },
+  {
+    "palabra": "PERSECUCION",
+    "pista": "Acción sostenida de ir tras algo o alguien con intención de alcanzarlo.",
+    "usado": false
+  },
+  {
+    "palabra": "PLATAFORMAS",
+    "pista": "Estructuras que elevan algo o sirven de base para que otros operen sobre ellas.",
+    "usado": false
+  },
+  {
+    "palabra": "POPULARIDAD",
+    "pista": "Grado en que algo o alguien ha conseguido el favor de muchos.",
+    "usado": false
+  },
+  {
+    "palabra": "PROPUESTO",
+    "pista": "Lo que fue ofrecido como plan o candidatura para ser considerado.",
+    "usado": false
+  },
+  {
+    "palabra": "RECIBIERON",
+    "pista": "Aceptaron o tomaron algo que les fue entregado.",
+    "usado": false
+  },
+  {
+    "palabra": "REGISTRADO",
+    "pista": "Lo que ha quedado consignado en un soporte para que no se pierda.",
+    "usado": false
+  },
+  {
+    "palabra": "REPUTACION",
+    "pista": "La imagen que otros se han formado de alguien tras observarlo en el tiempo.",
+    "usado": false
+  },
+  {
+    "palabra": "SINCERAMENTE",
+    "pista": "Sin distancia entre lo que se piensa y lo que se dice.",
+    "usado": false
+  },
+  {
+    "palabra": "SINDICATOS",
+    "pista": "Organizaciones que agrupan trabajadores para defender sus intereses colectivos.",
+    "usado": false
+  },
+  {
+    "palabra": "UNIVERSITARIOS",
+    "pista": "Pertenecientes al nivel más elevado del sistema formal de conocimiento.",
+    "usado": false
+  },
+  {
+    "palabra": "ASISTENTE",
+    "pista": "Quien presta apoyo a otro facilitando que su función sea posible.",
+    "usado": false
+  },
+  {
+    "palabra": "COLECTIVOS",
+    "pista": "Pertenecientes al grupo como unidad; también vehículos de transporte compartido.",
+    "usado": false
+  },
+  {
+    "palabra": "CONFIRMAR",
+    "pista": "Verificar que algo es tal como se suponía o se había dicho.",
+    "usado": false
+  },
+  {
+    "palabra": "CONTAMINACION",
+    "pista": "Introducción de elementos ajenos que degradan la pureza de un medio.",
+    "usado": false
+  },
+  {
+    "palabra": "DESCANSAR",
+    "pista": "Suspender la actividad para que el organismo o la mente recuperen sus fuerzas.",
+    "usado": false
+  },
+  {
+    "palabra": "DESCARGAR",
+    "pista": "Transferir contenido desde un origen a un destino; también aliviar un peso.",
+    "usado": false
+  },
+  {
+    "palabra": "DIAGNOSTICO",
+    "pista": "Identificación de la naturaleza de un problema tras examinar sus síntomas.",
+    "usado": false
+  },
+  {
+    "palabra": "DIRECTORES",
+    "pista": "Quienes orientan el rumbo de una organización o creación colectiva.",
+    "usado": false
+  },
+  {
+    "palabra": "ESTUDIANDO",
+    "pista": "En proceso de aplicar la atención para adquirir conocimiento.",
+    "usado": false
+  },
+  {
+    "palabra": "EXPLICACIONES",
+    "pista": "Despliegues del razonamiento que hacen comprensible lo que antes era oscuro.",
+    "usado": false
+  },
+  {
+    "palabra": "GRABACION",
+    "pista": "Fijación de sonido o imagen en un soporte para que pueda reproducirse.",
+    "usado": false
+  },
+  {
+    "palabra": "OPERATIVO",
+    "pista": "En condiciones de funcionar; también acción planificada con un objetivo concreto.",
+    "usado": false
+  },
+  {
+    "palabra": "ORGANIZADA",
+    "pista": "Dispuesta de manera que sus partes cooperan hacia un fin sin interferirse.",
+    "usado": false
+  },
+  {
+    "palabra": "PENDIENTES",
+    "pista": "Los que aún no han sido resueltos y aguardan el momento de su cierre.",
+    "usado": false
+  },
+  {
+    "palabra": "PENINSULA",
+    "pista": "Extensión de tierra rodeada de agua por casi todos sus lados.",
+    "usado": false
+  },
+  {
+    "palabra": "POSTERIORES",
+    "pista": "Los que vienen después en el tiempo o en el orden.",
+    "usado": false
+  },
+  {
+    "palabra": "PRACTICAR",
+    "pista": "Repetir algo hasta que la habilidad se instala en el cuerpo o la mente.",
+    "usado": false
+  },
+  {
+    "palabra": "PREOCUPES",
+    "pista": "Forma que invita a no anticipar el daño antes de que llegue.",
+    "usado": false
+  },
+  {
+    "palabra": "PROPORCIONA",
+    "pista": "Suministra algo a quien lo necesita en la cantidad adecuada.",
+    "usado": false
+  },
+  {
+    "palabra": "PROPORCIONAR",
+    "pista": "Entregar algo en la medida y forma que la situación requiere.",
+    "usado": false
+  },
+  {
+    "palabra": "REACCIONES",
+    "pista": "Respuestas que algo provoca en quien lo recibe o lo observa.",
+    "usado": false
+  },
+  {
+    "palabra": "RECOMENDACIONES",
+    "pista": "Señalamientos hacia algo que quien recomienda ya ha valorado positivamente.",
+    "usado": false
+  },
+  {
+    "palabra": "RELEVANTE",
+    "pista": "Lo que tiene peso suficiente para no poder ser ignorado.",
+    "usado": false
+  },
+  {
+    "palabra": "SENADORES",
+    "pista": "Miembros de la cámara alta en sistemas legislativos bicamerales.",
+    "usado": false
+  },
+  {
+    "palabra": "COLOMBIANA",
+    "pista": "Natural o relativa al país sudamericano bañado por el Pacífico y el Caribe.",
+    "usado": false
+  },
+  {
+    "palabra": "CONFIRMADO",
+    "pista": "Lo que ha pasado del estado de suposición al de certeza verificada.",
+    "usado": false
+  },
+  {
+    "palabra": "CONSENTIMIENTO",
+    "pista": "Aceptación libre y consciente de algo por parte de quien puede otorgarla.",
+    "usado": false
+  },
+  {
+    "palabra": "CONVENIENTE",
+    "pista": "Lo que se ajusta bien a los intereses o necesidades de una situación.",
+    "usado": false
+  },
+  {
+    "palabra": "CORPORACION",
+    "pista": "Entidad organizada con personalidad jurídica propia que opera en el mercado.",
+    "usado": false
+  },
+  {
+    "palabra": "DESCUENTO",
+    "pista": "Reducción sobre el precio habitual concedida bajo ciertas condiciones.",
+    "usado": false
+  },
+  {
+    "palabra": "DESEMPLEO",
+    "pista": "Estado de quien busca trabajo sin encontrarlo; también la tasa que lo mide.",
+    "usado": false
+  },
+  {
+    "palabra": "DIRECCIONES",
+    "pista": "Rumbo hacia el que algo se orienta; también datos que localizan lugares.",
+    "usado": false
+  },
+  {
+    "palabra": "DISPOSITIVOS",
+    "pista": "Artefactos diseñados para ejecutar funciones específicas.",
+    "usado": false
+  },
+  {
+    "palabra": "EDUCATIVA",
+    "pista": "Relativa al proceso de formación que amplía las capacidades de una mente.",
+    "usado": false
+  },
+  {
+    "palabra": "EMOCIONAL",
+    "pista": "Perteneciente a los estados afectivos que colorean la experiencia interior.",
+    "usado": false
+  },
+  {
+    "palabra": "EXISTENTE",
+    "pista": "Lo que tiene realidad efectiva en el momento presente.",
+    "usado": false
+  },
+  {
+    "palabra": "FRECUENTE",
+    "pista": "Lo que se repite con una regularidad que lo hace predecible.",
+    "usado": false
+  },
+  {
+    "palabra": "FRECUENTEMENTE",
+    "pista": "Con una repetición que supera lo ocasional.",
+    "usado": false
+  },
+  {
+    "palabra": "INFORMATICA",
+    "pista": "Disciplina que estudia el tratamiento automático de la información.",
+    "usado": false
+  },
+  {
+    "palabra": "INVESTIGADOR",
+    "pista": "Quien avanza sistemáticamente hacia lo que aún no se sabe.",
+    "usado": false
+  },
+  {
+    "palabra": "MARGARITA",
+    "pista": "Nombre propio femenino; también flor de pétalos blancos y centro amarillo.",
+    "usado": false
+  },
+  {
+    "palabra": "MONTERREY",
+    "pista": "Gran ciudad industrial del norte de México.",
+    "usado": false
+  },
+  {
+    "palabra": "MOSTRANDO",
+    "pista": "En proceso de hacer visible algo ante otros.",
+    "usado": false
+  },
+  {
+    "palabra": "MUSICALES",
+    "pista": "Relativos al arte que organiza sonidos en el tiempo para producir una experiencia.",
+    "usado": false
+  },
+  {
+    "palabra": "NEGOCIACION",
+    "pista": "Proceso en que partes con intereses distintos buscan un punto que todas acepten.",
+    "usado": false
+  },
+  {
+    "palabra": "PRESENTARSE",
+    "pista": "Hacerse visible ante otros o acudir a un lugar donde se espera.",
+    "usado": false
+  },
+  {
+    "palabra": "SANCIONES",
+    "pista": "Consecuencias impuestas por quien tiene autoridad a quien incumplió una norma.",
+    "usado": false
+  },
+  {
+    "palabra": "SATISFACCION",
+    "pista": "Estado en que lo obtenido coincide o supera lo que se esperaba.",
+    "usado": false
+  },
+  {
+    "palabra": "SORPRENDENTE",
+    "pista": "Lo que irrumpe rompiendo lo que se anticipaba.",
+    "usado": false
+  },
+  {
+    "palabra": "SOVIETICA",
+    "pista": "Relativa al sistema político que gobernó la mayor extensión territorial del siglo XX.",
+    "usado": false
+  },
+  {
+    "palabra": "ACEPTACION",
+    "pista": "Estado en que algo externo es admitido sin resistencia.",
+    "usado": false
+  },
+  {
+    "palabra": "ALCANZADO",
+    "pista": "Lo que fue logrado tras el esfuerzo necesario para llegar hasta ello.",
+    "usado": false
+  },
+  {
+    "palabra": "ATRACTIVO",
+    "pista": "Lo que ejerce una fuerza que acerca a quien lo percibe.",
+    "usado": false
+  },
+  {
+    "palabra": "CAMPESINOS",
+    "pista": "Quienes viven y trabajan la tierra como sustento y modo de existencia.",
+    "usado": false
+  },
+  {
+    "palabra": "CAPITALISMO",
+    "pista": "Sistema en que los medios de producción son propiedad privada y el mercado regula el intercambio.",
+    "usado": false
+  },
+  {
+    "palabra": "COMUNISTAS",
+    "pista": "Quienes propugnan la abolición de la propiedad privada y la gestión colectiva.",
+    "usado": false
+  },
+  {
+    "palabra": "DIRECTIVA",
+    "pista": "Conjunto de normas que orientan la acción; también órgano de dirección.",
+    "usado": false
+  },
+  {
+    "palabra": "DISCURSOS",
+    "pista": "Exposiciones ante un público en que alguien defiende una posición o celebra algo.",
+    "usado": false
+  },
+  {
+    "palabra": "ELECTRICO",
+    "pista": "Relativo a la fuerza invisible que fluye entre cargas y mueve el mundo moderno.",
+    "usado": false
+  },
+  {
+    "palabra": "ENCANTARIA",
+    "pista": "Produciría un placer tan intenso que supera el simple agrado.",
+    "usado": false
+  },
+  {
+    "palabra": "ENCUENTROS",
+    "pista": "Momentos en que varios confluyen en un punto; también competiciones.",
+    "usado": false
+  },
+  {
+    "palabra": "ESPEREMOS",
+    "pista": "Forma que invita a mantener la confianza en algo que aún no ha ocurrido.",
+    "usado": false
+  },
+  {
+    "palabra": "HECTAREAS",
+    "pista": "Unidades de superficie que miden el campo cuando ya no basta con metros.",
+    "usado": false
+  },
+  {
+    "palabra": "JUDICIALES",
+    "pista": "Pertenecientes al poder que decide si la ley fue cumplida o violada.",
+    "usado": false
+  },
+  {
+    "palabra": "MARAVILLOSA",
+    "pista": "La que produce asombro genuino; ante la que la mente se detiene sin palabras.",
+    "usado": false
+  },
+  {
+    "palabra": "MARKETING",
+    "pista": "Arte de hacer que los deseos ajenos converjan con lo que uno tiene para ofrecer.",
+    "usado": false
+  },
+  {
+    "palabra": "MUNDIALES",
+    "pista": "Los que trascienden las fronteras de una sola nación y abarcan todo el planeta.",
+    "usado": false
+  },
+  {
+    "palabra": "PREOCUPADO",
+    "pista": "Quien anticipa mentalmente el daño antes de que este llegue.",
+    "usado": false
+  },
+  {
+    "palabra": "PREPARANDO",
+    "pista": "En proceso de disponer todo para que el momento decisivo no llegue como sorpresa.",
+    "usado": false
+  },
+  {
+    "palabra": "REALIZARON",
+    "pista": "Llevaron algo desde la intención hasta su existencia concreta.",
+    "usado": false
+  },
+  {
+    "palabra": "RELACIONADA",
+    "pista": "Que guarda un vínculo con otra cosa que la hace comprensible en conjunto.",
+    "usado": false
+  },
+  {
+    "palabra": "RENOVACION",
+    "pista": "Sustitución de lo desgastado por algo que restaura el estado original o superior.",
+    "usado": false
+  },
+  {
+    "palabra": "TERREMOTO",
+    "pista": "Liberación brusca de energía acumulada en las capas profundas de la Tierra.",
+    "usado": false
+  },
+  {
+    "palabra": "ARTISTICA",
+    "pista": "Relativa a la expresión humana que busca la belleza o la emoción como fin.",
+    "usado": false
+  },
+  {
+    "palabra": "CELULARES",
+    "pista": "Dispositivos portátiles que permiten la comunicación sin ataduras físicas.",
+    "usado": false
+  },
+  {
+    "palabra": "CEMENTERIO",
+    "pista": "Lugar destinado a guardar los restos de quienes ya no están entre los vivos.",
+    "usado": false
+  },
+  {
+    "palabra": "COLOMBIANOS",
+    "pista": "Naturales del país sudamericano bañado por el Pacífico y el Caribe.",
+    "usado": false
+  },
+  {
+    "palabra": "COMENZADO",
+    "pista": "Lo que ha dado sus primeros pasos sin haber llegado aún a su fin.",
+    "usado": false
+  },
+  {
+    "palabra": "CONSUMIDOR",
+    "pista": "Quien se sitúa al final de la cadena que produce bienes.",
+    "usado": false
+  },
+  {
+    "palabra": "CONTINENTAL",
+    "pista": "Perteneciente a una gran extensión de tierra que agrupa naciones.",
+    "usado": false
+  },
+  {
+    "palabra": "CONVENCIDO",
+    "pista": "Quien ha sido llevado a aceptar algo como verdadero por la fuerza de los argumentos.",
+    "usado": false
+  },
+  {
+    "palabra": "CORRUPTOS",
+    "pista": "Quienes han torcido su función para obtener un beneficio que no les correspondía.",
+    "usado": false
+  },
+  {
+    "palabra": "DEBILIDAD",
+    "pista": "El punto donde la resistencia cede antes que en cualquier otro.",
+    "usado": false
+  },
+  {
+    "palabra": "DENUNCIAR",
+    "pista": "Señalar públicamente ante quien tiene poder una irregularidad que no puede callarse.",
+    "usado": false
+  },
+  {
+    "palabra": "DESAPARECIDOS",
+    "pista": "Quienes dejaron de estar presentes sin que nadie pueda señalar exactamente cuándo ni dónde.",
+    "usado": false
+  },
+  {
+    "palabra": "DETENCION",
+    "pista": "Acto por el que alguien es privado de su libertad de movimiento.",
+    "usado": false
+  },
+  {
+    "palabra": "DURMIENDO",
+    "pista": "En el estado en que la conciencia se retira y el cuerpo se repara.",
+    "usado": false
+  },
+  {
+    "palabra": "EFICIENTE",
+    "pista": "Lo que logra el resultado con el menor gasto posible de recursos.",
+    "usado": false
+  },
+  {
+    "palabra": "ENTUSIASMO",
+    "pista": "Energía interior que se desborda hacia algo con una intensidad que arrastra.",
+    "usado": false
+  },
+  {
+    "palabra": "EXPRESIONES",
+    "pista": "Manifestaciones externas de lo que ocurre en el interior.",
+    "usado": false
+  },
+  {
+    "palabra": "EXTRANJERAS",
+    "pista": "Las que provienen de otro territorio y no pertenecen al que las recibe.",
+    "usado": false
+  },
+  {
+    "palabra": "FILIPINAS",
+    "pista": "Archipiélago del Pacífico asiático formado por miles de islas.",
+    "usado": false
+  },
+  {
+    "palabra": "FUERTEMENTE",
+    "pista": "Con una intensidad que supera la media y deja huella.",
+    "usado": false
+  },
+  {
+    "palabra": "GEOGRAFIA",
+    "pista": "Ciencia que estudia la superficie terrestre y la relación entre sus elementos.",
+    "usado": false
+  },
+  {
+    "palabra": "HISTORIAL",
+    "pista": "Registro ordenado de lo que algo o alguien ha sido a lo largo del tiempo.",
+    "usado": false
+  },
+  {
+    "palabra": "JUSTAMENTE",
+    "pista": "De modo que coincide exactamente con lo que la justicia o la exactitud requieren.",
+    "usado": false
+  },
+  {
+    "palabra": "MANTENERSE",
+    "pista": "Conservarse en el mismo estado resistiendo las fuerzas que empujan al cambio.",
+    "usado": false
+  },
+  {
+    "palabra": "MILITANTES",
+    "pista": "Quienes se han comprometido activamente con una causa o partido.",
+    "usado": false
+  },
+  {
+    "palabra": "MINERALES",
+    "pista": "Sustancias inorgánicas de la corteza terrestre con composición química definida.",
+    "usado": false
+  },
+  {
+    "palabra": "MUNICIPALIDAD",
+    "pista": "Institución que ejerce el gobierno local de un territorio.",
+    "usado": false
+  },
+  {
+    "palabra": "PARTICIPAN",
+    "pista": "Toman parte activa en algo sin ser sus únicos protagonistas.",
+    "usado": false
+  },
+  {
+    "palabra": "PASAPORTE",
+    "pista": "Documento que acredita la identidad de alguien ante los Estados que no son el suyo.",
+    "usado": false
+  },
+  {
+    "palabra": "PROVEEDORES",
+    "pista": "Quienes suministran a otros los recursos que necesitan para funcionar.",
+    "usado": false
+  },
+  {
+    "palabra": "REALIZANDO",
+    "pista": "En proceso de llevar algo desde la intención hacia su existencia concreta.",
+    "usado": false
+  },
+  {
+    "palabra": "RECIBIENDO",
+    "pista": "En proceso de aceptar algo que otro entrega.",
+    "usado": false
+  },
+  {
+    "palabra": "SALUDABLE",
+    "pista": "Lo que contribuye al equilibrio del organismo sin deteriorarlo.",
+    "usado": false
+  },
+  {
+    "palabra": "ADAPTACION",
+    "pista": "Proceso de ajustar algo para que funcione en condiciones distintas a las originales.",
+    "usado": false
+  },
+  {
+    "palabra": "CELEBRADO",
+    "pista": "Lo que fue objeto de una manifestación de alegría colectiva.",
+    "usado": false
+  },
+  {
+    "palabra": "COMIENZAN",
+    "pista": "Dan el primer paso hacia algo que aún no tenía historia.",
+    "usado": false
+  },
+  {
+    "palabra": "CONSERVADOR",
+    "pista": "Quien prefiere preservar lo establecido frente a los riesgos del cambio.",
+    "usado": false
+  },
+  {
+    "palabra": "CONSIDERO",
+    "pista": "Tuvo algo en cuenta al valorar o decidir.",
+    "usado": false
+  },
+  {
+    "palabra": "CONTRATAR",
+    "pista": "Formalizar un acuerdo por el que alguien se compromete a prestar un servicio.",
+    "usado": false
+  },
+  {
+    "palabra": "CORRESPONDEN",
+    "pista": "Pertenecen por lógica o derecho a cada parte.",
+    "usado": false
+  },
+  {
+    "palabra": "EMPRESARIAL",
+    "pista": "Relativo a la organización que persigue objetivos económicos en el mercado.",
+    "usado": false
+  },
+  {
+    "palabra": "ENTRETENIMIENTO",
+    "pista": "Actividad que ocupa el tiempo libre con placer sin exigir esfuerzo.",
+    "usado": false
+  },
+  {
+    "palabra": "ESPECIFICOS",
+    "pista": "Los que pertenecen solo a ese caso y no se extienden al resto.",
+    "usado": false
+  },
+  {
+    "palabra": "FINANCIAMIENTO",
+    "pista": "Provisión de recursos económicos que permite que algo exista o funcione.",
+    "usado": false
+  },
+  {
+    "palabra": "GUTIERREZ",
+    "pista": "Apellido de raíz patronímica muy extendido en el mundo hispanohablante.",
+    "usado": false
+  },
+  {
+    "palabra": "INAUGURACION",
+    "pista": "Acto que abre oficialmente algo al uso público o a la experiencia de los demás.",
+    "usado": false
+  },
+  {
+    "palabra": "INCLUSION",
+    "pista": "Acto de admitir a alguien dentro de un espacio que podría haberlo excluido.",
+    "usado": false
+  },
+  {
+    "palabra": "INEVITABLE",
+    "pista": "Lo que ninguna fuerza puede impedir que ocurra.",
+    "usado": false
+  },
+  {
+    "palabra": "INSEGURIDAD",
+    "pista": "Estado en que la amenaza es percibida como más probable que la protección.",
+    "usado": false
+  },
+  {
+    "palabra": "JUSTIFICAR",
+    "pista": "Dar razones que hagan aceptable algo ante quien podría cuestionarlo.",
+    "usado": false
+  },
+  {
+    "palabra": "LEGALMENTE",
+    "pista": "Dentro del marco que la ley traza como límite de lo permitido.",
+    "usado": false
+  },
+  {
+    "palabra": "MANTENIDO",
+    "pista": "Lo que ha sido conservado en su estado sin ceder al deterioro.",
+    "usado": false
+  },
+  {
+    "palabra": "MARAVILLA",
+    "pista": "Lo que provoca asombro genuino ante la que la mente se detiene sin palabras.",
+    "usado": false
+  },
+  {
+    "palabra": "MARIHUANA",
+    "pista": "Planta cuyas flores contienen sustancias que alteran la percepción.",
+    "usado": false
+  },
+  {
+    "palabra": "NATURALMENTE",
+    "pista": "Sin artificio ni esfuerzo; como si fuera la única manera posible.",
+    "usado": false
+  },
+  {
+    "palabra": "PERMANECE",
+    "pista": "Sigue en el mismo lugar o estado a pesar del tiempo que pasa.",
+    "usado": false
+  },
+  {
+    "palabra": "POSITIVOS",
+    "pista": "Los que contribuyen al resultado o estado que se considera deseable.",
+    "usado": false
+  },
+  {
+    "palabra": "PRESENTARON",
+    "pista": "Pusieron algo ante otros para que pudiera ser conocido o valorado.",
+    "usado": false
+  },
+  {
+    "palabra": "REQUIEREN",
+    "pista": "Necesitan algo de manera imprescindible para funcionar.",
+    "usado": false
+  },
+  {
+    "palabra": "SABIDURIA",
+    "pista": "Conocimiento que ha madurado con la experiencia hasta convertirse en guía.",
+    "usado": false
+  },
+  {
+    "palabra": "SERVIDORES",
+    "pista": "Quienes subordinan su función al servicio de otros; también máquinas que proveen recursos.",
+    "usado": false
+  },
+  {
+    "palabra": "TITULARES",
+    "pista": "Quienes poseen un título que acredita su derecho; también los encabezados de noticias.",
+    "usado": false
+  },
+  {
+    "palabra": "VALLADOLID",
+    "pista": "Ciudad del interior de Castilla con siglos de historia y peso cultural.",
+    "usado": false
+  },
+  {
+    "palabra": "VOLUNTARIOS",
+    "pista": "Quienes ofrecen su tiempo y esfuerzo sin recibir compensación a cambio.",
+    "usado": false
+  },
+  {
+    "palabra": "ADQUISICION",
+    "pista": "Proceso de pasar a poseer algo que antes pertenecía a otro o no existía.",
+    "usado": false
+  },
+  {
+    "palabra": "ALEXANDER",
+    "pista": "Nombre propio masculino de origen griego que porta la memoria de un gran conquistador.",
+    "usado": false
+  },
+  {
+    "palabra": "ANTIGUEDAD",
+    "pista": "Condición de lo que existe desde hace mucho tiempo y lleva ese tiempo como marca.",
+    "usado": false
+  },
+  {
+    "palabra": "COMPETENCIAS",
+    "pista": "Habilidades acreditadas para desempeñar algo; también rivalidades entre partes.",
+    "usado": false
+  },
+  {
+    "palabra": "CONSIDERABLE",
+    "pista": "De magnitud suficiente para que no pueda pasarse por alto.",
+    "usado": false
+  },
+  {
+    "palabra": "DEPORTIVA",
+    "pista": "Relativa a la competición reglada entre cuerpos o habilidades.",
+    "usado": false
+  },
+  {
+    "palabra": "DESCRIBIR",
+    "pista": "Poner en palabras lo que los sentidos o la mente perciben.",
+    "usado": false
+  },
+  {
+    "palabra": "DESIGUALDAD",
+    "pista": "Condición en que las partes no tienen el mismo acceso a lo que la sociedad ofrece.",
+    "usado": false
+  },
+  {
+    "palabra": "ELECTRONICOS",
+    "pista": "Relativos a dispositivos que procesan señales mediante partículas diminutas.",
+    "usado": false
+  },
+  {
+    "palabra": "ESPECTACULAR",
+    "pista": "Lo que golpea los sentidos con tal intensidad que obliga a detenerse.",
+    "usado": false
+  },
+  {
+    "palabra": "EVIDENTEMENTE",
+    "pista": "De modo que no requiere demostración porque se impone por sí solo.",
+    "usado": false
+  },
+  {
+    "palabra": "FUNCIONANDO",
+    "pista": "En proceso de operar según la lógica para la que algo fue concebido.",
+    "usado": false
+  },
+  {
+    "palabra": "HIPOTESIS",
+    "pista": "Suposición provisional que aguarda ser confirmada o refutada por la evidencia.",
+    "usado": false
+  },
+  {
+    "palabra": "INICIALMENTE",
+    "pista": "En el primer momento, antes de que el tiempo añadiera sus modificaciones.",
+    "usado": false
+  },
+  {
+    "palabra": "INTEGRIDAD",
+    "pista": "Condición de quien no ha cedido ninguna parte de sus principios ante la presión.",
+    "usado": false
+  },
+  {
+    "palabra": "LECCIONES",
+    "pista": "Lo que la experiencia enseña a quien tiene la disposición de aprender.",
+    "usado": false
+  },
+  {
+    "palabra": "LIBREMENTE",
+    "pista": "Sin que ninguna fuerza externa limite la dirección del movimiento o la elección.",
+    "usado": false
+  },
+  {
+    "palabra": "LIGERAMENTE",
+    "pista": "En un grado pequeño que apenas altera el estado general.",
+    "usado": false
+  },
+  {
+    "palabra": "MODIFICACION",
+    "pista": "Cambio parcial que altera algo sin transformarlo completamente.",
+    "usado": false
+  },
+  {
+    "palabra": "MODIFICAR",
+    "pista": "Alterar parcialmente algo sin llegar a transformarlo por completo.",
+    "usado": false
+  },
+  {
+    "palabra": "MONARQUIA",
+    "pista": "Sistema en que el poder supremo recae en quien lo hereda por linaje.",
+    "usado": false
+  },
+  {
+    "palabra": "SEMINARIO",
+    "pista": "Espacio de formación intensiva donde un grupo trabaja un tema en profundidad.",
+    "usado": false
+  },
+  {
+    "palabra": "SIGUIERON",
+    "pista": "Continuaron haciendo algo o fueron detrás de alguien.",
+    "usado": false
+  },
+  {
+    "palabra": "SOCIALISTAS",
+    "pista": "Quienes defienden la organización colectiva de los medios de producción.",
+    "usado": false
+  },
+  {
+    "palabra": "SUMINISTRO",
+    "pista": "Provisión regular de algo que otro necesita para funcionar.",
+    "usado": false
+  },
+  {
+    "palabra": "ALREDEDORES",
+    "pista": "El territorio que rodea un punto central sin llegar a fundirse con él.",
+    "usado": false
+  },
+  {
+    "palabra": "AUTOPISTA",
+    "pista": "Vía de alta velocidad reservada a vehículos que no admite cruces a nivel.",
+    "usado": false
+  },
+  {
+    "palabra": "CAPACIDADES",
+    "pista": "Las aptitudes que alguien posee para enfrentarse a distintas tareas.",
+    "usado": false
+  },
+  {
+    "palabra": "CATOLICOS",
+    "pista": "Quienes pertenecen a la rama cristiana que reconoce la autoridad del papado.",
+    "usado": false
+  },
+  {
+    "palabra": "CONSIDERACION",
+    "pista": "Atención reflexiva que se presta a algo antes de decidir sobre ello.",
+    "usado": false
+  },
+  {
+    "palabra": "CONTINUIDAD",
+    "pista": "Condición de lo que no se interrumpe y mantiene su hilo a través del tiempo.",
+    "usado": false
+  },
+  {
+    "palabra": "CONTROLES",
+    "pista": "Mecanismos que verifican que algo opera dentro de los límites establecidos.",
+    "usado": false
+  },
+  {
+    "palabra": "DEMUESTRAN",
+    "pista": "Presentan evidencia suficiente para que algo deje de ser dudoso.",
+    "usado": false
+  },
+  {
+    "palabra": "EFICIENCIA",
+    "pista": "La proporción entre lo que se invierte y lo que se obtiene, maximizada.",
+    "usado": false
+  },
+  {
+    "palabra": "ESCOLARES",
+    "pista": "Relativos al tiempo y los espacios destinados al aprendizaje formal.",
+    "usado": false
+  },
+  {
+    "palabra": "EXCLUSIVA",
+    "pista": "Lo que pertenece o está reservado a uno solo sin compartirse.",
+    "usado": false
+  },
+  {
+    "palabra": "HABITACIONES",
+    "pista": "Espacios delimitados dentro de una vivienda destinados a funciones específicas.",
+    "usado": false
+  },
+  {
+    "palabra": "HERMANDAD",
+    "pista": "Vínculo de solidaridad tan profundo que se asemeja al que une a los hermanos.",
+    "usado": false
+  },
+  {
+    "palabra": "JESUCRISTO",
+    "pista": "Figura histórica y religiosa cuyo mensaje articuló una de las mayores tradiciones espirituales.",
+    "usado": false
+  },
+  {
+    "palabra": "JURISDICCION",
+    "pista": "Ámbito territorial o material dentro del que un poder tiene autoridad.",
+    "usado": false
+  },
+  {
+    "palabra": "MARRUECOS",
+    "pista": "País del norte de África situado al otro lado del estrecho que separa dos continentes.",
+    "usado": false
+  },
+  {
+    "palabra": "MUSULMANES",
+    "pista": "Quienes articulan su vida en torno a la revelación transmitida por el profeta del islam.",
+    "usado": false
+  },
+  {
+    "palabra": "PERFECCION",
+    "pista": "Estado en que nada puede mejorarse porque nada falta ni sobra.",
+    "usado": false
+  },
+  {
+    "palabra": "PRECISION",
+    "pista": "Grado de exactitud con que algo se ajusta a lo que debería ser.",
+    "usado": false
+  },
+  {
+    "palabra": "SALAMANCA",
+    "pista": "Ciudad del oeste de España cuya universidad es una de las más antiguas del mundo.",
+    "usado": false
+  },
+  {
+    "palabra": "SECCIONES",
+    "pista": "Divisiones internas de algo que le dan estructura y permiten el acceso.",
+    "usado": false
+  },
+  {
+    "palabra": "SECUESTRO",
+    "pista": "Retención ilegal de una persona para obtener algo a cambio de su liberación.",
+    "usado": false
+  },
+  {
+    "palabra": "SENSIBILIDAD",
+    "pista": "Capacidad de percibir y ser afectado por lo que ocurre dentro y fuera.",
+    "usado": false
+  },
+  {
+    "palabra": "SUDAFRICA",
+    "pista": "País situado en el extremo austral del continente africano.",
+    "usado": false
+  },
+  {
+    "palabra": "SUFRIENDO",
+    "pista": "En proceso de padecer algo que causa dolor sin que pueda evitarse.",
+    "usado": false
+  },
+  {
+    "palabra": "ACADEMICOS",
+    "pista": "Relativos al ámbito institucionalizado de producción y transmisión del saber.",
+    "usado": false
+  },
+  {
+    "palabra": "ADMINISTRADOR",
+    "pista": "Quien gestiona los recursos de algo para que funcione según su propósito.",
+    "usado": false
+  },
+  {
+    "palabra": "AFIRMACION",
+    "pista": "Declaración que sostiene algo como verdadero.",
+    "usado": false
+  },
+  {
+    "palabra": "ARTIFICIAL",
+    "pista": "Lo que ha sido creado por la mano del ser humano imitando lo que la naturaleza hace sola.",
+    "usado": false
+  },
+  {
+    "palabra": "AVENTURAS",
+    "pista": "Experiencias que implican riesgo y novedad y por eso quedan en la memoria.",
+    "usado": false
+  },
+  {
+    "palabra": "BRITANICA",
+    "pista": "Natural o relativa a las islas que dieron origen a un imperio de alcance global.",
+    "usado": false
+  },
+  {
+    "palabra": "CAMPEONES",
+    "pista": "Quienes han demostrado ser superiores al resto en su ámbito.",
+    "usado": false
+  },
+  {
+    "palabra": "CIVILIZACION",
+    "pista": "Forma de organización humana que ha alcanzado un nivel de complejidad cultural.",
+    "usado": false
+  },
+  {
+    "palabra": "CONSEJERO",
+    "pista": "Quien ofrece su criterio a otro para que decida con más elementos.",
+    "usado": false
+  },
+  {
+    "palabra": "CONSTITUYEN",
+    "pista": "Forman o son parte esencial de algo sin lo cual aquello no sería lo que es.",
+    "usado": false
+  },
+  {
+    "palabra": "CONTIENEN",
+    "pista": "Guardan en su interior algo que de otro modo quedaría disperso.",
+    "usado": false
+  },
+  {
+    "palabra": "CONTRASTE",
+    "pista": "La diferencia que se hace visible cuando dos cosas opuestas se colocan juntas.",
+    "usado": false
+  },
+  {
+    "palabra": "CONVENCER",
+    "pista": "Llevar a otro a aceptar algo como verdadero mediante argumentos.",
+    "usado": false
+  },
+  {
+    "palabra": "CORRECTAMENTE",
+    "pista": "De manera que no se aparta de lo que la norma o la lógica exige.",
+    "usado": false
+  },
+  {
+    "palabra": "DEFENSORES",
+    "pista": "Quienes se colocan entre una amenaza y aquello que quieren proteger.",
+    "usado": false
+  },
+  {
+    "palabra": "DEMASIADA",
+    "pista": "En cantidad que supera lo que la situación puede absorber sin daño.",
+    "usado": false
+  },
+  {
+    "palabra": "DIMENSION",
+    "pista": "La extensión de algo en una de las direcciones en que puede medirse.",
+    "usado": false
+  },
+  {
+    "palabra": "DIRIGENTE",
+    "pista": "Quien ocupa el vértice desde el que se orienta la acción de un grupo.",
+    "usado": false
+  },
+  {
+    "palabra": "DISMINUCION",
+    "pista": "Proceso de reducción de algo que antes era mayor.",
+    "usado": false
+  },
+  {
+    "palabra": "DIVERSION",
+    "pista": "Estado en que el tiempo pasa sin que uno quiera que termine.",
+    "usado": false
+  },
+  {
+    "palabra": "EJEMPLARES",
+    "pista": "Los que sirven de modelo por su calidad; también copias de una obra impresa.",
+    "usado": false
+  },
+  {
+    "palabra": "ESCRITORIO",
+    "pista": "Superficie destinada a la actividad mental sedentaria; también entorno visual de un sistema.",
+    "usado": false
+  },
+  {
+    "palabra": "ESPECIALISTA",
+    "pista": "Quien ha concentrado su saber en un dominio hasta superar a quienes lo abordan en general.",
+    "usado": false
+  },
+  {
+    "palabra": "ESPECIFICA",
+    "pista": "La que pertenece solo a ese caso y no se extiende a los demás.",
+    "usado": false
+  },
+  {
+    "palabra": "ESTABLECIO",
+    "pista": "Fijó algo de manera que quedara como norma o realidad permanente.",
+    "usado": false
+  },
+  {
+    "palabra": "EXTRAORDINARIO",
+    "pista": "Lo que se sale tan marcadamente de lo ordinario que exige una categoría propia.",
+    "usado": false
+  },
+  {
+    "palabra": "FALLECIDO",
+    "pista": "Quien ha dejado de existir en el plano de los vivos.",
+    "usado": false
+  },
+  {
+    "palabra": "IMPLEMENTACION",
+    "pista": "Proceso de llevar algo desde el papel hasta su funcionamiento real.",
+    "usado": false
+  },
+  {
+    "palabra": "IMPUNIDAD",
+    "pista": "Condición de quien ha infringido una norma sin recibir las consecuencias que merecía.",
+    "usado": false
+  },
+  {
+    "palabra": "INOCENTES",
+    "pista": "Quienes no son responsables de lo que se les atribuye.",
+    "usado": false
+  },
+  {
+    "palabra": "JAPONESES",
+    "pista": "Naturales del archipiélago del Pacífico que desarrolló una cultura singular.",
+    "usado": false
+  },
+  {
+    "palabra": "LAMENTABLE",
+    "pista": "Lo que provoca pesar porque no debería haber ocurrido.",
+    "usado": false
+  },
+  {
+    "palabra": "NOVEDADES",
+    "pista": "Lo que acaba de aparecer y aún conserva el brillo de lo no visto.",
+    "usado": false
+  },
+  {
+    "palabra": "OBLIGATORIO",
+    "pista": "Lo que no puede omitirse sin incurrir en una falta.",
+    "usado": false
+  },
+  {
+    "palabra": "OBSTACULOS",
+    "pista": "Lo que se interpone entre alguien y su destino obligando a un esfuerzo extra.",
+    "usado": false
+  },
+  {
+    "palabra": "PREGUNTANDO",
+    "pista": "En proceso de formular cuestiones para obtener lo que no se sabe.",
+    "usado": false
+  },
+  {
+    "palabra": "PRESENTADA",
+    "pista": "Lo que fue puesta ante otros para que pudiera ser conocida o valorada.",
+    "usado": false
+  },
+  {
+    "palabra": "PROHIBICION",
+    "pista": "Norma que coloca algo fuera del espacio de lo permitido.",
+    "usado": false
+  },
+  {
+    "palabra": "RECONSTRUCCION",
+    "pista": "Proceso de devolver a algo su forma después de que fue destruido.",
+    "usado": false
+  },
+  {
+    "palabra": "SETIEMBRE",
+    "pista": "Variante ortográfica del noveno mes del año.",
+    "usado": false
+  },
+  {
+    "palabra": "SIGNIFICATIVO",
+    "pista": "Lo que tiene peso suficiente para alterar el sentido del conjunto.",
+    "usado": false
+  },
+  {
+    "palabra": "SOLITARIO",
+    "pista": "Quien habita o transcurre sin la compañía de otros.",
+    "usado": false
+  },
+  {
+    "palabra": "TECNOLOGICO",
+    "pista": "Perteneciente al conjunto de técnicas que amplían las capacidades humanas.",
+    "usado": false
+  },
+  {
+    "palabra": "COMERCIANTES",
+    "pista": "Quienes hacen del intercambio de bienes su modo de vida.",
+    "usado": false
+  },
+  {
+    "palabra": "CONSERVAR",
+    "pista": "Mantener algo en el estado en que estaba resistiendo al deterioro.",
+    "usado": false
+  },
+  {
+    "palabra": "CONTRIBUCION",
+    "pista": "Aportación propia al esfuerzo colectivo sin pretender ser su único motor.",
+    "usado": false
+  },
+  {
+    "palabra": "DENOMINADO",
+    "pista": "Lo que ha recibido un nombre por el que es identificado.",
+    "usado": false
+  },
+  {
+    "palabra": "DISPOSICIONES",
+    "pista": "Normas que regulan cómo debe procederse en determinadas situaciones.",
+    "usado": false
+  },
+  {
+    "palabra": "EXPEDICION",
+    "pista": "Viaje organizado hacia un lugar poco conocido con un propósito definido.",
+    "usado": false
+  },
+  {
+    "palabra": "HOLLYWOOD",
+    "pista": "Barrio de Los Ángeles que se convirtió en sinónimo de la industria cinematográfica global.",
+    "usado": false
+  },
+  {
+    "palabra": "LITERARIA",
+    "pista": "Relativa al arte que emplea la palabra escrita como medio de expresión.",
+    "usado": false
+  },
+  {
+    "palabra": "MODIFICACIONES",
+    "pista": "Cambios parciales que alteran algo sin transformarlo por completo.",
+    "usado": false
+  },
+  {
+    "palabra": "NEGATIVOS",
+    "pista": "Los que contribuyen al resultado o estado que se considera indeseable.",
+    "usado": false
+  },
+  {
+    "palabra": "NORTEAMERICANO",
+    "pista": "Natural de la parte septentrional del continente americano.",
+    "usado": false
+  },
+  {
+    "palabra": "PREPARADA",
+    "pista": "La que ha sido dispuesta con antelación para el momento que la requiere.",
+    "usado": false
+  },
+  {
+    "palabra": "PRODUCTIVIDAD",
+    "pista": "La proporción entre lo que se produce y los recursos empleados para lograrlo.",
+    "usado": false
+  },
+  {
+    "palabra": "RECONOCIO",
+    "pista": "Identificó algo como lo que es o admitió algo que antes negaba.",
+    "usado": false
+  },
+  {
+    "palabra": "RECUERDAN",
+    "pista": "Traen algo al pensamiento que estaba guardado en la memoria.",
+    "usado": false
+  },
+  {
+    "palabra": "RESTRICCIONES",
+    "pista": "Límites impuestos que reducen el espacio de lo posible.",
+    "usado": false
+  },
+  {
+    "palabra": "SATISFACER",
+    "pista": "Cumplir lo que algo exigía hasta que la exigencia cesa.",
+    "usado": false
+  },
+  {
+    "palabra": "TRABAJAMOS",
+    "pista": "Realizamos una actividad laboral de manera conjunta.",
+    "usado": false
+  },
+  {
+    "palabra": "TRANSMITIR",
+    "pista": "Hacer que algo pase de un origen a un destino sin perderse en el camino.",
+    "usado": false
+  },
+  {
+    "palabra": "ACADEMICA",
+    "pista": "Relativa al ámbito institucionalizado de producción y transmisión del saber.",
+    "usado": false
+  },
+  {
+    "palabra": "ACUSACIONES",
+    "pista": "Imputaciones formales que señalan a alguien como responsable de algo.",
+    "usado": false
+  },
+  {
+    "palabra": "ANUNCIADO",
+    "pista": "Lo que fue comunicado públicamente antes de que ocurriera.",
+    "usado": false
+  },
+  {
+    "palabra": "ASISTENTES",
+    "pista": "Quienes estuvieron presentes en algo o prestan apoyo a otro.",
+    "usado": false
+  },
+  {
+    "palabra": "AVERIGUAR",
+    "pista": "Investigar hasta conocer algo que permanecía oculto.",
+    "usado": false
+  },
+  {
+    "palabra": "COLABORAR",
+    "pista": "Trabajar junto a otro hacia un fin que ninguno alcanzaría en solitario.",
+    "usado": false
+  },
+  {
+    "palabra": "COMPUESTA",
+    "pista": "Formada por la unión de partes heterogéneas.",
+    "usado": false
+  },
+  {
+    "palabra": "CREATIVIDAD",
+    "pista": "Capacidad de producir algo que antes no existía y que no derivaba de ningún modelo.",
+    "usado": false
+  },
+  {
+    "palabra": "ENCONTRABAN",
+    "pista": "Estaban en un lugar o estado en el pasado.",
+    "usado": false
+  },
+  {
+    "palabra": "ESPECTADORES",
+    "pista": "Quienes observan algo que otros ejecutan sin participar en ello.",
+    "usado": false
+  },
+  {
+    "palabra": "ESPECIFICAS",
+    "pista": "Las que pertenecen solo a ese caso sin poder extenderse a los demás.",
+    "usado": false
+  },
+  {
+    "palabra": "EXPEDIENTE",
+    "pista": "Conjunto de documentos que registran el historial de un asunto.",
+    "usado": false
+  },
+  {
+    "palabra": "EXPORTACION",
+    "pista": "Envío de bienes o servicios fuera del territorio para ser consumidos en otro.",
+    "usado": false
+  },
+  {
+    "palabra": "FORTALECER",
+    "pista": "Dotar de mayor resistencia a algo que podría ceder ante la presión.",
+    "usado": false
+  },
+  {
+    "palabra": "GOBERNANTES",
+    "pista": "Quienes ejercen el poder de orientar la vida colectiva de una comunidad.",
+    "usado": false
+  },
+  {
+    "palabra": "LIBERTADES",
+    "pista": "Los espacios de acción que ningún poder puede cerrar sin violar un derecho.",
+    "usado": false
+  },
+  {
+    "palabra": "MANTENIENDO",
+    "pista": "En proceso de conservar algo en el estado en que estaba.",
+    "usado": false
+  },
+  {
+    "palabra": "MAQUINARIA",
+    "pista": "Conjunto de engranajes que cooperan para producir un efecto que ninguno lograría solo.",
+    "usado": false
+  },
+  {
+    "palabra": "MASCULINO",
+    "pista": "Relativo al género que la tradición opone al femenino.",
+    "usado": false
+  },
+  {
+    "palabra": "MICROSOFT",
+    "pista": "Corporación que puso la informática personal al alcance de quienes no eran especialistas.",
+    "usado": false
+  },
+  {
+    "palabra": "MOTIVACION",
+    "pista": "Fuerza interior que orienta la energía hacia algo con intensidad suficiente para actuar.",
+    "usado": false
+  },
+  {
+    "palabra": "NAVEGACION",
+    "pista": "Arte de desplazarse por superficies o espacios sin puntos de apoyo fijos.",
+    "usado": false
+  },
+  {
+    "palabra": "PARTICIPADO",
+    "pista": "Tomado parte en algo cuyo resultado se compartió con otros.",
+    "usado": false
+  },
+  {
+    "palabra": "PELIGROSA",
+    "pista": "La que entraña riesgo de daño para quien se aproxima.",
+    "usado": false
+  },
+  {
+    "palabra": "PODEROSOS",
+    "pista": "Quienes acumulan suficiente fuerza como para doblar la voluntad de otros.",
+    "usado": false
+  },
+  {
+    "palabra": "PROBABILIDAD",
+    "pista": "Medida de cuántas veces cabe esperar que algo ocurra entre todas las posibles.",
+    "usado": false
+  },
+  {
+    "palabra": "PRESTAMOS",
+    "pista": "Recursos cedidos temporalmente a quien los necesita con obligación de devolución.",
+    "usado": false
+  },
+  {
+    "palabra": "RADICALES",
+    "pista": "Los que no aceptan medias tintas y van hasta la raíz de las cosas.",
+    "usado": false
+  },
+  {
+    "palabra": "REFERENDUM",
+    "pista": "Consulta directa a la ciudadanía para que decida sobre una cuestión concreta.",
+    "usado": false
+  },
+  {
+    "palabra": "TERMINARON",
+    "pista": "Llegaron al final de algo que habían iniciado.",
+    "usado": false
+  },
+  {
+    "palabra": "AMPLIACION",
+    "pista": "Proceso de extender algo más allá de sus límites anteriores.",
+    "usado": false
+  },
+  {
+    "palabra": "ARTISTICO",
+    "pista": "Relativo a la expresión que busca la belleza o la emoción como fin.",
+    "usado": false
+  },
+  {
+    "palabra": "CARACTERIZA",
+    "pista": "Distingue algo de lo demás dotándolo de rasgos que lo hacen reconocible.",
+    "usado": false
+  },
+  {
+    "palabra": "COLABORADORES",
+    "pista": "Quienes aportan su esfuerzo a un proyecto sin ser sus únicos responsables.",
+    "usado": false
+  },
+  {
+    "palabra": "COMPARTEN",
+    "pista": "Tienen o usan algo en común sin que ninguno lo posea en exclusiva.",
+    "usado": false
+  },
+  {
+    "palabra": "CONEXIONES",
+    "pista": "Vínculos que permiten el flujo entre dos puntos que de otro modo permanecerían aislados.",
+    "usado": false
+  },
+  {
+    "palabra": "DETERMINACION",
+    "pista": "Firmeza de voluntad que no cede ante los obstáculos.",
+    "usado": false
+  },
+  {
+    "palabra": "ENFRENTAMIENTO",
+    "pista": "Momento en que dos fuerzas se colocan cara a cara sin poder evitarse.",
+    "usado": false
+  },
+  {
+    "palabra": "ENSEGUIDA",
+    "pista": "En un tiempo tan breve que casi no hay distancia entre ahora y el momento siguiente.",
+    "usado": false
+  },
+  {
+    "palabra": "EPISODIOS",
+    "pista": "Fragmentos diferenciados de una historia mayor.",
+    "usado": false
+  },
+  {
+    "palabra": "ESPECIALISTAS",
+    "pista": "Quienes han concentrado su saber en un dominio hasta superar a los generalistas.",
+    "usado": false
+  },
+  {
+    "palabra": "FEMINISTA",
+    "pista": "Quien defiende que el género no debe ser motivo de diferencia en derechos.",
+    "usado": false
+  },
+  {
+    "palabra": "FERROCARRIL",
+    "pista": "Sistema de transporte que circula sobre raíles y transformó la distancia en el siglo XIX.",
+    "usado": false
+  },
+  {
+    "palabra": "FINALIZAR",
+    "pista": "Llegar al punto donde algo concluye sin posibilidad de continuar.",
+    "usado": false
+  },
+  {
+    "palabra": "IDENTIFICADO",
+    "pista": "Lo que ha sido reconocido y asignado a una categoría concreta.",
+    "usado": false
+  },
+  {
+    "palabra": "INCLUSIVE",
+    "pista": "Incluyendo también lo que podría haberse omitido.",
+    "usado": false
+  },
+  {
+    "palabra": "INTERPRETAR",
+    "pista": "Dar sentido a algo que no lo muestra por sí solo.",
+    "usado": false
+  },
+  {
+    "palabra": "LEGISLATURA",
+    "pista": "Periodo durante el cual un órgano legislativo ejerce su función.",
+    "usado": false
+  },
+  {
+    "palabra": "LITERARIO",
+    "pista": "Relativo al arte que emplea la palabra escrita como medio de expresión.",
+    "usado": false
+  },
+  {
+    "palabra": "MANIPULACION",
+    "pista": "Intervención sobre algo o alguien para obtener un resultado que el otro no eligió libremente.",
+    "usado": false
+  },
+  {
+    "palabra": "PARIENTES",
+    "pista": "Quienes comparten una parte del mismo árbol genealógico.",
+    "usado": false
+  },
+  {
+    "palabra": "PREGUNTADO",
+    "pista": "Sobre quien se ha formulado una cuestión o que ha formulado una.",
+    "usado": false
+  },
+  {
+    "palabra": "PRESUPUESTOS",
+    "pista": "Cálculos anticipados de recursos que se espera tener y gastar.",
+    "usado": false
+  },
+  {
+    "palabra": "PROCEDENTES",
+    "pista": "Los que tienen su origen en un lugar o fuente determinados.",
+    "usado": false
+  },
+  {
+    "palabra": "PROPORCION",
+    "pista": "Relación cuantitativa entre las partes que define si algo está equilibrado.",
+    "usado": false
+  },
+  {
+    "palabra": "PUBLICAMENTE",
+    "pista": "De manera que todos pueden verlo sin restricciones.",
+    "usado": false
+  },
+  {
+    "palabra": "RECOMIENDA",
+    "pista": "Señala algo con la confianza de quien ya ha verificado su valor.",
+    "usado": false
+  },
+  {
+    "palabra": "RELEVANTES",
+    "pista": "Los que tienen peso suficiente para no poder ser ignorados.",
+    "usado": false
+  },
+  {
+    "palabra": "SUPERVIVENCIA",
+    "pista": "Capacidad de seguir existiendo cuando las condiciones han eliminado a los demás.",
+    "usado": false
+  },
+  {
+    "palabra": "USUALMENTE",
+    "pista": "Con la frecuencia que convierte algo en la norma habitual.",
+    "usado": false
+  },
+  {
+    "palabra": "VARIABLES",
+    "pista": "Las que cambian de valor según las condiciones; también factores que intervienen en algo.",
+    "usado": false
+  },
+  {
+    "palabra": "WIKIPEDIA",
+    "pista": "Enciclopedia construida colectivamente donde el conocimiento se edita sin cesar.",
+    "usado": false
+  },
+  {
+    "palabra": "ACUSACION",
+    "pista": "Imputación formal que señala a alguien como responsable de algo reprobable.",
+    "usado": false
+  },
+  {
+    "palabra": "AMBIENTALES",
+    "pista": "Relativas al conjunto de condiciones externas que rodean a los seres vivos.",
+    "usado": false
+  },
+  {
+    "palabra": "APRENDIENDO",
+    "pista": "En proceso de convertir lo ignorado en conocimiento propio.",
+    "usado": false
+  },
+  {
+    "palabra": "APROPIADO",
+    "pista": "Lo que encaja con precisión en las exigencias de la situación.",
+    "usado": false
+  },
+  {
+    "palabra": "AUTENTICO",
+    "pista": "Lo que no finge ser otra cosa; que coincide con su propia esencia.",
+    "usado": false
+  },
+  {
+    "palabra": "CAPITALES",
+    "pista": "Ciudades de gran importancia; también recursos que generan rendimiento.",
+    "usado": false
+  },
+  {
+    "palabra": "CARACTERES",
+    "pista": "Rasgos distintivos de algo; también signos de un sistema de escritura.",
+    "usado": false
+  },
+  {
+    "palabra": "CONSTITUYENTE",
+    "pista": "Lo que forma parte esencial de algo o que tiene poder para establecer su constitución.",
+    "usado": false
+  },
+  {
+    "palabra": "DESAPARECIO",
+    "pista": "Dejó de estar presente de manera definitiva o prolongada.",
+    "usado": false
+  },
+  {
+    "palabra": "DETERMINADA",
+    "pista": "La que ha sido fijada sin margen para la variación.",
+    "usado": false
+  },
+  {
+    "palabra": "DISCUSIONES",
+    "pista": "Intercambios en que posiciones distintas se confrontan buscando la razón.",
+    "usado": false
+  },
+  {
+    "palabra": "DISPUESTA",
+    "pista": "Colocada o preparada para algo; también con voluntad orientada.",
+    "usado": false
+  },
+  {
+    "palabra": "ESCLAVITUD",
+    "pista": "Sistema en que un ser humano es considerado propiedad de otro.",
+    "usado": false
+  },
+  {
+    "palabra": "ESTANDARES",
+    "pista": "Niveles de referencia que sirven para medir si algo cumple con lo exigido.",
+    "usado": false
+  },
+  {
+    "palabra": "EXPERIMENTO",
+    "pista": "Prueba controlada diseñada para que la realidad responda a una pregunta.",
+    "usado": false
+  },
+  {
+    "palabra": "FINANCIERAS",
+    "pista": "Relativas al movimiento y gestión del dinero y sus instrumentos.",
+    "usado": false
+  },
+  {
+    "palabra": "HOMICIDIO",
+    "pista": "Acción de causar la muerte a otro ser humano.",
+    "usado": false
+  },
+  {
+    "palabra": "INCENDIOS",
+    "pista": "Fuegos que se propagan sin control destruyendo lo que encuentran.",
+    "usado": false
+  },
+  {
+    "palabra": "INFERIORES",
+    "pista": "Los que ocupan una posición más baja en una jerarquía.",
+    "usado": false
+  },
+  {
+    "palabra": "INTEGRADO",
+    "pista": "Lo que ha sido incorporado a un conjunto de modo que ya no puede distinguirse.",
+    "usado": false
+  },
+  {
+    "palabra": "INTERACCION",
+    "pista": "Influencia mutua entre dos o más elementos que modifica a cada uno.",
+    "usado": false
+  },
+  {
+    "palabra": "MAQUILLAJE",
+    "pista": "Sustancias aplicadas sobre la piel para modificar la apariencia del rostro.",
+    "usado": false
+  },
+  {
+    "palabra": "MATEMATICA",
+    "pista": "Ciencia del número, la forma y el orden que el universo parece seguir.",
+    "usado": false
+  },
+  {
+    "palabra": "MENTALIDAD",
+    "pista": "Marco mental desde el que alguien interpreta la realidad y actúa en ella.",
+    "usado": false
+  },
+  {
+    "palabra": "NACIONALISMO",
+    "pista": "Corriente que antepone la identidad nacional como valor supremo de organización.",
+    "usado": false
+  },
+  {
+    "palabra": "NARRATIVA",
+    "pista": "Arte de contar; también el conjunto de relatos que articula una visión del mundo.",
+    "usado": false
+  },
+  {
+    "palabra": "OBSERVACIONES",
+    "pista": "Percepciones atentas y registradas de algo para conocerlo sin alterarlo.",
+    "usado": false
+  },
+  {
+    "palabra": "PERSPECTIVAS",
+    "pista": "Los puntos desde los que se mira algo y que determinan lo que se ve.",
+    "usado": false
+  },
+  {
+    "palabra": "PRIVILEGIOS",
+    "pista": "Ventajas que solo algunos poseen y que el resto no puede acceder.",
+    "usado": false
+  },
+  {
+    "palabra": "PROTAGONISTAS",
+    "pista": "Quienes ocupan el centro de la acción sin los cuales la historia carece de eje.",
+    "usado": false
+  },
+  {
+    "palabra": "SORPRENDIDO",
+    "pista": "Quien fue alcanzado por algo que no esperaba.",
+    "usado": false
+  },
+  {
+    "palabra": "SUMAMENTE",
+    "pista": "En un grado tan elevado que se acerca al límite de la escala.",
+    "usado": false
+  },
+  {
+    "palabra": "TEMPERATURAS",
+    "pista": "Medidas del grado de calor o frío que presenta algo.",
+    "usado": false
+  },
+  {
+    "palabra": "VERIFICAR",
+    "pista": "Comprobar que la realidad coincide con lo que se afirmaba.",
+    "usado": false
+  },
+  {
+    "palabra": "AGRICOLAS",
+    "pista": "Relativas al cultivo de la tierra y la producción de alimentos.",
+    "usado": false
+  },
+  {
+    "palabra": "AUMENTANDO",
+    "pista": "En proceso de hacerse mayor en cantidad o intensidad.",
+    "usado": false
+  },
+  {
+    "palabra": "CLIMATICO",
+    "pista": "Relativo al conjunto de condiciones atmosféricas que caracterizan una región.",
+    "usado": false
+  },
+  {
+    "palabra": "COMPLEJOS",
+    "pista": "Los que contienen tantas partes interrelacionadas que su comprensión exige esfuerzo.",
+    "usado": false
+  },
+  {
+    "palabra": "ENCUENTREN",
+    "pista": "Forma subjuntiva de hallar algo bajo condiciones hipotéticas.",
+    "usado": false
+  },
+  {
+    "palabra": "ENTREGADO",
+    "pista": "Lo que fue dado a otro o quien se ha dedicado por completo a algo.",
+    "usado": false
+  },
+  {
+    "palabra": "ESTUPIDEZ",
+    "pista": "Limitación del entendimiento que lleva a actuar contra los propios intereses.",
+    "usado": false
+  },
+  {
+    "palabra": "EXCLUSIVO",
+    "pista": "Lo que pertenece o está reservado a uno solo.",
+    "usado": false
+  },
+  {
+    "palabra": "EXTINCION",
+    "pista": "Desaparición definitiva de algo que ya no puede regenerarse.",
+    "usado": false
+  },
+  {
+    "palabra": "EXTRAORDINARIA",
+    "pista": "La que se sale tan marcadamente de lo ordinario que exige una categoría propia.",
+    "usado": false
+  },
+  {
+    "palabra": "FACULTADES",
+    "pista": "Capacidades o aptitudes; también divisiones de una universidad.",
+    "usado": false
+  },
+  {
+    "palabra": "LIMITACIONES",
+    "pista": "Los bordes que marcan hasta dónde algo puede llegar.",
+    "usado": false
+  },
+  {
+    "palabra": "MANIFESTO",
+    "pista": "Declaración pública de principios dirigida a quienes quieran escuchar.",
+    "usado": false
+  },
+  {
+    "palabra": "MIGRACION",
+    "pista": "Desplazamiento de seres desde un territorio a otro en busca de condiciones mejores.",
+    "usado": false
+  },
+  {
+    "palabra": "NACIONALISTA",
+    "pista": "Quien antepone la identidad nacional como valor supremo.",
+    "usado": false
+  },
+  {
+    "palabra": "NECESITAR",
+    "pista": "Carecer de algo sin lo cual el funcionamiento se deteriora.",
+    "usado": false
+  },
+  {
+    "palabra": "OCCIDENTALES",
+    "pista": "Pertenecientes a la tradición cultural heredera de Grecia, Roma y el judeocristianismo.",
+    "usado": false
+  },
+  {
+    "palabra": "PERMITIRA",
+    "pista": "Forma de futuro que indica que algo quedará dentro de lo posible.",
+    "usado": false
+  },
+  {
+    "palabra": "PRESTIGIO",
+    "pista": "Reputación ganada por méritos que otros reconocen sin que nadie los imponga.",
+    "usado": false
+  },
+  {
+    "palabra": "PRIVILEGIO",
+    "pista": "Ventaja que solo algunos poseen y que el resto no puede acceder.",
+    "usado": false
+  },
+  {
+    "palabra": "PRODUCTIVO",
+    "pista": "Lo que genera resultados aprovechables en relación al esfuerzo invertido.",
+    "usado": false
+  },
+  {
+    "palabra": "RECONOCIDA",
+    "pista": "La que ha sido vista y nombrada como lo que es por quienes tienen autoridad.",
+    "usado": false
+  },
+  {
+    "palabra": "REFERIRSE",
+    "pista": "Apuntar mediante palabras hacia algo sin necesidad de describirlo por completo.",
+    "usado": false
+  },
+  {
+    "palabra": "REFLEXIONES",
+    "pista": "Pensamientos que se doblan sobre sí mismos para examinarse.",
+    "usado": false
+  },
+  {
+    "palabra": "SUPUESTOS",
+    "pista": "Aquello que se da por cierto sin verificación como punto de partida.",
+    "usado": false
+  },
+  {
+    "palabra": "TELECOMUNICACIONES",
+    "pista": "Sistemas que transmiten información a distancia mediante señales.",
+    "usado": false
+  },
+  {
+    "palabra": "TELEFONICA",
+    "pista": "Relativa al sistema que permite que la voz viaje sin que el cuerpo lo haga.",
+    "usado": false
+  },
+  {
+    "palabra": "TESTAMENTO",
+    "pista": "Documento en que alguien dispone cómo repartir lo suyo cuando ya no esté.",
+    "usado": false
+  },
+  {
+    "palabra": "TOLERANCIA",
+    "pista": "Capacidad de convivir con lo que no se comparte sin que ello produzca rechazo.",
+    "usado": false
+  },
+  {
+    "palabra": "TRADUCIDO",
+    "pista": "Lo que ha cruzado la frontera entre dos lenguas conservando su sentido.",
+    "usado": false
+  },
+  {
+    "palabra": "TRANSPARENTE",
+    "pista": "Lo que no interpone nada entre su interior y la mirada de quien lo observa.",
+    "usado": false
+  },
+  {
+    "palabra": "VENDIENDO",
+    "pista": "En proceso de ceder algo a cambio de valor.",
+    "usado": false
+  },
+  {
+    "palabra": "ACERCARSE",
+    "pista": "Reducir la distancia entre uno mismo y algo o alguien.",
+    "usado": false
+  },
+  {
+    "palabra": "BIBLIOTECAS",
+    "pista": "Repositorios donde el conocimiento escrito aguarda a quien lo busca.",
+    "usado": false
+  },
+  {
+    "palabra": "CALIFICACION",
+    "pista": "Juicio expresado en una escala sobre el mérito o valor de algo.",
+    "usado": false
+  },
+  {
+    "palabra": "CARTAGENA",
+    "pista": "Ciudad costera con historia colonial de gran peso en América y España.",
+    "usado": false
+  },
+  {
+    "palabra": "COMPARADO",
+    "pista": "Puesto junto a otro para que las diferencias y semejanzas se hagan visibles.",
+    "usado": false
+  },
+  {
+    "palabra": "CONCESION",
+    "pista": "Acto de ceder algo que antes se retenía; también derecho otorgado por una autoridad.",
+    "usado": false
+  },
+  {
+    "palabra": "CONSTANCIA",
+    "pista": "Firmeza que mantiene el esfuerzo sin importar cuánto tiempo sea necesario.",
+    "usado": false
+  },
+  {
+    "palabra": "CONSTANTES",
+    "pista": "Las que no varían a pesar de los cambios que ocurren a su alrededor.",
+    "usado": false
+  },
+  {
+    "palabra": "CONSTRUCCIONES",
+    "pista": "Estructuras materiales erigidas mediante trabajo organizado.",
+    "usado": false
+  },
+  {
+    "palabra": "CONVIERTEN",
+    "pista": "Transforman algo en otra cosa distinta de lo que era.",
+    "usado": false
+  },
+  {
+    "palabra": "DESPEDIDA",
+    "pista": "El momento en que algo o alguien abandona el espacio de quienes quedan.",
+    "usado": false
+  },
+  {
+    "palabra": "DISTRITOS",
+    "pista": "Divisiones administrativas de un territorio con funciones propias.",
+    "usado": false
+  },
+  {
+    "palabra": "ENTENDIMIENTO",
+    "pista": "Estado en que dos partes comparten suficiente para actuar sin malinterpretarse.",
+    "usado": false
+  },
+  {
+    "palabra": "ESCALERAS",
+    "pista": "Series de peldaños que permiten salvar diferencias de altura.",
+    "usado": false
+  },
+  {
+    "palabra": "ESCENARIOS",
+    "pista": "Espacios o situaciones posibles dentro de los que algo podría desarrollarse.",
+    "usado": false
+  },
+  {
+    "palabra": "HISTORICAS",
+    "pista": "Las que han dejado huella suficiente para ser recordadas mucho después.",
+    "usado": false
+  },
+  {
+    "palabra": "INSTRUCCION",
+    "pista": "Enseñanza o conjunto de pasos que guían hacia un resultado.",
+    "usado": false
+  },
+  {
+    "palabra": "INTRODUCIR",
+    "pista": "Hacer que algo entre en un espacio o sistema donde antes no estaba.",
+    "usado": false
+  },
+  {
+    "palabra": "LOCALIZACION",
+    "pista": "Determinación del punto exacto donde algo se encuentra.",
+    "usado": false
+  },
+  {
+    "palabra": "OPOSITORES",
+    "pista": "Quienes se posicionan activamente en contra de quien detenta el poder.",
+    "usado": false
+  },
+  {
+    "palabra": "PARTICIPANDO",
+    "pista": "En proceso de tomar parte activa en algo.",
+    "usado": false
+  },
+  {
+    "palabra": "PRESIDENCIALES",
+    "pista": "Relativos a quien ocupa el más alto cargo ejecutivo de un Estado.",
+    "usado": false
+  },
+  {
+    "palabra": "QUERIENDO",
+    "pista": "Con la voluntad orientada hacia algo o alguien.",
+    "usado": false
+  },
+  {
+    "palabra": "SECUNDARIO",
+    "pista": "Lo que ocupa un lugar de menor importancia que el principal.",
+    "usado": false
+  },
+  {
+    "palabra": "SERIAMENTE",
+    "pista": "Con la gravedad que la situación merece y sin frivolidad.",
+    "usado": false
+  },
+  {
+    "palabra": "SIGNIFICATIVA",
+    "pista": "La que tiene peso suficiente para alterar el sentido del conjunto.",
+    "usado": false
+  },
+  {
+    "palabra": "TESTIMONIOS",
+    "pista": "Relatos de quienes estuvieron presentes y convierten su memoria en prueba.",
+    "usado": false
+  },
+  {
+    "palabra": "ACOSTUMBRADO",
+    "pista": "Quien ha repetido algo hasta que dejó de notar que lo hacía.",
+    "usado": false
+  },
+  {
+    "palabra": "ADVERTENCIA",
+    "pista": "Señal que anuncia un peligro antes de que llegue para que pueda evitarse.",
+    "usado": false
+  },
+  {
+    "palabra": "ARQUITECTO",
+    "pista": "Quien concibe y ordena el espacio para que la forma sirva a la vida.",
+    "usado": false
+  },
+  {
+    "palabra": "ARZOBISPO",
+    "pista": "Prelado que preside una diócesis de especial importancia en la jerarquía eclesiástica.",
+    "usado": false
+  },
+  {
+    "palabra": "CONSERVADORES",
+    "pista": "Quienes prefieren preservar lo establecido frente a los riesgos del cambio.",
+    "usado": false
+  },
+  {
+    "palabra": "CONSULTAR",
+    "pista": "Acudir a quien sabe más para obtener orientación antes de decidir.",
+    "usado": false
+  },
+  {
+    "palabra": "CRISTOBAL",
+    "pista": "Nombre propio masculino asociado históricamente a uno de los mayores viajes de exploración.",
+    "usado": false
+  },
+  {
+    "palabra": "DESAPARECE",
+    "pista": "Deja de estar presente sin que pueda señalarse exactamente cuándo ni dónde fue.",
+    "usado": false
+  },
+  {
+    "palabra": "DESPIERTO",
+    "pista": "Con la conciencia activa y los sentidos funcionando.",
+    "usado": false
+  },
+  {
+    "palabra": "DISCAPACIDAD",
+    "pista": "Condición en que ciertas funciones del organismo operan de manera diferente a la norma.",
+    "usado": false
+  },
+  {
+    "palabra": "DISMINUIR",
+    "pista": "Reducir algo a un estado menor del que tenía.",
+    "usado": false
+  },
+  {
+    "palabra": "DISTINCION",
+    "pista": "Diferencia que separa lo que podría confundirse; también reconocimiento de mérito.",
+    "usado": false
+  },
+  {
+    "palabra": "ENCANTADO",
+    "pista": "Quien siente que algo le produce un agrado que supera lo habitual.",
+    "usado": false
+  },
+  {
+    "palabra": "ENFRENTARSE",
+    "pista": "Colocarse ante algo difícil sin intentar evitarlo.",
+    "usado": false
+  },
+  {
+    "palabra": "ESENCIALES",
+    "pista": "Los que sostienen el edificio; sin ellos todo lo demás se derrumba.",
+    "usado": false
+  },
+  {
+    "palabra": "EXPRESADO",
+    "pista": "Lo que salió del interior y fue puesto en palabras o gestos.",
+    "usado": false
+  },
+  {
+    "palabra": "FAVORABLE",
+    "pista": "Lo que inclina las circunstancias hacia el resultado deseado.",
+    "usado": false
+  },
+  {
+    "palabra": "MENSUALES",
+    "pista": "Los que se repiten o se calculan una vez por mes.",
+    "usado": false
+  },
+  {
+    "palabra": "MIGRANTES",
+    "pista": "Quienes se desplazan desde su territorio de origen hacia otro.",
+    "usado": false
+  },
+  {
+    "palabra": "MOVILIDAD",
+    "pista": "Capacidad de desplazarse o de cambiar de posición en un sistema.",
+    "usado": false
+  },
+  {
+    "palabra": "NOMBRAMIENTO",
+    "pista": "Acto formal por el que alguien recibe un cargo o función.",
+    "usado": false
+  },
+  {
+    "palabra": "PARCIALMENTE",
+    "pista": "En una parte pero no en la totalidad.",
+    "usado": false
+  },
+  {
+    "palabra": "PREOCUPACIONES",
+    "pista": "Estados mentales que anticipan daños antes de que lleguen.",
+    "usado": false
+  },
+  {
+    "palabra": "PROVEEDOR",
+    "pista": "Quien suministra a otro los recursos que necesita para funcionar.",
+    "usado": false
+  },
+  {
+    "palabra": "PROYECCION",
+    "pista": "Estimación de lo que algo será en el futuro basada en lo que es ahora.",
+    "usado": false
+  },
+  {
+    "palabra": "RELEVANCIA",
+    "pista": "El peso que algo tiene para que no pueda ser ignorado.",
+    "usado": false
+  },
+  {
+    "palabra": "RESTAURACION",
+    "pista": "Proceso de devolver algo a su estado anterior o a su forma original.",
+    "usado": false
+  },
+  {
+    "palabra": "VICTORIAS",
+    "pista": "Los resultados que colocan a quien los obtiene por encima de quien disputaba.",
+    "usado": false
+  },
+  {
+    "palabra": "AISLAMIENTO",
+    "pista": "Estado de quien no tiene contacto con lo que lo rodea.",
+    "usado": false
+  },
+  {
+    "palabra": "APROVECHANDO",
+    "pista": "En proceso de extraer el máximo rendimiento de algo antes de que desaparezca.",
+    "usado": false
+  },
+  {
+    "palabra": "COMPARTIDO",
+    "pista": "Lo que ha sido tenido o usado en común por más de uno.",
+    "usado": false
+  },
+  {
+    "palabra": "COMPUTADORAS",
+    "pista": "Máquinas que procesan instrucciones simbólicas a velocidades que superan la mente.",
+    "usado": false
+  },
+  {
+    "palabra": "CONDUCTORES",
+    "pista": "Quienes guían el movimiento de algo; también materiales que permiten el flujo.",
+    "usado": false
+  },
+  {
+    "palabra": "CONECTADO",
+    "pista": "Lo que tiene un vínculo activo con otro elemento del sistema.",
+    "usado": false
+  },
+  {
+    "palabra": "CONTEMPORANEA",
+    "pista": "La que pertenece al mismo periodo de tiempo que otra cosa o que quien habla.",
+    "usado": false
+  },
+  {
+    "palabra": "CUMPLIENDO",
+    "pista": "En proceso de llevar a cabo lo exigido o lo prometido.",
+    "usado": false
+  },
+  {
+    "palabra": "DESARROLLANDO",
+    "pista": "En proceso de llevar algo desde su estado inicial hacia una forma más plena.",
+    "usado": false
+  },
+  {
+    "palabra": "DOMINANTE",
+    "pista": "Lo que ejerce mayor influencia que todo lo que compite con ello.",
+    "usado": false
+  },
+  {
+    "palabra": "ENTENDEMOS",
+    "pista": "Hemos logrado que el sentido de algo cruce al interior de nuestra comprensión.",
+    "usado": false
+  },
+  {
+    "palabra": "ESCRITORA",
+    "pista": "Mujer que hace de la palabra escrita su medio de expresión y su oficio.",
+    "usado": false
+  },
+  {
+    "palabra": "ETIQUETAS",
+    "pista": "Marcas que asignan una categoría a algo simplificando su complejidad.",
+    "usado": false
+  },
+  {
+    "palabra": "EVENTUALMENTE",
+    "pista": "En algún momento futuro sin precisar cuándo exactamente.",
+    "usado": false
+  },
+  {
+    "palabra": "EXCELENTES",
+    "pista": "Los que alcanzan un nivel de calidad notablemente superior al promedio.",
+    "usado": false
+  },
+  {
+    "palabra": "IMPLEMENTAR",
+    "pista": "Llevar algo desde el papel hasta su funcionamiento real.",
+    "usado": false
+  },
+  {
+    "palabra": "INCORPORACION",
+    "pista": "Proceso de hacer que algo pase a formar parte de un conjunto.",
+    "usado": false
+  },
+  {
+    "palabra": "INFORMACIONES",
+    "pista": "Conjuntos de datos que reducen la incertidumbre sobre algo.",
+    "usado": false
+  },
+  {
+    "palabra": "INICIALES",
+    "pista": "Las que pertenecen al principio de algo antes de que el tiempo lo modifique.",
+    "usado": false
+  },
+  {
+    "palabra": "INTERVENIR",
+    "pista": "Tomar parte en algo que ya estaba en curso para modificar su dirección.",
+    "usado": false
+  },
+  {
+    "palabra": "LATINOAMERICANOS",
+    "pista": "Naturales de los países de América con raíces coloniales ibéricas.",
+    "usado": false
+  },
+  {
+    "palabra": "MANIFIESTA",
+    "pista": "Hace visible algo que antes permanecía oculto o implícito.",
+    "usado": false
+  },
+  {
+    "palabra": "MODALIDAD",
+    "pista": "Cada una de las formas concretas en que algo puede presentarse.",
+    "usado": false
+  },
+  {
+    "palabra": "MONASTERIO",
+    "pista": "Comunidad de personas que han elegido la vida retirada del mundo bajo una regla.",
+    "usado": false
+  },
+  {
+    "palabra": "MUCHISIMAS",
+    "pista": "En una cantidad tan elevada que supera con creces lo que se esperaba.",
+    "usado": false
+  },
+  {
+    "palabra": "OFRECIENDO",
+    "pista": "En proceso de poner algo a disposición de otro.",
+    "usado": false
+  },
+  {
+    "palabra": "POLITICAMENTE",
+    "pista": "Desde la perspectiva de quien analiza el poder y su distribución.",
+    "usado": false
+  },
+  {
+    "palabra": "PREFERENCIA",
+    "pista": "Inclinación hacia algo por encima de las alternativas disponibles.",
+    "usado": false
+  },
+  {
+    "palabra": "PREFIEREN",
+    "pista": "Eligen algo por encima de las alternativas sin que nadie se lo imponga.",
+    "usado": false
+  },
+  {
+    "palabra": "PROMETIDO",
+    "pista": "Lo que fue comprometido públicamente y ahora reclama ser cumplido.",
+    "usado": false
+  },
+  {
+    "palabra": "RECOMPENSA",
+    "pista": "Lo que se recibe como reconocimiento por haber hecho algo valioso.",
+    "usado": false
+  },
+  {
+    "palabra": "REHABILITACION",
+    "pista": "Proceso de devolver a alguien o algo la capacidad perdida.",
+    "usado": false
+  },
+  {
+    "palabra": "SOLICITUDES",
+    "pista": "Peticiones formales dirigidas a quien tiene autoridad para concederlas.",
+    "usado": false
+  },
+  {
+    "palabra": "SORPRENDIO",
+    "pista": "Alcanzó a alguien con algo que no esperaba.",
+    "usado": false
+  },
+  {
+    "palabra": "SOSPECHOSO",
+    "pista": "Quien genera indicios de que podría ser responsable de algo sin que esté probado.",
+    "usado": false
+  },
+  {
+    "palabra": "SUSTANCIAS",
+    "pista": "Materias con composición química definida que pueden actuar sobre otras.",
+    "usado": false
+  },
+  {
+    "palabra": "AGRADECER",
+    "pista": "Reconocer el valor de algo que otro hizo y expresarlo.",
+    "usado": false
+  },
+  {
+    "palabra": "APARECIDO",
+    "pista": "Lo que se hizo visible donde antes no estaba.",
+    "usado": false
+  },
+  {
+    "palabra": "APARECIERON",
+    "pista": "Se hicieron visibles donde antes no estaban.",
+    "usado": false
+  },
+  {
+    "palabra": "APROVECHA",
+    "pista": "Extrae el máximo rendimiento de algo antes de que desaparezca.",
+    "usado": false
+  },
+  {
+    "palabra": "CAMIONETA",
+    "pista": "Vehículo de carga de tamaño intermedio entre el coche y el camión.",
+    "usado": false
+  },
+  {
+    "palabra": "COMPONENTE",
+    "pista": "Parte que forma un todo junto a otras sin las cuales no funcionaría.",
+    "usado": false
+  },
+  {
+    "palabra": "CONSPIRACION",
+    "pista": "Plan secreto tramado entre varios para lograr algo que no podría hacerse abiertamente.",
+    "usado": false
+  },
+  {
+    "palabra": "CONTENTOS",
+    "pista": "En estado de satisfacción que no exige nada más por el momento.",
+    "usado": false
+  },
+  {
+    "palabra": "COORDINADOR",
+    "pista": "Quien sincroniza las acciones de varios para que cooperen sin obstaculizarse.",
+    "usado": false
+  },
+  {
+    "palabra": "CULPABLES",
+    "pista": "Quienes son responsables de algo que causó daño o incumplió una norma.",
+    "usado": false
+  },
+  {
+    "palabra": "DELINCUENCIA",
+    "pista": "Conjunto de conductas que transgreden las normas penales de una sociedad.",
+    "usado": false
+  },
+  {
+    "palabra": "DESTRUIDO",
+    "pista": "Lo que ha sido reducido a una forma que ya no puede cumplir su función.",
+    "usado": false
+  },
+  {
+    "palabra": "EDUCATIVOS",
+    "pista": "Relativos al proceso de formación que amplía las capacidades de una mente.",
+    "usado": false
+  },
+  {
+    "palabra": "ENHORABUENA",
+    "pista": "Expresión que celebra un logro ajeno haciéndolo propio por un instante.",
+    "usado": false
+  },
+  {
+    "palabra": "ESTABLECIDOS",
+    "pista": "Los que han echado raíces y adquirido permanencia en un lugar o sistema.",
+    "usado": false
+  },
+  {
+    "palabra": "ESTABLECIMIENTOS",
+    "pista": "Lugares que han echado raíces y ofrecen un servicio de manera permanente.",
+    "usado": false
+  },
+  {
+    "palabra": "EXPLORACION",
+    "pista": "Avance hacia lo desconocido con voluntad de conocer lo que hay más allá.",
+    "usado": false
+  },
+  {
+    "palabra": "EXPORTACIONES",
+    "pista": "Bienes y servicios enviados fuera del territorio para ser consumidos en otro.",
+    "usado": false
+  },
+  {
+    "palabra": "FINANCIAR",
+    "pista": "Proveer los recursos económicos que permiten que algo exista o funcione.",
+    "usado": false
+  },
+  {
+    "palabra": "FOTOGRAFO",
+    "pista": "Quien captura instantes de la realidad mediante la acción de la luz.",
+    "usado": false
+  },
+  {
+    "palabra": "GARANTIZA",
+    "pista": "Asegura que algo ocurrirá o no ocurrirá asumiendo las consecuencias.",
+    "usado": false
+  },
+  {
+    "palabra": "GOBERNACION",
+    "pista": "Ejercicio del gobierno sobre un territorio; también la institución que lo ejerce.",
+    "usado": false
+  },
+  {
+    "palabra": "GUBERNAMENTALES",
+    "pista": "Pertenecientes o dependientes del gobierno.",
+    "usado": false
+  },
+  {
+    "palabra": "HORIZONTE",
+    "pista": "La línea donde lo visible termina y lo posible comienza.",
+    "usado": false
+  },
+  {
+    "palabra": "INCERTIDUMBRE",
+    "pista": "Estado en que el futuro tiene más opciones abiertas que respuestas cerradas.",
+    "usado": false
+  },
+  {
+    "palabra": "INFECCION",
+    "pista": "Invasión del organismo por agentes externos que alteran su funcionamiento.",
+    "usado": false
+  },
+  {
+    "palabra": "INJUSTICIA",
+    "pista": "Situación en que lo que ocurre no coincide con lo que la ética exigiría.",
+    "usado": false
+  },
+  {
+    "palabra": "INSPECCION",
+    "pista": "Examen detallado para verificar que algo cumple con lo exigido.",
+    "usado": false
+  },
+  {
+    "palabra": "INSPIRADO",
+    "pista": "Quien o lo que fue puesto en movimiento por un impulso externo o interno.",
+    "usado": false
+  },
+  {
+    "palabra": "INVISIBLE",
+    "pista": "Lo que existe pero no puede ser percibido por quien lo busca con los ojos.",
+    "usado": false
+  },
+  {
+    "palabra": "LOCALIDADES",
+    "pista": "Núcleos humanos que ocupan puntos concretos del mapa con nombre propio.",
+    "usado": false
+  },
+  {
+    "palabra": "METROPOLITANA",
+    "pista": "Relativa a la gran ciudad y el territorio que gravita en torno a ella.",
+    "usado": false
+  },
+  {
+    "palabra": "ORGULLOSA",
+    "pista": "Mujer que siente que su valor merece ser reconocido abiertamente.",
+    "usado": false
+  },
+  {
+    "palabra": "PERSONALIDADES",
+    "pista": "Individuos cuya relevancia los hace reconocibles más allá de su entorno inmediato.",
+    "usado": false
+  },
+  {
+    "palabra": "PERTENECIENTES",
+    "pista": "Los que tienen vínculo de identidad o propiedad con algo que los integra.",
+    "usado": false
+  },
+  {
+    "palabra": "PROVENIENTES",
+    "pista": "Los que tienen su origen en un lugar o fuente determinados.",
+    "usado": false
+  },
+  {
+    "palabra": "REPARACION",
+    "pista": "Proceso de restituir algo que fue dañado a su estado funcional.",
+    "usado": false
+  },
+  {
+    "palabra": "SACERDOTES",
+    "pista": "Intermediarios entre lo humano y lo sagrado en tradiciones religiosas.",
+    "usado": false
+  },
+  {
+    "palabra": "SUSTANCIA",
+    "pista": "Materia con composición química definida que puede actuar sobre otras.",
+    "usado": false
+  },
+  {
+    "palabra": "TERRIBLES",
+    "pista": "Los que producen un impacto tan negativo que resultan difíciles de soportar.",
+    "usado": false
+  },
+  {
+    "palabra": "VANGUARDIA",
+    "pista": "El punto más avanzado desde el que algo explora territorio aún no ocupado.",
+    "usado": false
+  },
+  {
+    "palabra": "AGRUPACION",
+    "pista": "Conjunto de elementos o personas reunidos bajo un criterio o propósito común.",
+    "usado": false
+  },
+  {
+    "palabra": "ATRACCION",
+    "pista": "Fuerza que acerca algo o a alguien hacia un centro sin que pueda resistirse.",
+    "usado": false
+  },
+  {
+    "palabra": "AUTOBUSES",
+    "pista": "Vehículos que transportan a muchas personas siguiendo rutas establecidas.",
+    "usado": false
+  },
+  {
+    "palabra": "BALONCESTO",
+    "pista": "Deporte en que dos equipos intentan introducir un balón en el aro del contrario.",
+    "usado": false
+  },
+  {
+    "palabra": "BRILLANTES",
+    "pista": "Los que concentran y devuelven la luz; también quienes destacan por su intelecto.",
+    "usado": false
+  },
+  {
+    "palabra": "CAPITALISTA",
+    "pista": "Relativo al sistema en que la propiedad privada y el mercado organizan la producción.",
+    "usado": false
+  },
+  {
+    "palabra": "COINCIDENCIA",
+    "pista": "Encuentro de hechos que nadie planeó y que el azar puso en el mismo punto.",
+    "usado": false
+  },
+  {
+    "palabra": "COMENZANDO",
+    "pista": "En el umbral de algo que aún no tiene historia propia.",
+    "usado": false
+  },
+  {
+    "palabra": "COMPLICADA",
+    "pista": "La que tiene tantas partes entrelazadas que su comprensión exige esfuerzo.",
+    "usado": false
+  },
+  {
+    "palabra": "COMPROMISOS",
+    "pista": "Promesas que atan la voluntad y exigen ser cumplidas.",
+    "usado": false
+  },
+  {
+    "palabra": "CONSCIENTES",
+    "pista": "Los que saben lo que hacen y por qué lo hacen.",
+    "usado": false
+  },
+  {
+    "palabra": "CONSTRUYENDO",
+    "pista": "En proceso de crear algo material de manera ordenada.",
+    "usado": false
+  },
+  {
+    "palabra": "CONTINUAN",
+    "pista": "Siguen haciendo algo sin interrumpirse.",
+    "usado": false
+  },
+  {
+    "palabra": "COTIDIANA",
+    "pista": "Lo que ocurre con tanta frecuencia que ya no llama la atención.",
+    "usado": false
+  },
+  {
+    "palabra": "DEFINITIVO",
+    "pista": "El que no admite revisión; aquel tras el que no hay vuelta atrás.",
+    "usado": false
+  },
+  {
+    "palabra": "DEPOSITOS",
+    "pista": "Lugares donde algo se almacena; también cantidades entregadas como garantía.",
+    "usado": false
+  },
+  {
+    "palabra": "DOCTORADO",
+    "pista": "El grado más alto que una institución académica puede otorgar.",
+    "usado": false
+  },
+  {
+    "palabra": "EMISIONES",
+    "pista": "Lo que se lanza al exterior desde una fuente; también transmisiones radiofónicas.",
+    "usado": false
+  },
+  {
+    "palabra": "ESPECIALIDAD",
+    "pista": "El dominio concreto en que alguien ha concentrado su saber.",
+    "usado": false
+  },
+  {
+    "palabra": "ESTABLECIDA",
+    "pista": "La que ha echado raíces y adquirido permanencia.",
+    "usado": false
+  },
+  {
+    "palabra": "ESTUDIADO",
+    "pista": "Lo que ha sido sometido a análisis sistemático para conocerlo.",
+    "usado": false
+  },
+  {
+    "palabra": "ESTUVIMOS",
+    "pista": "Forma del pasado que indica presencia colectiva en un lugar o situación.",
+    "usado": false
+  },
+  {
+    "palabra": "EXTRACCION",
+    "pista": "Proceso de sacar algo de donde estaba para llevarlo a otro lugar.",
+    "usado": false
+  },
+  {
+    "palabra": "FALLECIMIENTO",
+    "pista": "El momento en que un ser deja de pertenecer al mundo de los vivos.",
+    "usado": false
+  },
+  {
+    "palabra": "FANTASTICO",
+    "pista": "Lo que supera los límites de lo real hasta entrar en el terreno de lo imaginario.",
+    "usado": false
+  },
+  {
+    "palabra": "FRANQUICIA",
+    "pista": "Modelo en que una marca cede el derecho de operar bajo su nombre a cambio de condiciones.",
+    "usado": false
+  },
+  {
+    "palabra": "GOBERNADORES",
+    "pista": "Autoridades que dirigen regiones o estados dentro de un país.",
+    "usado": false
+  },
+  {
+    "palabra": "GUADALUPE",
+    "pista": "Nombre propio femenino y también topónimo con honda raíz religiosa en el mundo hispanohablante.",
+    "usado": false
+  },
+  {
+    "palabra": "GUAYAQUIL",
+    "pista": "Principal ciudad y puerto del país andino que atraviesa la línea ecuatorial.",
+    "usado": false
+  },
+  {
+    "palabra": "HISTORIADOR",
+    "pista": "Quien reconstruye el pasado con las herramientas del rigor y la interpretación.",
+    "usado": false
+  },
+  {
+    "palabra": "INOCENCIA",
+    "pista": "Estado de quien no ha incurrido en la falta de la que se le acusa.",
+    "usado": false
+  },
+  {
+    "palabra": "LICENCIAS",
+    "pista": "Permisos formales que habilitan algo que de otro modo estaría vedado.",
+    "usado": false
+  },
+  {
+    "palabra": "MOVILIZACION",
+    "pista": "Puesta en movimiento organizada de personas o recursos hacia un objetivo.",
+    "usado": false
+  },
+  {
+    "palabra": "NORTEAMERICANA",
+    "pista": "Natural o relativa a la parte septentrional del continente americano.",
+    "usado": false
+  },
+  {
+    "palabra": "ORACIONES",
+    "pista": "Unidades lingüísticas con sentido completo; también plegarias dirigidas a lo sagrado.",
+    "usado": false
+  },
+  {
+    "palabra": "PARROQUIA",
+    "pista": "Comunidad religiosa local con su propio templo y clérigo a cargo.",
+    "usado": false
+  },
+  {
+    "palabra": "POSITIVAS",
+    "pista": "Las que contribuyen al resultado o estado que se considera deseable.",
+    "usado": false
+  },
+  {
+    "palabra": "PREOCUPARSE",
+    "pista": "Anticipar mentalmente el daño antes de que este llegue.",
+    "usado": false
+  },
+  {
+    "palabra": "PRETENDEN",
+    "pista": "Aspiran a algo o intentan que se crea lo que quizás no es cierto.",
+    "usado": false
+  },
+  {
+    "palabra": "PRISIONERO",
+    "pista": "Quien ha sido privado de libertad de movimiento por decisión de otro.",
+    "usado": false
+  },
+  {
+    "palabra": "RECOMENDACION",
+    "pista": "Señalamiento hacia algo que quien recomienda ya ha valorado positivamente.",
+    "usado": false
+  },
+  {
+    "palabra": "REFLEXIONAR",
+    "pista": "Doblar el pensamiento sobre sí mismo para examinarlo con cuidado.",
+    "usado": false
+  },
+  {
+    "palabra": "RELIGIONES",
+    "pista": "Sistemas de creencias y prácticas que articulan la relación del ser humano con lo sagrado.",
+    "usado": false
+  },
+  {
+    "palabra": "RESPONDEN",
+    "pista": "Cierran el ciclo abierto por una pregunta o situación.",
+    "usado": false
+  },
+  {
+    "palabra": "RESTANTES",
+    "pista": "Los que quedan después de que algunos han sido separados del conjunto.",
+    "usado": false
+  },
+  {
+    "palabra": "SOSTENIBLE",
+    "pista": "Lo que puede mantenerse en el tiempo sin agotar los recursos que lo sustentan.",
+    "usado": false
+  },
+  {
+    "palabra": "SUCEDIENDO",
+    "pista": "En proceso de ocurrir en este momento.",
+    "usado": false
+  },
+  {
+    "palabra": "SUGERENCIAS",
+    "pista": "Proposiciones lanzadas sin imposición para que otro las considere libremente.",
+    "usado": false
+  },
+  {
+    "palabra": "SUSTITUCION",
+    "pista": "Reemplazo de algo por otra cosa que ocupa su lugar.",
+    "usado": false
+  },
+  {
+    "palabra": "TURISTICO",
+    "pista": "Relativo al desplazamiento de personas hacia lugares que no son los suyos habituales.",
+    "usado": false
+  },
+  {
+    "palabra": "AGRICULTORES",
+    "pista": "Quienes cultivan la tierra como medio de vida y sustento.",
+    "usado": false
+  },
+  {
+    "palabra": "ALMIRANTE",
+    "pista": "El rango más alto en la jerarquía naval de un Estado.",
+    "usado": false
+  },
+  {
+    "palabra": "COMPLEJIDAD",
+    "pista": "Condición de lo que contiene tantas partes interrelacionadas que su comprensión exige esfuerzo.",
+    "usado": false
+  },
+  {
+    "palabra": "COMUNISMO",
+    "pista": "Sistema que propone la abolición de la propiedad privada y la gestión colectiva.",
+    "usado": false
+  },
+  {
+    "palabra": "CONTINUAMENTE",
+    "pista": "Sin pausas ni interrupciones a lo largo del tiempo.",
+    "usado": false
+  },
+  {
+    "palabra": "CREDIBILIDAD",
+    "pista": "La confianza que alguien o algo genera en quienes los observan.",
+    "usado": false
+  },
+  {
+    "palabra": "CUALIDADES",
+    "pista": "Rasgos positivos que caracterizan a algo o alguien.",
+    "usado": false
+  },
+  {
+    "palabra": "DECORACION",
+    "pista": "Conjunto de elementos añadidos a un espacio para modificar su apariencia.",
+    "usado": false
+  },
+  {
+    "palabra": "DELANTERO",
+    "pista": "Quien ocupa la posición más avanzada en una formación.",
+    "usado": false
+  },
+  {
+    "palabra": "DENOMINACION",
+    "pista": "Nombre con que algo es conocido dentro de un sistema de clasificación.",
+    "usado": false
+  },
+  {
+    "palabra": "DIARIAMENTE",
+    "pista": "Con una regularidad que no admite excepciones ni un solo día.",
+    "usado": false
+  },
+  {
+    "palabra": "EJECUTIVA",
+    "pista": "Relativa al poder que aplica las normas; también mujer con cargo directivo.",
+    "usado": false
+  },
+  {
+    "palabra": "ELIZABETH",
+    "pista": "Nombre propio femenino de origen hebreo asociado a varias figuras históricas.",
+    "usado": false
+  },
+  {
+    "palabra": "ENAMORADA",
+    "pista": "Mujer que ha cedido parte de su autonomía interior a la presencia de otro.",
+    "usado": false
+  },
+  {
+    "palabra": "EXIGENCIAS",
+    "pista": "Demandas que no admiten negociación sobre su cumplimiento.",
+    "usado": false
+  },
+  {
+    "palabra": "FUNCIONAL",
+    "pista": "Lo que cumple su propósito sin elementos superfluos que lo obstaculicen.",
+    "usado": false
+  },
+  {
+    "palabra": "GEOGRAFICA",
+    "pista": "Relativa a la distribución y características de los elementos en la superficie terrestre.",
+    "usado": false
+  },
+  {
+    "palabra": "GUERREROS",
+    "pista": "Quienes han hecho del combate su razón de ser y su identidad.",
+    "usado": false
+  },
+  {
+    "palabra": "INFANTILES",
+    "pista": "Relativas a la primera etapa de la vida, antes de que la razón tome el mando.",
+    "usado": false
+  },
+  {
+    "palabra": "INVOLUCRADO",
+    "pista": "Quien ha quedado atrapado en algo de lo que ya no puede desvincularse fácilmente.",
+    "usado": false
+  },
+  {
+    "palabra": "MEDITERRANEO",
+    "pista": "Mar interior rodeado de tres continentes que fue cuna de civilizaciones.",
+    "usado": false
+  },
+  {
+    "palabra": "NORMATIVA",
+    "pista": "Conjunto de normas que regulan el funcionamiento de algo en un ámbito determinado.",
+    "usado": false
+  },
+  {
+    "palabra": "NUCLEARES",
+    "pista": "Relativos a la energía liberada al manipular el núcleo de los átomos.",
+    "usado": false
+  },
+  {
+    "palabra": "PARTIDARIOS",
+    "pista": "Quienes apoyan activamente una causa o posición.",
+    "usado": false
+  },
+  {
+    "palabra": "PASTILLAS",
+    "pista": "Formas sólidas de pequeño tamaño diseñadas para ser ingeridas.",
+    "usado": false
+  },
+  {
+    "palabra": "PELIGROSOS",
+    "pista": "Los que entrañan riesgo de daño para quien se aproxima.",
+    "usado": false
+  },
+  {
+    "palabra": "PREGUNTABA",
+    "pista": "Formulaba cuestiones de manera habitual en el pasado.",
+    "usado": false
+  },
+  {
+    "palabra": "PRESENTACIONES",
+    "pista": "Exposiciones ante otros de algo que antes no había sido visto.",
+    "usado": false
+  },
+  {
+    "palabra": "PRESIONES",
+    "pista": "Fuerzas que empujan algo en una dirección determinada.",
+    "usado": false
+  },
+  {
+    "palabra": "PRIMARIAS",
+    "pista": "Las que están en el origen y de las que todo lo demás deriva.",
+    "usado": false
+  },
+  {
+    "palabra": "PROVISIONAL",
+    "pista": "Lo que ocupa un lugar temporalmente mientras llega lo definitivo.",
+    "usado": false
+  },
+  {
+    "palabra": "RADIACION",
+    "pista": "Emisión de energía en forma de ondas o partículas desde una fuente.",
+    "usado": false
+  },
+  {
+    "palabra": "RECONOCIDOS",
+    "pista": "Los que han sido vistos y nombrados como lo que son.",
+    "usado": false
+  },
+  {
+    "palabra": "REPUBLICANO",
+    "pista": "Relativo al sistema en que el poder no se hereda sino que se elige.",
+    "usado": false
+  },
+  {
+    "palabra": "SECUENCIA",
+    "pista": "Serie ordenada de elementos en que cada uno precede y sigue a otro.",
+    "usado": false
+  },
+  {
+    "palabra": "TECNOLOGICA",
+    "pista": "Perteneciente al conjunto de técnicas que amplían las capacidades humanas.",
+    "usado": false
+  },
+  {
+    "palabra": "VALIENTES",
+    "pista": "Quienes actúan con decisión aunque sientan el peso de lo que les espera.",
+    "usado": false
+  },
+  {
+    "palabra": "VIOLENTOS",
+    "pista": "Los que emplean la fuerza para imponerse sin considerar el daño que causan.",
+    "usado": false
+  },
+  {
+    "palabra": "ABIERTAMENTE",
+    "pista": "Sin ocultamiento ni rodeos; con total visibilidad.",
+    "usado": false
+  },
+  {
+    "palabra": "ACCESIBLE",
+    "pista": "Lo que no interpone barreras entre sí mismo y quien quiere alcanzarlo.",
+    "usado": false
+  },
+  {
+    "palabra": "ACOMPAÑADA",
+    "pista": "Mujer que no atraviesa su camino en soledad.",
+    "usado": false
+  },
+  {
+    "palabra": "ACONTECIMIENTO",
+    "pista": "Suceso que rompe la continuidad de lo cotidiano y queda en la memoria.",
+    "usado": false
+  },
+  {
+    "palabra": "ANIMACION",
+    "pista": "Técnica que da apariencia de movimiento a imágenes estáticas; también vitalidad.",
+    "usado": false
+  },
+  {
+    "palabra": "ASEGURARSE",
+    "pista": "Verificar que algo es como debe ser antes de que la incertidumbre cause daño.",
+    "usado": false
+  },
+  {
+    "palabra": "AUMENTADO",
+    "pista": "Lo que ha crecido más allá de lo que era.",
+    "usado": false
+  },
+  {
+    "palabra": "AUTOMOVIL",
+    "pista": "Vehículo autopropulsado que transformó la relación del ser humano con el espacio.",
+    "usado": false
+  },
+  {
+    "palabra": "AUTENTICA",
+    "pista": "La que no finge ser otra cosa; que coincide con su propia esencia.",
+    "usado": false
+  },
+  {
+    "palabra": "BASTANTES",
+    "pista": "En número suficiente para que la cantidad sea significativa.",
+    "usado": false
+  },
+  {
+    "palabra": "BIBLIOGRAFIA",
+    "pista": "Lista de obras consultadas que acredita el sustento intelectual de un trabajo.",
+    "usado": false
+  },
+  {
+    "palabra": "BOLSILLOS",
+    "pista": "Cavidades en la ropa diseñadas para guardar objetos sin necesidad de las manos.",
+    "usado": false
+  },
+  {
+    "palabra": "CAMBIARON",
+    "pista": "Dejaron de ser lo que eran para convertirse en algo distinto.",
+    "usado": false
+  },
+  {
+    "palabra": "CENTIMETROS",
+    "pista": "Unidades de longitud que miden lo que ya no puede apreciarse a simple vista.",
+    "usado": false
+  },
+  {
+    "palabra": "COMISARIO",
+    "pista": "Autoridad delegada para supervisar o gestionar algo en nombre de otro.",
+    "usado": false
+  },
+  {
+    "palabra": "CONSULTAS",
+    "pista": "Solicitudes de orientación dirigidas a quien sabe más sobre el asunto.",
+    "usado": false
+  },
+  {
+    "palabra": "CONVIVENCIA",
+    "pista": "Estado en que seres distintos comparten espacio y tiempo sin anularse.",
+    "usado": false
+  },
+  {
+    "palabra": "DEFENDIENDO",
+    "pista": "En proceso de proteger algo ante una amenaza que intenta alcanzarlo.",
+    "usado": false
+  },
+  {
+    "palabra": "DEPORTIVOS",
+    "pista": "Relativos a la competición reglada entre cuerpos o habilidades.",
+    "usado": false
+  },
+  {
+    "palabra": "DIVERTIDA",
+    "pista": "La que provoca placer sin exigir esfuerzo a quien la experimenta.",
+    "usado": false
+  },
+  {
+    "palabra": "ECONOMISTA",
+    "pista": "Quien estudia cómo los seres humanos toman decisiones ante la escasez.",
+    "usado": false
+  },
+  {
+    "palabra": "ECONOMICAMENTE",
+    "pista": "Desde la perspectiva de quien mide el valor de las cosas en términos de coste y beneficio.",
+    "usado": false
+  },
+  {
+    "palabra": "FANATICOS",
+    "pista": "Los que han renunciado a la duda para entregarse por completo a una certeza.",
+    "usado": false
+  },
+  {
+    "palabra": "FRAGMENTOS",
+    "pista": "Lo que queda cuando algo se rompe y revela que nunca fue tan entero como parecía.",
+    "usado": false
+  },
+  {
+    "palabra": "GUBERNAMENTAL",
+    "pista": "Perteneciente a la estructura que administra el poder en nombre de una colectividad.",
+    "usado": false
+  },
+  {
+    "palabra": "INCAPACIDAD",
+    "pista": "Condición de quien no puede llevar a cabo algo que otros esperan de él.",
+    "usado": false
+  },
+  {
+    "palabra": "INCREMENTAR",
+    "pista": "Hacer que algo crezca más allá de donde estaba.",
+    "usado": false
+  },
+  {
+    "palabra": "INTENDENTE",
+    "pista": "Funcionario que administra una circunscripción en nombre de la autoridad superior.",
+    "usado": false
+  },
+  {
+    "palabra": "ITALIANOS",
+    "pista": "Naturales del país de la bota mediterránea que dio su lengua al mundo del arte.",
+    "usado": false
+  },
+  {
+    "palabra": "LICENCIADO",
+    "pista": "Quien ha obtenido el grado académico que acredita su formación universitaria.",
+    "usado": false
+  },
+  {
+    "palabra": "MONUMENTOS",
+    "pista": "Construcciones erigidas para que la memoria no se pierda con el tiempo.",
+    "usado": false
+  },
+  {
+    "palabra": "NARCOTRAFICO",
+    "pista": "Red de actividades ilegales centrada en la producción y distribución de sustancias prohibidas.",
+    "usado": false
+  },
+  {
+    "palabra": "PLENAMENTE",
+    "pista": "Con total plenitud; sin que nada falte o quede a medias.",
+    "usado": false
+  },
+  {
+    "palabra": "PRECEDENTES",
+    "pista": "Lo que ocurrió antes y sirve de referencia o justificación para lo que viene después.",
+    "usado": false
+  },
+  {
+    "palabra": "PRESENTANDO",
+    "pista": "En proceso de poner algo ante otros para que pueda ser conocido.",
+    "usado": false
+  },
+  {
+    "palabra": "PROTEGIDO",
+    "pista": "Lo que tiene una barrera entre sí mismo y el daño que podría alcanzarlo.",
+    "usado": false
+  },
+  {
+    "palabra": "RECONOCEN",
+    "pista": "Identifican algo como lo que es o admiten algo que antes negaban.",
+    "usado": false
+  },
+  {
+    "palabra": "RECUERDEN",
+    "pista": "Forma que invita a traer algo al pensamiento para que no se pierda.",
+    "usado": false
+  },
+  {
+    "palabra": "RESPIRACION",
+    "pista": "Intercambio gaseoso que el organismo realiza para mantenerse en funcionamiento.",
+    "usado": false
+  },
+  {
+    "palabra": "REVOLUCIONARIOS",
+    "pista": "Quienes no aceptan el orden existente y trabajan para sustituirlo por otro.",
+    "usado": false
+  },
+  {
+    "palabra": "ROMANTICO",
+    "pista": "Quien percibe la realidad a través del prisma del sentimiento y la belleza.",
+    "usado": false
+  },
+  {
+    "palabra": "SUPERVISION",
+    "pista": "Vigilancia activa ejercida sobre algo para garantizar que funcione como debe.",
+    "usado": false
+  },
+  {
+    "palabra": "TRIPULACION",
+    "pista": "Conjunto de personas que operan un vehículo o nave bajo un mando común.",
+    "usado": false
+  },
+  {
+    "palabra": "VEGETALES",
+    "pista": "Seres vivos que producen su propio alimento a partir de la luz y los nutrientes del suelo.",
+    "usado": false
+  },
+  {
+    "palabra": "VIOLACIONES",
+    "pista": "Transgresiones forzadas de límites que otro tenía derecho a que se respetaran.",
+    "usado": false
+  },
+  {
+    "palabra": "VOLUNTARIO",
+    "pista": "Quien ofrece su tiempo y esfuerzo sin recibir compensación a cambio.",
+    "usado": false
+  },
+  {
+    "palabra": "ADQUIRIDO",
+    "pista": "Lo que ha pasado a pertenecer a alguien mediante algún proceso.",
+    "usado": false
+  },
+  {
+    "palabra": "AFECTADAS",
+    "pista": "Las que han recibido el impacto de algo que alteró su estado.",
+    "usado": false
+  },
+  {
+    "palabra": "CADAVERES",
+    "pista": "Los restos materiales de quienes ya no habitan en ellos.",
+    "usado": false
+  },
+  {
+    "palabra": "CANDIDATA",
+    "pista": "Mujer que aspira a ser elegida para un cargo.",
+    "usado": false
+  },
+  {
+    "palabra": "COMPENSACION",
+    "pista": "Lo que se entrega para equilibrar un daño o desequilibrio previo.",
+    "usado": false
+  },
+  {
+    "palabra": "COMPETICION",
+    "pista": "Enfrentamiento reglado entre partes que aspiran al mismo objetivo.",
+    "usado": false
+  },
+  {
+    "palabra": "CONSIGUIENTE",
+    "pista": "Lo que se deriva necesariamente de lo que lo precede.",
+    "usado": false
+  },
+  {
+    "palabra": "CONSTRUYE",
+    "pista": "Crea algo material de manera ordenada.",
+    "usado": false
+  },
+  {
+    "palabra": "CONTACTAR",
+    "pista": "Establecer comunicación con alguien que estaba fuera del alcance.",
+    "usado": false
+  },
+  {
+    "palabra": "CONTEMPORANEO",
+    "pista": "Lo que pertenece al mismo periodo de tiempo que otra cosa.",
+    "usado": false
+  },
+  {
+    "palabra": "CONTRATACION",
+    "pista": "Proceso formal de incorporar a alguien a una actividad mediante acuerdo.",
+    "usado": false
+  },
+  {
+    "palabra": "CONTROLADO",
+    "pista": "Lo que ha sido sometido a supervisión para que no se salga de los límites previstos.",
+    "usado": false
+  },
+  {
+    "palabra": "DEMOSTRACION",
+    "pista": "Presentación de evidencia suficiente para que algo deje de ser dudoso.",
+    "usado": false
+  },
+  {
+    "palabra": "DEMOCRATA",
+    "pista": "Quien defiende que el poder debe emanar de la voluntad colectiva.",
+    "usado": false
+  },
+  {
+    "palabra": "DENOMINADA",
+    "pista": "La que ha recibido un nombre por el que es identificada.",
+    "usado": false
+  },
+  {
+    "palabra": "DESARROLLO",
+    "pista": "Proceso de llevar algo desde su estado inicial hacia una forma más plena.",
+    "usado": false
+  },
+  {
+    "palabra": "DESCENDIENTES",
+    "pista": "Quienes provienen de alguien a través del linaje.",
+    "usado": false
+  },
+  {
+    "palabra": "DESCONOCIDA",
+    "pista": "La que aún no ha cruzado el umbral de nuestra experiencia o nuestro saber.",
+    "usado": false
+  }
+]
