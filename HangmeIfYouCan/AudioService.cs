@@ -86,8 +86,15 @@ public sealed class AudioService
             player.Volume = volume;
             player.PlaybackEnded += (_, _) =>
             {
-                player.Dispose();
-                stream.Dispose();
+                // No liberar dentro del callback: el plugin sigue usando el MediaPlayer
+                // (IsPlaying) tras lanzar este evento y crashea con ObjectDisposedException.
+                // Se difiere para que el callback nativo termine antes del Dispose.
+                _ = Task.Run(async () =>
+                {
+                    await Task.Delay(500);
+                    try { player.Dispose(); } catch { }
+                    try { stream.Dispose(); } catch { }
+                });
             };
             player.Play();
         }

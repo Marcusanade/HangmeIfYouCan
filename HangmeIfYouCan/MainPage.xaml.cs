@@ -282,25 +282,32 @@ public partial class MainPage : ContentPage
 
     private async Task OnKeyTappedAsync(char letter)
     {
-        if (_game is null || _procesandoTurno) return;
-        if (!_keyViews.TryGetValue(letter, out var borderView) || borderView.InputTransparent) return;
-
-        int livesBefore = _game.GetState().Lives;
-        var state = _game.GuessLetter(letter);
-        if (state.Lives == livesBefore) AudioService.Instance.PlayLetterOk();
-        else                            AudioService.Instance.PlayLetterKo();
-        UpdateUI(state);
-
-        if (!state.Won && !state.Lost && _modoMulti)
+        try
         {
-            bool correct = state.Lives == livesBefore;
-            if (correct)
-                ResetTimer();
-            else
+            if (_game is null || _procesandoTurno) return;
+            if (!_keyViews.TryGetValue(letter, out var borderView) || borderView.InputTransparent) return;
+
+            int livesBefore = _game.GetState().Lives;
+            var state = _game.GuessLetter(letter);
+            if (state.Lives == livesBefore) AudioService.Instance.PlayLetterOk();
+            else                            AudioService.Instance.PlayLetterKo();
+            UpdateUI(state);
+
+            if (!state.Won && !state.Lost && _modoMulti)
             {
-                StopTimer();
-                await CambiarTurnoAsync("¡Fallo!");
+                bool correct = state.Lives == livesBefore;
+                if (correct)
+                    ResetTimer();
+                else
+                {
+                    StopTimer();
+                    await CambiarTurnoAsync("¡Fallo!");
+                }
             }
+        }
+        catch (Exception ex)
+        {
+            System.Diagnostics.Debug.WriteLine($"OnKeyTappedAsync error: {ex}");
         }
     }
 
